@@ -12,8 +12,13 @@ for e in range(0, elements):
     print(list_a[e])
 
 for e in range(0, elements - 1):
-    if (list_a[e] > list_a[e + 1]):
-        list_a[e], list_a[e + 1] = list_a[e + 1], list_a[e] # called 'tuple unpacking', simplifies var. value swapping
+    for e in range(0, elements - 1):
+        if (list_a[e] > list_a[e + 1]):
+            list_a[e], list_a[e + 1] = list_a[e + 1], list_a[e] # called 'tuple unpacking', simplifies var. value swapping
+
+print("Sorted list: ")
+for e in range(0, elements):
+    print(list_a[e])
 
 '''
 list_a = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
