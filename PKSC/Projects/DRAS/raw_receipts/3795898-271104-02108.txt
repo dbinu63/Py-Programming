@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            04/11/2027            
+
+Terminal 001
+Cashier Eric
+Customer Ashley
+
+Soap 500mL        1           8.20
+Shaving cream     1          15.20
+Soap 500mL        1           8.20
+Pomade            3          15.80
+                             47.40
+
+Subtotal                     79.00
+
+* Promotions
+ Buy 3x Pomade, save 25%
+                            -11.85
+
+GST Included                  6.10
+Total                        67.15
+
+Payments
+Cash                          7.70
+EFTPOS                       59.45
+
+     You earnt 6,715 points!      
+
+Reference 3795898:271104:02108
+
+            Drive safe            
+----------------------------------

@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/06/2029            
+
+Terminal 002
+Cashier Kathleen
+
+Broom             1          53.00
+Spray bottle      3          26.80
+                             80.40
+Shaving cream     2          16.60
+                             33.20
+Broom             1          53.00
+
+Subtotal                    219.60
+
+* Promotions
+ 25% off Spray bottle
+                            -20.10
+
+GST Included                 18.14
+Total                       199.50
+
+Payments
+Debit Card                  199.50
+
+Reference 3795898:290628:02861
+
+            Drive safe            
+----------------------------------

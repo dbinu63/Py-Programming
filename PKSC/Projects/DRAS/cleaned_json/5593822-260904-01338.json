@@ -1,0 +1,44 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2026-09-04",
+    "month": 9,
+    "year": 2026,
+    "terminal": "002",
+    "cashier": "Kevin",
+    "customer": null,
+    "reference": "5593822:260904:01338",
+    "items": [
+        {
+            "product": "Waterpolo",
+            "quantity": 2,
+            "unit_price": 14.6,
+            "total_price": 29.2
+        },
+        {
+            "product": "Water bottle",
+            "quantity": 1,
+            "unit_price": 8.6,
+            "total_price": 8.6
+        },
+        {
+            "product": "Waterpolo",
+            "quantity": 1,
+            "unit_price": 14.6,
+            "total_price": 14.6
+        },
+        {
+            "product": "Shampoo",
+            "quantity": 3,
+            "unit_price": 6.2,
+            "total_price": 18.6
+        }
+    ],
+    "subtotal": "71.00",
+    "gst": "5.46",
+    "total": "60.05",
+    "payment": {
+        "Cash": 4.6,
+        "Debit Card": 55.45
+    }
+}

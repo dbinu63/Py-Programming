@@ -1,0 +1,32 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            25/12/2022            
+
+Terminal 001
+Cashier Scott
+Customer Daniel
+
+Cappuccino        3           5.00
+                             15.00
+Cappuccino        2           5.00
+                             10.00
+English muffin    3           6.00
+                             18.00
+
+Subtotal                     43.00
+
+GST Included                  3.91
+Total                        43.00
+
+Payments
+Credit Card                   4.30
+Debit Card                   38.70
+
+     You earnt 4,300 points!      
+
+Reference 2209696:221225:00219
+
+            Thank you             
+----------------------------------

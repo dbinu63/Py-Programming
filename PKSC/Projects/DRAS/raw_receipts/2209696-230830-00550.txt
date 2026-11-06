@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            30/08/2023            
+
+Terminal 001
+Cashier Leslie
+
+Ham toastie       3           6.90
+                             20.70
+Latte             3           4.20
+                             12.60
+English muffin    3           6.30
+                             18.90
+Mocha             2           3.70
+                              7.40
+
+Subtotal                     59.60
+
+* Promotions
+ 10% off English muffin
+                             -1.89
+ Buy 3x Ham toastie, save 10%
+                             -2.07
+
+GST Included                  5.06
+Total                        55.64
+
+Payments
+Cash                         37.15
+Gift Card                    18.49
+
+Reference 2209696:230830:00550
+
+            Thank you             
+----------------------------------

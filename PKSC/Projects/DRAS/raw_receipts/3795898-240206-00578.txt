@@ -1,0 +1,26 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            06/02/2024            
+
+Terminal 001
+Cashier Eric
+
+Face wipes        1          10.60
+Razorblade        1          16.60
+Face wipes        2          10.60
+                             21.20
+
+Subtotal                     48.40
+
+GST Included                  4.40
+Total                        48.40
+
+Payments
+Debit Card                   48.40
+
+Reference 3795898:240206:00578
+
+            Thank you             
+----------------------------------

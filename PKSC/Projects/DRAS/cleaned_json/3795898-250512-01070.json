@@ -1,0 +1,26 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2025-05-12",
+    "month": 5,
+    "year": 2025,
+    "terminal": "001",
+    "cashier": "Eric",
+    "customer": "Lindsey",
+    "reference": "3795898:250512:01070",
+    "items": [
+        {
+            "product": "Scissors",
+            "quantity": 1,
+            "unit_price": 39.8,
+            "total_price": 39.8
+        }
+    ],
+    "subtotal": "54.80",
+    "gst": "4.98",
+    "total": "54.80",
+    "payment": {
+        "Cash": 39.35,
+        "Loyalty Points": 15.45
+    }
+}

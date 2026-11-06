@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/03/2027            
+
+Terminal 005
+Cashier Scott
+
+Razorblade        3          18.80
+                             56.40
+Soap 500mL        3           8.20
+                             24.60
+Pomade            3          15.80
+                             47.40
+Spray bottle      1          24.40
+
+Subtotal                    152.80
+
+* Promotions
+ Buy 3x Pomade, save 25%
+                            -11.85
+
+GST Included                 12.81
+Total                       140.95
+
+Payments
+BPAY                        140.95
+
+Reference 3795898:270311:01825
+
+            Drive safe            
+----------------------------------

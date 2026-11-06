@@ -1,0 +1,40 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            16/01/2029            
+
+Terminal 005
+Cashier Barbara
+Customer Lisa
+
+Pomade            3          17.60
+                             52.80
+Spray bottle      3          26.80
+                             80.40
+Pomade            3          17.60
+                             52.80
+Hair tonic        2          16.60
+                             33.20
+
+Subtotal                    219.20
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                            -10.56
+ 25% off Spray bottle
+                            -20.10
+
+GST Included                 17.14
+Total                       188.54
+
+Payments
+Cash                         89.70
+EFTPOS                       98.84
+
+     You earnt 18,854 points!     
+
+Reference 3795898:290116:02657
+
+           Stay healthy           
+----------------------------------

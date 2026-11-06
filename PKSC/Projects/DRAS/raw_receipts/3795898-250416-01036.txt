@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            16/04/2025            
+
+Terminal 005
+Cashier Eric
+Customer Scott
+
+Cape grey         3          51.00
+                            153.00
+Clippers kit      2          56.50
+                            113.00
+Razorblade        1          17.20
+
+Subtotal                    283.20
+
+* Promotions
+ Buy 2x Clippers kit, save 15%
+                            -16.95
+ Buy 2x Cape grey, save 30%
+                            -30.60
+
+GST Included                 21.42
+Total                       235.65
+
+Payments
+Credit Card                 235.65
+
+     You earnt 23,565 points!     
+
+Reference 3795898:250416:01036
+
+     Pleasure doing business      
+----------------------------------

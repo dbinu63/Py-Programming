@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            02/11/2022            
+
+Terminal 005
+Cashier Kevin
+Customer Samantha
+
+Infant lesson     3          15.00
+                             45.00
+Aquaerobics       2          12.00
+                             24.00
+Shampoo           1           5.00
+Infant lesson     1          15.00
+
+Subtotal                     89.00
+
+GST Included                  8.09
+Total                        89.00
+
+Payments
+Credit Card                  80.10
+Debit Card                    8.90
+
+     You earnt 8,900 points!      
+
+Reference 5593822:221102:00089
+
+           Stay healthy           
+----------------------------------

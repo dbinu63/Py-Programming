@@ -1,0 +1,44 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2025-08-14",
+    "month": 8,
+    "year": 2025,
+    "terminal": "005",
+    "cashier": "Donna",
+    "customer": "William",
+    "reference": "5593822:250814:00977",
+    "items": [
+        {
+            "product": "Swim goggles",
+            "quantity": 1,
+            "unit_price": 22.8,
+            "total_price": 22.8
+        },
+        {
+            "product": "Rescue training",
+            "quantity": 2,
+            "unit_price": 57.0,
+            "total_price": 114.0
+        },
+        {
+            "product": "Waterpolo",
+            "quantity": 2,
+            "unit_price": 13.8,
+            "total_price": 27.6
+        },
+        {
+            "product": "Waterpolo",
+            "quantity": 2,
+            "unit_price": 13.8,
+            "total_price": 27.6
+        }
+    ],
+    "subtotal": "192.00",
+    "gst": "16.95",
+    "total": "186.48",
+    "payment": {
+        "Loyalty Points": 163.2,
+        "Gift Card": 23.28
+    }
+}

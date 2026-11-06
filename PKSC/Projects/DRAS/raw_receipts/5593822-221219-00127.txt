@@ -1,0 +1,26 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            19/12/2022            
+
+Terminal 003
+Cashier Kevin
+
+Aquaerobics       3          12.00
+                             36.00
+Water bottle      1           7.00
+Aquaerobics       1          12.00
+
+Subtotal                     55.00
+
+GST Included                  5.00
+Total                        55.00
+
+Payments
+Debit Card                   55.00
+
+Reference 5593822:221219:00127
+
+           See you soon           
+----------------------------------

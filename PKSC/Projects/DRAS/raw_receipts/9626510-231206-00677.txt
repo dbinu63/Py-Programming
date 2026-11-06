@@ -1,0 +1,35 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            06/12/2023            
+
+Terminal 004
+Cashier Ronald
+Customer Mary
+
+Soft drink 2L     2           4.80
+                              9.60
+Soft drink 2L     2           4.80
+                              9.60
+Three meat        3          16.80
+                             50.40
+Soft drink 2L     3           4.80
+                             14.40
+
+Subtotal                     84.00
+
+* Promotions
+ 5% off Three meat
+                             -2.52
+
+GST Included                  7.41
+Total                        81.48
+
+Payments
+Loyalty Points               81.48
+
+Reference 9626510:231206:00677
+
+              Cheers              
+----------------------------------

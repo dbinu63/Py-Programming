@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            06/12/2022            
+
+Terminal 001
+Cashier Jonathon
+Customer Darren
+
+Soap 500mL        3           6.50
+                             19.50
+
+Subtotal                     19.50
+
+GST Included                  1.77
+Total                        19.50
+
+Payments
+Cash                         19.50
+
+     You earnt 1,950 points!      
+
+Reference 3795898:221206:00150
+
+           See you soon           
+----------------------------------

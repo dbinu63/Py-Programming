@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            13/12/2023            
+
+Terminal 002
+Cashier Eric
+
+Razorblade        1          15.80
+Spray bottle      2          20.60
+                             41.20
+Soap 500mL        2           6.90
+                             13.80
+Cape grey         1          46.80
+
+Subtotal                    117.60
+
+* Promotions
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+
+GST Included                 10.57
+Total                       116.22
+
+Payments
+Credit Card                  69.73
+Gift Card                    46.49
+
+Reference 3795898:231213:00522
+
+              Cheers              
+----------------------------------

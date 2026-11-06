@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            09/05/2023            
+
+Terminal 003
+Cashier Jonathon
+Customer David
+
+Cape grey         2          46.80
+                             93.60
+Hairspray         2          26.20
+                             52.40
+
+Subtotal                    146.00
+
+* Promotions
+ Buy 2x Cape grey, save 15%
+                            -14.04
+ Buy 2x Hairspray, save 25%
+                            -13.10
+
+GST Included                 10.81
+Total                       118.86
+
+Payments
+BPAY                        118.86
+
+     You earnt 11,886 points!     
+
+Reference 3795898:230509:00302
+
+     Pleasure doing business      
+----------------------------------

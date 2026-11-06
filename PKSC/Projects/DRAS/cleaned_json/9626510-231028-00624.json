@@ -1,0 +1,38 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2023-10-28",
+    "month": 10,
+    "year": 2023,
+    "terminal": "002",
+    "cashier": "Tara",
+    "customer": "Steven",
+    "reference": "9626510:231028:00624",
+    "items": [
+        {
+            "product": "Just Cheese",
+            "quantity": 2,
+            "unit_price": 12.6,
+            "total_price": 25.2
+        },
+        {
+            "product": "Cheese bread",
+            "quantity": 3,
+            "unit_price": 6.3,
+            "total_price": 18.9
+        },
+        {
+            "product": "Cheese bread",
+            "quantity": 1,
+            "unit_price": 6.3,
+            "total_price": 6.3
+        }
+    ],
+    "subtotal": "57.80",
+    "gst": "4.68",
+    "total": "51.50",
+    "payment": {
+        "Loyalty Points": 11.2,
+        "Gift Card": 40.3
+    }
+}

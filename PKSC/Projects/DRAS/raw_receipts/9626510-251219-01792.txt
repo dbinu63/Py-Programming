@@ -1,0 +1,35 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            19/12/2025            
+
+Terminal 001
+Cashier Amber
+
+Garlic bread      3           6.90
+                             20.70
+Hawaiian          3          13.80
+                             41.40
+Spicy chicken     1          15.00
+Hawaiian          2          13.80
+                             27.60
+
+Subtotal                    104.70
+
+* Promotions
+ Buy 3x Garlic bread, save 30%
+                             -6.21
+ Buy 2x Hawaiian, save 30%
+                            -16.56
+
+GST Included                  7.45
+Total                        81.93
+
+Payments
+Debit Card                   81.93
+
+Reference 9626510:251219:01792
+
+            Thank you             
+----------------------------------

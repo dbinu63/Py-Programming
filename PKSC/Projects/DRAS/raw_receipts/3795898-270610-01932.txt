@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/06/2027            
+
+Terminal 002
+Cashier Scott
+Customer Carol
+
+Clippers kit      1          61.50
+Shaving cream     3          15.20
+                             45.60
+Cape white        2          56.00
+                            112.00
+Clippers kit      2          61.50
+                            123.00
+
+Subtotal                    342.10
+
+* Promotions
+ Buy 2x Cape white, save 10%
+                            -11.20
+
+GST Included                 30.08
+Total                       330.90
+
+Payments
+EFTPOS                      330.90
+
+     You earnt 33,090 points!     
+
+Reference 3795898:270610:01932
+
+            Thank you             
+----------------------------------

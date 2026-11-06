@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            19/05/2025            
+
+Terminal 005
+Cashier Jonathon
+Customer Michaela
+
+Clippers kit      3          56.50
+                            169.50
+Razorblade        2          17.20
+                             34.40
+
+Subtotal                    203.90
+
+* Promotions
+ Buy 2x Clippers kit, save 15%
+                            -16.95
+ Buy 2x Razorblade, save 5%
+                             -1.72
+
+GST Included                 16.84
+Total                       185.23
+
+Payments
+BPAY                        185.23
+
+     You earnt 18,523 points!     
+
+Reference 3795898:250519:01074
+
+     Pleasure doing business      
+----------------------------------

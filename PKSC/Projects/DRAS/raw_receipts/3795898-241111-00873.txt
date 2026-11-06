@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/11/2024            
+
+Terminal 004
+Cashier Jonathon
+
+Broom             3          43.20
+                            129.60
+Hairspray         1          27.40
+Razorblade        1          16.60
+
+Subtotal                    173.60
+
+GST Included                 15.78
+Total                       173.60
+
+Payments
+Debit Card                   34.72
+EFTPOS                      138.88
+
+Reference 3795898:241111:00873
+
+              Cheers              
+----------------------------------

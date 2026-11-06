@@ -1,0 +1,44 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2025-10-10",
+    "month": 10,
+    "year": 2025,
+    "terminal": "001",
+    "cashier": "Leslie",
+    "customer": "Ashley",
+    "reference": "2209696:251010:01662",
+    "items": [
+        {
+            "product": "Brownie",
+            "quantity": 3,
+            "unit_price": 5.2,
+            "total_price": 15.6
+        },
+        {
+            "product": "Cupcake",
+            "quantity": 1,
+            "unit_price": 8.1,
+            "total_price": 8.1
+        },
+        {
+            "product": "Salmon bagel",
+            "quantity": 1,
+            "unit_price": 13.8,
+            "total_price": 13.8
+        },
+        {
+            "product": "Mocha",
+            "quantity": 2,
+            "unit_price": 4.1,
+            "total_price": 8.2
+        }
+    ],
+    "subtotal": "45.70",
+    "gst": "4.04",
+    "total": "44.47",
+    "payment": {
+        "Cash": 43.35,
+        "Loyalty Points": 1.12
+    }
+}

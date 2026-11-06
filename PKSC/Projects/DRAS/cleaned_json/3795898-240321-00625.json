@@ -1,0 +1,25 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2024-03-21",
+    "month": 3,
+    "year": 2024,
+    "terminal": "003",
+    "cashier": "Eric",
+    "customer": null,
+    "reference": "3795898:240321:00625",
+    "items": [
+        {
+            "product": "Face wipes",
+            "quantity": 2,
+            "unit_price": 10.6,
+            "total_price": 21.2
+        }
+    ],
+    "subtotal": "35.60",
+    "gst": "3.24",
+    "total": "35.60",
+    "payment": {
+        "Gift Card": 35.6
+    }
+}

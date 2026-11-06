@@ -1,0 +1,37 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2022-09-13",
+    "month": 9,
+    "year": 2022,
+    "terminal": "004",
+    "cashier": "Anthony",
+    "customer": "Darren",
+    "reference": "3795898:220913:00066",
+    "items": [
+        {
+            "product": "Cape grey",
+            "quantity": 3,
+            "unit_price": 44.5,
+            "total_price": 133.5
+        },
+        {
+            "product": "Classic brush",
+            "quantity": 2,
+            "unit_price": 14.0,
+            "total_price": 28.0
+        },
+        {
+            "product": "Face wipes",
+            "quantity": 1,
+            "unit_price": 9.5,
+            "total_price": 9.5
+        }
+    ],
+    "subtotal": "171.00",
+    "gst": "15.55",
+    "total": "171.00",
+    "payment": {
+        "Credit Card": 171.0
+    }
+}

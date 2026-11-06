@@ -1,0 +1,35 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            19/05/2028            
+
+Terminal 001
+Cashier Nathaniel
+Customer David
+
+Cupcake           1           9.30
+Almond croissant  2           8.60
+                             17.20
+Almond croissant  1           8.60
+Long Black        1           4.80
+
+Subtotal                     39.90
+
+* Promotions
+ 30% off Long Black
+                             -1.44
+
+GST Included                  3.50
+Total                        38.46
+
+Payments
+Gift Card                    34.61
+BPAY                          3.85
+
+     You earnt 3,846 points!      
+
+Reference 2209696:280519:03276
+
+              Cheers              
+----------------------------------

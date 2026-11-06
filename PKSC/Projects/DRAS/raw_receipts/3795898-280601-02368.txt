@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            01/06/2028            
+
+Terminal 001
+Cashier Natasha
+Customer Rebecca
+
+Soap 500mL        3           8.60
+                             25.80
+Hairwax           1          16.60
+Cape white        2          58.50
+                            117.00
+Cape white        3          58.50
+                            175.50
+
+Subtotal                    334.90
+
+GST Included                 30.45
+Total                       334.90
+
+Payments
+Cash                        334.85
+
+     You earnt 33,485 points!     
+
+Reference 3795898:280601:02368
+
+           Stay healthy           
+----------------------------------

@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            26/10/2028            
+
+Terminal 003
+Cashier Donna
+Customer Samantha
+
+Shampoo           1           6.70
+Aquaerobics       3          15.80
+                             47.40
+
+Subtotal                     54.10
+
+* Promotions
+ Buy 3x Aquaerobics, save 20%
+                             -9.48
+
+GST Included                  4.06
+Total                        44.62
+
+Payments
+BPAY                         35.70
+EFTPOS                        8.92
+
+     You earnt 4,462 points!      
+
+Reference 5593822:281026:02145
+
+            Drive safe            
+----------------------------------

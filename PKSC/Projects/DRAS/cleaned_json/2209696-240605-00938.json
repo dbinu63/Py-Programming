@@ -1,0 +1,38 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2024-06-05",
+    "month": 6,
+    "year": 2024,
+    "terminal": "002",
+    "cashier": "Scott",
+    "customer": "Leslie",
+    "reference": "2209696:240605:00938",
+    "items": [
+        {
+            "product": "Salmon bagel",
+            "quantity": 2,
+            "unit_price": 13.2,
+            "total_price": 26.4
+        },
+        {
+            "product": "English muffin",
+            "quantity": 3,
+            "unit_price": 6.6,
+            "total_price": 19.8
+        },
+        {
+            "product": "Glazed donut",
+            "quantity": 2,
+            "unit_price": 4.4,
+            "total_price": 8.8
+        }
+    ],
+    "subtotal": "55.00",
+    "gst": "4.52",
+    "total": "49.72",
+    "payment": {
+        "BPAY": 4.97,
+        "Gift Card": 44.75
+    }
+}

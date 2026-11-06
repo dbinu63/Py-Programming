@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            12/01/2029            
+
+Terminal 001
+Cashier Carlos
+Customer Lisa
+
+Pomade            1          17.60
+
+Subtotal                     17.60
+
+GST Included                  1.60
+Total                        17.60
+
+Payments
+Cash                          0.25
+EFTPOS                       17.35
+
+     You earnt 1,760 points!      
+
+Reference 3795898:290112:02650
+
+            Drive safe            
+----------------------------------

@@ -1,0 +1,43 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2026-03-19",
+    "month": 3,
+    "year": 2026,
+    "terminal": "002",
+    "cashier": "Scott",
+    "customer": null,
+    "reference": "2209696:260319:01920",
+    "items": [
+        {
+            "product": "Mocha",
+            "quantity": 2,
+            "unit_price": 4.4,
+            "total_price": 8.8
+        },
+        {
+            "product": "Cupcake",
+            "quantity": 3,
+            "unit_price": 8.6,
+            "total_price": 25.8
+        },
+        {
+            "product": "Cupcake",
+            "quantity": 2,
+            "unit_price": 8.6,
+            "total_price": 17.2
+        },
+        {
+            "product": "Mocha",
+            "quantity": 2,
+            "unit_price": 4.4,
+            "total_price": 8.8
+        }
+    ],
+    "subtotal": "60.60",
+    "gst": "4.88",
+    "total": "53.66",
+    "payment": {
+        "Debit Card": 53.66
+    }
+}

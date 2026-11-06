@@ -1,0 +1,44 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2025-01-09",
+    "month": 1,
+    "year": 2025,
+    "terminal": "005",
+    "cashier": "Kathryn",
+    "customer": "Ashley",
+    "reference": "3795898:250109:00934",
+    "items": [
+        {
+            "product": "Scissors",
+            "quantity": 2,
+            "unit_price": 39.8,
+            "total_price": 79.6
+        },
+        {
+            "product": "Broom",
+            "quantity": 1,
+            "unit_price": 44.8,
+            "total_price": 44.8
+        },
+        {
+            "product": "Clippers kit",
+            "quantity": 3,
+            "unit_price": 56.5,
+            "total_price": 169.5
+        },
+        {
+            "product": "Razorblade",
+            "quantity": 2,
+            "unit_price": 17.2,
+            "total_price": 34.4
+        }
+    ],
+    "subtotal": "328.30",
+    "gst": "26.70",
+    "total": "293.71",
+    "payment": {
+        "Loyalty Points": 17.8,
+        "Debit Card": 275.91
+    }
+}

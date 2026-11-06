@@ -1,0 +1,25 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/09/2023            
+
+Terminal 001
+Cashier Jonathon
+
+Cape grey         1          46.80
+Hairwax           2          13.20
+                             26.40
+
+Subtotal                     73.20
+
+GST Included                  6.65
+Total                        73.20
+
+Payments
+Debit Card                   73.20
+
+Reference 3795898:230911:00428
+
+           Stay healthy           
+----------------------------------

@@ -1,0 +1,35 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            28/10/2026            
+
+Terminal 002
+Cashier Amber
+Customer Mary
+
+Hawaiian          3          14.60
+                             43.80
+Spicy chicken     2          15.80
+                             31.60
+Chips             2           7.30
+                             14.60
+
+Subtotal                     90.00
+
+* Promotions
+ Buy 2x Chips, save 5%
+                             -0.73
+
+GST Included                  8.12
+Total                        89.27
+
+Payments
+EFTPOS                       89.27
+
+     You earnt 8,927 points!      
+
+Reference 9626510:261028:02325
+
+     Pleasure doing business      
+----------------------------------

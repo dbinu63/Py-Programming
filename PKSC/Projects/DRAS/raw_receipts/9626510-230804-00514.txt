@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            04/08/2023            
+
+Terminal 001
+Cashier Tara
+Customer Robert
+
+Cheese bread      2           6.30
+                             12.60
+Soft drink 2L     1           4.80
+Three meat        1          16.80
+
+Subtotal                     34.20
+
+* Promotions
+ 5% off Three meat
+                             -0.84
+
+GST Included                  3.03
+Total                        33.36
+
+Payments
+BPAY                         33.36
+
+     You earnt 3,336 points!      
+
+Reference 9626510:230804:00514
+
+           Stay healthy           
+----------------------------------

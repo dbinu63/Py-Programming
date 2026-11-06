@@ -1,0 +1,38 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            09/02/2023            
+
+Terminal 001
+Cashier Leslie
+Customer Marvin
+
+English muffin    1           6.30
+English muffin    3           6.30
+                             18.90
+Ham bagel         2          10.60
+                             21.20
+Ham toastie       2           6.90
+                             13.80
+
+Subtotal                     60.20
+
+* Promotions
+ 10% off English muffin
+                             -2.52
+ Buy 2x Ham bagel, save 20%
+                             -4.24
+
+GST Included                  4.86
+Total                        53.44
+
+Payments
+Credit Card                  53.44
+
+     You earnt 5,344 points!      
+
+Reference 2209696:230209:00278
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,44 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2029-04-27",
+    "month": 4,
+    "year": 2029,
+    "terminal": "004",
+    "cashier": "Derek",
+    "customer": "Ashley",
+    "reference": "5593822:290427:02336",
+    "items": [
+        {
+            "product": "Shampoo",
+            "quantity": 2,
+            "unit_price": 7.1,
+            "total_price": 14.2
+        },
+        {
+            "product": "Aquaerobics",
+            "quantity": 3,
+            "unit_price": 16.6,
+            "total_price": 49.8
+        },
+        {
+            "product": "Towel",
+            "quantity": 2,
+            "unit_price": 20.6,
+            "total_price": 41.2
+        },
+        {
+            "product": "Shampoo",
+            "quantity": 3,
+            "unit_price": 7.1,
+            "total_price": 21.3
+        }
+    ],
+    "subtotal": "126.50",
+    "gst": "9.52",
+    "total": "104.68",
+    "payment": {
+        "Loyalty Points": 30.75,
+        "Debit Card": 73.93
+    }
+}

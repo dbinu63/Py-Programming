@@ -1,0 +1,44 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2029-05-24",
+    "month": 5,
+    "year": 2029,
+    "terminal": "002",
+    "cashier": "Justin",
+    "customer": "Lindsey",
+    "reference": "3795898:290524:02822",
+    "items": [
+        {
+            "product": "Spray bottle",
+            "quantity": 2,
+            "unit_price": 26.8,
+            "total_price": 53.6
+        },
+        {
+            "product": "Pomade",
+            "quantity": 2,
+            "unit_price": 17.6,
+            "total_price": 35.2
+        },
+        {
+            "product": "Hairwax",
+            "quantity": 2,
+            "unit_price": 17.6,
+            "total_price": 35.2
+        },
+        {
+            "product": "Hair tonic",
+            "quantity": 3,
+            "unit_price": 16.6,
+            "total_price": 49.8
+        }
+    ],
+    "subtotal": "173.80",
+    "gst": "13.46",
+    "total": "148.08",
+    "payment": {
+        "BPAY": 118.46,
+        "Credit Card": 29.62
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2028-08-01",
+    "month": 8,
+    "year": 2028,
+    "terminal": "003",
+    "cashier": "Kevin",
+    "customer": "Tammy",
+    "reference": "5593822:280801:02041",
+    "items": [
+        {
+            "product": "Aquaerobics",
+            "quantity": 1,
+            "unit_price": 15.8,
+            "total_price": 15.8
+        },
+        {
+            "product": "Sync diving",
+            "quantity": 2,
+            "unit_price": 25.8,
+            "total_price": 51.6
+        },
+        {
+            "product": "Infant lesson",
+            "quantity": 1,
+            "unit_price": 19.6,
+            "total_price": 19.6
+        },
+        {
+            "product": "Hot chips",
+            "quantity": 2,
+            "unit_price": 6.7,
+            "total_price": 13.4
+        }
+    ],
+    "subtotal": "100.40",
+    "gst": "7.95",
+    "total": "87.50",
+    "payment": {
+        "Gift Card": 61.25,
+        "Credit Card": 26.25
+    }
+}

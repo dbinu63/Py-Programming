@@ -1,0 +1,37 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2029-05-17",
+    "month": 5,
+    "year": 2029,
+    "terminal": "005",
+    "cashier": "Robert",
+    "customer": "Rebecca",
+    "reference": "3795898:290517:02812",
+    "items": [
+        {
+            "product": "Hairwax",
+            "quantity": 1,
+            "unit_price": 17.6,
+            "total_price": 17.6
+        },
+        {
+            "product": "Hairwax",
+            "quantity": 2,
+            "unit_price": 17.6,
+            "total_price": 35.2
+        },
+        {
+            "product": "Cape white",
+            "quantity": 2,
+            "unit_price": 61.5,
+            "total_price": 123.0
+        }
+    ],
+    "subtotal": "175.80",
+    "gst": "14.78",
+    "total": "162.60",
+    "payment": {
+        "Gift Card": 162.6
+    }
+}

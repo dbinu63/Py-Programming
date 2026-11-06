@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            04/01/2028            
+
+Terminal 005
+Cashier Kevin
+
+Shampoo           2           6.70
+                             13.40
+Shampoo           1           6.70
+Sync diving       1          25.80
+Egg+Bac burger    1           6.70
+
+Subtotal                     52.60
+
+* Promotions
+ 25% off Sync diving
+                             -6.45
+
+GST Included                  4.20
+Total                        46.15
+
+Payments
+Gift Card                    18.46
+Debit Card                   27.69
+
+Reference 5593822:280104:01844
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            26/02/2029            
+
+Terminal 004
+Cashier Carlos
+
+Shaving cream     2          16.60
+                             33.20
+Spray bottle      3          26.80
+                             80.40
+Spray bottle      2          26.80
+                             53.60
+
+Subtotal                    167.20
+
+* Promotions
+ 25% off Spray bottle
+                            -33.50
+
+GST Included                 12.15
+Total                       133.70
+
+Payments
+Cash                         90.50
+Debit Card                   43.20
+
+Reference 3795898:290226:02706
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,37 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            14/05/2025            
+
+Terminal 005
+Cashier Kevin
+Customer William
+
+Swim cap          3          11.60
+                             34.80
+Rescue training   3          57.00
+                            171.00
+Rescue training   3          57.00
+                            171.00
+Waterpolo         3          13.80
+                             41.40
+
+Subtotal                    418.20
+
+* Promotions
+ 10% off Waterpolo
+                             -4.14
+
+GST Included                 37.64
+Total                       414.06
+
+Payments
+Gift Card                   414.06
+
+     You earnt 41,406 points!     
+
+Reference 5593822:250514:00908
+
+              Cheers              
+----------------------------------

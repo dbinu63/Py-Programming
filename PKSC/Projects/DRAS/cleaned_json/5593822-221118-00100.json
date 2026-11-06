@@ -1,0 +1,43 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2022-11-18",
+    "month": 11,
+    "year": 2022,
+    "terminal": "002",
+    "cashier": "Kevin",
+    "customer": "Steven",
+    "reference": "5593822:221118:00100",
+    "items": [
+        {
+            "product": "Water bottle",
+            "quantity": 3,
+            "unit_price": 7.0,
+            "total_price": 21.0
+        },
+        {
+            "product": "Infant lesson",
+            "quantity": 1,
+            "unit_price": 15.0,
+            "total_price": 15.0
+        },
+        {
+            "product": "Infant lesson",
+            "quantity": 3,
+            "unit_price": 15.0,
+            "total_price": 45.0
+        },
+        {
+            "product": "Casual access",
+            "quantity": 2,
+            "unit_price": 6.0,
+            "total_price": 12.0
+        }
+    ],
+    "subtotal": "93.00",
+    "gst": "8.45",
+    "total": "93.00",
+    "payment": {
+        "EFTPOS": 93.0
+    }
+}

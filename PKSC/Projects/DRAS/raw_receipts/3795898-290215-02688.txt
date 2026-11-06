@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            15/02/2029            
+
+Terminal 003
+Cashier Carlos
+
+Cape white        3          61.50
+                            184.50
+Pomade            3          17.60
+                             52.80
+Pomade            3          17.60
+                             52.80
+
+Subtotal                    290.10
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                            -10.56
+
+GST Included                 25.41
+Total                       279.54
+
+Payments
+BPAY                        279.54
+
+Reference 3795898:290215:02688
+
+              Cheers              
+----------------------------------

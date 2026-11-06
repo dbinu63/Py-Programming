@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            23/05/2026            
+
+Terminal 003
+Cashier Kevin
+
+Aquaerobics       2          14.60
+                             29.20
+Hot chips         1           6.20
+Shampoo           1           6.20
+Aquaerobics       3          14.60
+                             43.80
+
+Subtotal                     85.40
+
+GST Included                  7.76
+Total                        85.40
+
+Payments
+Cash                         84.45
+BPAY                          0.95
+
+Reference 5593822:260523:01251
+
+              Cheers              
+----------------------------------

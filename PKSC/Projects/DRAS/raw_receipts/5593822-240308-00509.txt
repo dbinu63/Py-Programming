@@ -1,0 +1,38 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            08/03/2024            
+
+Terminal 003
+Cashier Jennifer
+Customer Derek
+
+Adult class       2          18.80
+                             37.60
+Egg+Bac burger    3           5.60
+                             16.80
+Sync diving       2          22.00
+                             44.00
+
+Subtotal                     98.40
+
+* Promotions
+ Buy 2x Sync diving, save 30%
+                            -13.20
+ Buy 2x Adult class, save 10%
+                             -3.76
+
+GST Included                  7.40
+Total                        81.44
+
+Payments
+EFTPOS                       48.86
+Credit Card                  32.58
+
+     You earnt 8,144 points!      
+
+Reference 5593822:240308:00509
+
+           Stay healthy           
+----------------------------------

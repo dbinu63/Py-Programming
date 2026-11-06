@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/09/2025            
+
+Terminal 001
+Cashier Jonathon
+Customer Valerie
+
+Cape grey         2          51.00
+                            102.00
+Broom             3          44.80
+                            134.40
+
+Subtotal                    236.40
+
+* Promotions
+ Buy 2x Cape grey, save 30%
+                            -30.60
+
+GST Included                 18.71
+Total                       205.80
+
+Payments
+Debit Card                  205.80
+
+     You earnt 20,580 points!     
+
+Reference 3795898:250910:01204
+
+     Pleasure doing business      
+----------------------------------

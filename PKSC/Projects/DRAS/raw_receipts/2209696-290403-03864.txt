@@ -1,0 +1,36 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            03/04/2029            
+
+Terminal 001
+Cashier Hector
+Customer Marvin
+
+Long Black        1           5.10
+English muffin    3           8.30
+                             24.90
+Cupcake           2           9.80
+                             19.60
+Flat white        3           6.30
+                             18.90
+
+Subtotal                     68.50
+
+* Promotions
+ Buy 2x Cupcake, save 25%
+                             -4.90
+
+GST Included                  5.78
+Total                        63.60
+
+Payments
+BPAY                         63.60
+
+     You earnt 6,360 points!      
+
+Reference 2209696:290403:03864
+
+     Pleasure doing business      
+----------------------------------

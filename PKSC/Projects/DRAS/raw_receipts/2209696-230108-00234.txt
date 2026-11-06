@@ -1,0 +1,34 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            08/01/2023            
+
+Terminal 005
+Cashier Leslie
+Customer Marvin
+
+Ham bagel         1          10.60
+Cappuccino        3           5.30
+                             15.90
+Ham toastie       2           6.90
+                             13.80
+
+Subtotal                     40.30
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -1.06
+
+GST Included                  3.57
+Total                        39.24
+
+Payments
+BPAY                         39.24
+
+     You earnt 3,924 points!      
+
+Reference 2209696:230108:00234
+
+           See you soon           
+----------------------------------

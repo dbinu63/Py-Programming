@@ -1,0 +1,37 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            05/07/2024            
+
+Terminal 001
+Cashier Ronald
+Customer Scott
+
+Cheese bread      3           6.60
+                             19.80
+Garlic prawn      2          17.60
+                             35.20
+Garlic prawn      2          17.60
+                             35.20
+Hawaiian          3          13.20
+                             39.60
+
+Subtotal                    129.80
+
+* Promotions
+ Buy 2x Cheese bread, save 5%
+                             -0.66
+
+GST Included                 11.74
+Total                       129.14
+
+Payments
+Gift Card                   129.14
+
+     You earnt 12,914 points!     
+
+Reference 9626510:240705:00983
+
+           Stay healthy           
+----------------------------------

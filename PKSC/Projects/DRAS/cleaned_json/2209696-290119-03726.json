@@ -1,0 +1,32 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-01-19",
+    "month": 1,
+    "year": 2029,
+    "terminal": "003",
+    "cashier": "Lauren",
+    "customer": null,
+    "reference": "2209696:290119:03726",
+    "items": [
+        {
+            "product": "Flat white",
+            "quantity": 2,
+            "unit_price": 6.3,
+            "total_price": 12.6
+        },
+        {
+            "product": "Ham toastie",
+            "quantity": 1,
+            "unit_price": 9.1,
+            "total_price": 9.1
+        }
+    ],
+    "subtotal": "21.70",
+    "gst": "1.97",
+    "total": "21.70",
+    "payment": {
+        "Cash": 0.9,
+        "Debit Card": 20.8
+    }
+}

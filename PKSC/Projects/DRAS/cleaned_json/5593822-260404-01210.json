@@ -1,0 +1,38 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2026-04-04",
+    "month": 4,
+    "year": 2026,
+    "terminal": "002",
+    "cashier": "Kevin",
+    "customer": "Jennifer",
+    "reference": "5593822:260404:01210",
+    "items": [
+        {
+            "product": "Swim cap",
+            "quantity": 2,
+            "unit_price": 12.4,
+            "total_price": 24.8
+        },
+        {
+            "product": "Hot chips",
+            "quantity": 2,
+            "unit_price": 6.2,
+            "total_price": 12.4
+        },
+        {
+            "product": "Swim cap",
+            "quantity": 1,
+            "unit_price": 12.4,
+            "total_price": 12.4
+        }
+    ],
+    "subtotal": "49.60",
+    "gst": "3.95",
+    "total": "43.40",
+    "payment": {
+        "Debit Card": 30.38,
+        "EFTPOS": 13.02
+    }
+}

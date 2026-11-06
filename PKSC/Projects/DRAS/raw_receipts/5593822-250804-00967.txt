@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            04/08/2025            
+
+Terminal 002
+Cashier Kevin
+Customer Heather
+
+Swim goggles      2          22.80
+                             45.60
+Swim cap          1          11.60
+Hot chips         3           5.80
+                             17.40
+Swim goggles      1          22.80
+
+Subtotal                     97.40
+
+GST Included                  8.85
+Total                        97.40
+
+Payments
+Cash                         97.40
+
+     You earnt 9,740 points!      
+
+Reference 5593822:250804:00967
+
+              Cheers              
+----------------------------------

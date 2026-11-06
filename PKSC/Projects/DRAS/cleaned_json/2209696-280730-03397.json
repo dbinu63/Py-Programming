@@ -1,0 +1,38 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2028-07-30",
+    "month": 7,
+    "year": 2028,
+    "terminal": "003",
+    "cashier": "Diane",
+    "customer": null,
+    "reference": "2209696:280730:03397",
+    "items": [
+        {
+            "product": "English muffin",
+            "quantity": 1,
+            "unit_price": 7.9,
+            "total_price": 7.9
+        },
+        {
+            "product": "Salmon bagel",
+            "quantity": 1,
+            "unit_price": 15.8,
+            "total_price": 15.8
+        },
+        {
+            "product": "Flat white",
+            "quantity": 3,
+            "unit_price": 6.0,
+            "total_price": 18.0
+        }
+    ],
+    "subtotal": "41.70",
+    "gst": "3.79",
+    "total": "41.70",
+    "payment": {
+        "Cash": 41.05,
+        "Gift Card": 0.65
+    }
+}

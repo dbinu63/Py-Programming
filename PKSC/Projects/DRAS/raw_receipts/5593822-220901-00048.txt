@@ -1,0 +1,30 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            01/09/2022            
+
+Terminal 003
+Cashier Kevin
+Customer Charles
+
+Sync diving       3          20.00
+                             60.00
+Casual access     3           6.00
+                             18.00
+
+Subtotal                     78.00
+
+GST Included                  7.09
+Total                        78.00
+
+Payments
+BPAY                         39.00
+Credit Card                  39.00
+
+     You earnt 7,800 points!      
+
+Reference 5593822:220901:00048
+
+     Pleasure doing business      
+----------------------------------

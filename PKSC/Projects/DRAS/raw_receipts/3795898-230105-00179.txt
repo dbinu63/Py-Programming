@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            05/01/2023            
+
+Terminal 002
+Cashier Anthony
+
+Classic brush     1          14.80
+Razorblade        2          15.80
+                             31.60
+
+Subtotal                     46.40
+
+* Promotions
+ Buy 2x Razorblade, save 20%
+                             -6.32
+
+GST Included                  3.64
+Total                        40.08
+
+Payments
+Cash                          4.80
+Gift Card                    35.28
+
+Reference 3795898:230105:00179
+
+            Drive safe            
+----------------------------------

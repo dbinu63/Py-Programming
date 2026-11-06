@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            08/05/2029            
+
+Terminal 004
+Cashier Patricia
+
+Aquaerobics       2          16.60
+                             33.20
+Shampoo           1           7.10
+Aquaerobics       1          16.60
+Hot chips         1           7.10
+
+Subtotal                     64.00
+
+* Promotions
+ Buy 2x Aquaerobics, save 30%
+                             -9.96
+
+GST Included                  4.91
+Total                        54.04
+
+Payments
+Debit Card                   48.64
+BPAY                          5.40
+
+Reference 5593822:290508:02340
+
+            Drive safe            
+----------------------------------

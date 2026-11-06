@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/11/2024            
+
+Terminal 002
+Cashier Jennifer
+
+Egg+Bac burger    2           5.60
+                             11.20
+Water bottle      2           7.80
+                             15.60
+Waterpolo         1          13.20
+Sync diving       1          22.00
+
+Subtotal                     62.00
+
+* Promotions
+ 25% off Water bottle
+                             -3.90
+
+GST Included                  5.28
+Total                        58.10
+
+Payments
+Debit Card                   58.10
+
+Reference 5593822:241105:00712
+
+            Drive safe            
+----------------------------------

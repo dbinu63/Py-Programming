@@ -1,0 +1,44 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2029-03-30",
+    "month": 3,
+    "year": 2029,
+    "terminal": "004",
+    "cashier": "Levi",
+    "customer": null,
+    "reference": "9626510:290330:04013",
+    "items": [
+        {
+            "product": "Pancakes",
+            "quantity": 1,
+            "unit_price": 9.8,
+            "total_price": 9.8
+        },
+        {
+            "product": "Ham and Cheese",
+            "quantity": 1,
+            "unit_price": 16.6,
+            "total_price": 16.6
+        },
+        {
+            "product": "Ham and Cheese",
+            "quantity": 3,
+            "unit_price": 16.6,
+            "total_price": 49.8
+        },
+        {
+            "product": "Ham and Cheese",
+            "quantity": 1,
+            "unit_price": 16.6,
+            "total_price": 16.6
+        }
+    ],
+    "subtotal": "92.80",
+    "gst": "8.44",
+    "total": "92.80",
+    "payment": {
+        "EFTPOS": 37.12,
+        "Debit Card": 55.68
+    }
+}

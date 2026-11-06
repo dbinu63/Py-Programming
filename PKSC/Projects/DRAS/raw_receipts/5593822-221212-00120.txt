@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            12/12/2022            
+
+Terminal 003
+Cashier Theresa
+
+Sync diving       2          20.00
+                             40.00
+Sync diving       3          20.00
+                             60.00
+Infant lesson     3          15.00
+                             45.00
+
+Subtotal                    145.00
+
+GST Included                 13.18
+Total                       145.00
+
+Payments
+BPAY                         29.00
+Credit Card                 116.00
+
+Reference 5593822:221212:00120
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,36 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            08/03/2023            
+
+Terminal 002
+Cashier Scott
+Customer Michelle
+
+Ham toastie       2           6.90
+                             13.80
+English muffin    1           6.30
+Cappuccino        3           5.30
+                             15.90
+
+Subtotal                     36.00
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -1.06
+ 10% off English muffin
+                             -0.63
+
+GST Included                  3.12
+Total                        34.31
+
+Payments
+Debit Card                   34.31
+
+     You earnt 3,431 points!      
+
+Reference 2209696:230308:00310
+
+            Drive safe            
+----------------------------------

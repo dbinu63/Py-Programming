@@ -1,0 +1,32 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2027-10-27",
+    "month": 10,
+    "year": 2027,
+    "terminal": "003",
+    "cashier": "Jennifer",
+    "customer": "Mary",
+    "reference": "9626510:271027:02974",
+    "items": [
+        {
+            "product": "Vego",
+            "quantity": 2,
+            "unit_price": 15.2,
+            "total_price": 30.4
+        },
+        {
+            "product": "Three meat",
+            "quantity": 2,
+            "unit_price": 20.0,
+            "total_price": 40.0
+        }
+    ],
+    "subtotal": "70.40",
+    "gst": "6.40",
+    "total": "70.40",
+    "payment": {
+        "Cash": 40.4,
+        "Credit Card": 30.0
+    }
+}

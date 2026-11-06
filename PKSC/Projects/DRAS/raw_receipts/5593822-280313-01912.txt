@@ -1,0 +1,37 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            13/03/2028            
+
+Terminal 001
+Cashier Donna
+Customer Charles
+
+Sync diving       3          25.80
+                             77.40
+Shampoo           2           6.70
+                             13.40
+Sync diving       2          25.80
+                             51.60
+Shampoo           3           6.70
+                             20.10
+
+Subtotal                    162.50
+
+* Promotions
+ 25% off Sync diving
+                            -32.25
+
+GST Included                 11.84
+Total                       130.25
+
+Payments
+Debit Card                  130.25
+
+     You earnt 13,025 points!     
+
+Reference 5593822:280313:01912
+
+              Cheers              
+----------------------------------

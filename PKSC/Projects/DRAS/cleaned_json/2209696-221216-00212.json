@@ -1,0 +1,31 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2022-12-16",
+    "month": 12,
+    "year": 2022,
+    "terminal": "005",
+    "cashier": "Leslie",
+    "customer": null,
+    "reference": "2209696:221216:00212",
+    "items": [
+        {
+            "product": "Eggs benny",
+            "quantity": 1,
+            "unit_price": 18.0,
+            "total_price": 18.0
+        },
+        {
+            "product": "Ham bagel",
+            "quantity": 1,
+            "unit_price": 10.0,
+            "total_price": 10.0
+        }
+    ],
+    "subtotal": "28.00",
+    "gst": "2.55",
+    "total": "28.00",
+    "payment": {
+        "BPAY": 28.0
+    }
+}

@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            07/08/2026            
+
+Terminal 002
+Cashier Scott
+
+Broom             2          47.20
+                             94.40
+Cape white        2          54.00
+                            108.00
+Clippers kit      1          59.50
+
+Subtotal                    261.90
+
+* Promotions
+ 25% off Cape white
+                            -27.00
+
+GST Included                 21.35
+Total                       234.90
+
+Payments
+EFTPOS                      234.90
+
+Reference 3795898:260807:01571
+
+           See you soon           
+----------------------------------

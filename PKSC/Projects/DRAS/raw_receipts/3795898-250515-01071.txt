@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            15/05/2025            
+
+Terminal 005
+Cashier Jonathon
+Customer Scott
+
+Broom             3          44.80
+                            134.40
+Broom             2          44.80
+                             89.60
+
+Subtotal                    224.00
+
+GST Included                 20.36
+Total                       224.00
+
+Payments
+Loyalty Points              224.00
+
+Reference 3795898:250515:01071
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,43 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2028-09-13",
+    "month": 9,
+    "year": 2028,
+    "terminal": "004",
+    "cashier": "Amber",
+    "customer": "Danny",
+    "reference": "9626510:280913:03594",
+    "items": [
+        {
+            "product": "Garlic bread",
+            "quantity": 1,
+            "unit_price": 7.9,
+            "total_price": 7.9
+        },
+        {
+            "product": "Pepperoni",
+            "quantity": 1,
+            "unit_price": 17.2,
+            "total_price": 17.2
+        },
+        {
+            "product": "Pepperoni",
+            "quantity": 2,
+            "unit_price": 17.2,
+            "total_price": 34.4
+        },
+        {
+            "product": "Spicy chicken",
+            "quantity": 1,
+            "unit_price": 17.2,
+            "total_price": 17.2
+        }
+    ],
+    "subtotal": "76.70",
+    "gst": "6.97",
+    "total": "76.70",
+    "payment": {
+        "Loyalty Points": 76.7
+    }
+}

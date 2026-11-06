@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            09/01/2023            
+
+Terminal 001
+Cashier Anthony
+
+Soap 500mL        2           6.90
+                             13.80
+
+Subtotal                     13.80
+
+* Promotions
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+
+GST Included                  1.13
+Total                        12.42
+
+Payments
+BPAY                          6.21
+Gift Card                     6.21
+
+Reference 3795898:230109:00184
+
+           See you soon           
+----------------------------------

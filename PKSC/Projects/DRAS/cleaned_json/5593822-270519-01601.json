@@ -1,0 +1,32 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2027-05-19",
+    "month": 5,
+    "year": 2027,
+    "terminal": "004",
+    "cashier": "Donna",
+    "customer": "Kenneth",
+    "reference": "5593822:270519:01601",
+    "items": [
+        {
+            "product": "Hot chips",
+            "quantity": 1,
+            "unit_price": 6.4,
+            "total_price": 6.4
+        },
+        {
+            "product": "Rescue training",
+            "quantity": 1,
+            "unit_price": 62.0,
+            "total_price": 62.0
+        }
+    ],
+    "subtotal": "100.40",
+    "gst": "8.87",
+    "total": "97.52",
+    "payment": {
+        "Cash": 71.35,
+        "Gift Card": 26.17
+    }
+}

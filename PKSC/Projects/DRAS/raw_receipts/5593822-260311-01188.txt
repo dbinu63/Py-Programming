@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            11/03/2026            
+
+Terminal 001
+Cashier Kevin
+Customer Natalie
+
+Aquaerobics       3          14.60
+                             43.80
+Shampoo           3           6.20
+                             18.60
+Shampoo           2           6.20
+                             12.40
+
+Subtotal                     74.80
+
+GST Included                  6.80
+Total                        74.80
+
+Payments
+Loyalty Points               48.85
+BPAY                         25.95
+
+     You earnt 2,595 points!      
+
+Reference 5593822:260311:01188
+
+           See you soon           
+----------------------------------

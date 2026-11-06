@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            27/03/2029            
+
+Terminal 001
+Cashier Carlos
+
+Pomade            2          17.60
+                             35.20
+Hairwax           1          17.60
+Hair tonic        3          16.60
+                             49.80
+
+Subtotal                    102.60
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -3.52
+ 25% off Hairwax
+                             -4.40
+
+GST Included                  8.61
+Total                        94.68
+
+Payments
+Debit Card                   94.68
+
+Reference 3795898:290327:02741
+
+           See you soon           
+----------------------------------

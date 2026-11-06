@@ -1,0 +1,25 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2029-06-06",
+    "month": 6,
+    "year": 2029,
+    "terminal": "002",
+    "cashier": "Kathleen",
+    "customer": "Rebecca",
+    "reference": "3795898:290606:02832",
+    "items": [
+        {
+            "product": "Broom",
+            "quantity": 1,
+            "unit_price": 53.0,
+            "total_price": 53.0
+        }
+    ],
+    "subtotal": "53.00",
+    "gst": "4.82",
+    "total": "53.00",
+    "payment": {
+        "Loyalty Points": 53.0
+    }
+}

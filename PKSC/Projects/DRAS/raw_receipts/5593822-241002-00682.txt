@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            02/10/2024            
+
+Terminal 003
+Cashier Donna
+
+Water bottle      1           7.80
+Water bottle      2           7.80
+                             15.60
+
+Subtotal                     23.40
+
+* Promotions
+ 25% off Water bottle
+                             -5.85
+
+GST Included                  1.60
+Total                        17.55
+
+Payments
+EFTPOS                       17.55
+
+Reference 5593822:241002:00682
+
+              Cheers              
+----------------------------------

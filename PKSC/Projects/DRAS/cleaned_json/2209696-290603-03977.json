@@ -1,0 +1,32 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-06-03",
+    "month": 6,
+    "year": 2029,
+    "terminal": "002",
+    "cashier": "Robert",
+    "customer": null,
+    "reference": "2209696:290603:03977",
+    "items": [
+        {
+            "product": "English muffin",
+            "quantity": 1,
+            "unit_price": 8.3,
+            "total_price": 8.3
+        },
+        {
+            "product": "Glazed donut",
+            "quantity": 3,
+            "unit_price": 5.6,
+            "total_price": 16.8
+        }
+    ],
+    "subtotal": "25.10",
+    "gst": "2.28",
+    "total": "25.10",
+    "payment": {
+        "EFTPOS": 5.02,
+        "Debit Card": 20.08
+    }
+}

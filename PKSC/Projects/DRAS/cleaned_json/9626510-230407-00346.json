@@ -1,0 +1,37 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2023-04-07",
+    "month": 4,
+    "year": 2023,
+    "terminal": "004",
+    "cashier": "Tara",
+    "customer": null,
+    "reference": "9626510:230407:00346",
+    "items": [
+        {
+            "product": "Just Cheese",
+            "quantity": 1,
+            "unit_price": 12.6,
+            "total_price": 12.6
+        },
+        {
+            "product": "Pancakes",
+            "quantity": 1,
+            "unit_price": 7.4,
+            "total_price": 7.4
+        },
+        {
+            "product": "Chips",
+            "quantity": 3,
+            "unit_price": 6.3,
+            "total_price": 18.9
+        }
+    ],
+    "subtotal": "38.90",
+    "gst": "3.45",
+    "total": "37.96",
+    "payment": {
+        "EFTPOS": 37.96
+    }
+}

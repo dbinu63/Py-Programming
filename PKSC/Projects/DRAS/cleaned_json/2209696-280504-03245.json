@@ -1,0 +1,43 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2028-05-04",
+    "month": 5,
+    "year": 2028,
+    "terminal": "002",
+    "cashier": "Nathaniel",
+    "customer": null,
+    "reference": "2209696:280504:03245",
+    "items": [
+        {
+            "product": "Almond croissant",
+            "quantity": 2,
+            "unit_price": 8.6,
+            "total_price": 17.2
+        },
+        {
+            "product": "Cupcake",
+            "quantity": 3,
+            "unit_price": 9.3,
+            "total_price": 27.9
+        },
+        {
+            "product": "Mocha",
+            "quantity": 1,
+            "unit_price": 4.8,
+            "total_price": 4.8
+        },
+        {
+            "product": "Almond croissant",
+            "quantity": 2,
+            "unit_price": 8.6,
+            "total_price": 17.2
+        }
+    ],
+    "subtotal": "67.10",
+    "gst": "6.10",
+    "total": "67.10",
+    "payment": {
+        "Debit Card": 67.1
+    }
+}

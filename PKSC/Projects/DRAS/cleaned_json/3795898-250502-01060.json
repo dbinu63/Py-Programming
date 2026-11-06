@@ -1,0 +1,37 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2025-05-02",
+    "month": 5,
+    "year": 2025,
+    "terminal": "002",
+    "cashier": "Eric",
+    "customer": null,
+    "reference": "3795898:250502:01060",
+    "items": [
+        {
+            "product": "Scissors",
+            "quantity": 1,
+            "unit_price": 39.8,
+            "total_price": 39.8
+        },
+        {
+            "product": "Clippers kit",
+            "quantity": 3,
+            "unit_price": 56.5,
+            "total_price": 169.5
+        },
+        {
+            "product": "Cape grey",
+            "quantity": 3,
+            "unit_price": 51.0,
+            "total_price": 153.0
+        }
+    ],
+    "subtotal": "362.30",
+    "gst": "28.61",
+    "total": "314.75",
+    "payment": {
+        "Debit Card": 314.75
+    }
+}

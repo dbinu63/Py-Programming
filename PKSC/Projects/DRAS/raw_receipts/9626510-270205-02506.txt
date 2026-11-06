@@ -1,0 +1,35 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            05/02/2027            
+
+Terminal 001
+Cashier Jennifer
+Customer Mary
+
+Pepperoni         3          16.40
+                             49.20
+Garlic prawn      2          20.00
+                             40.00
+Garlic bread      2           7.60
+                             15.20
+
+Subtotal                    104.40
+
+* Promotions
+ Buy 2x Garlic prawn, save 15%
+                             -6.00
+
+GST Included                  8.95
+Total                        98.40
+
+Payments
+Debit Card                   98.40
+
+     You earnt 9,840 points!      
+
+Reference 9626510:270205:02506
+
+           Stay healthy           
+----------------------------------

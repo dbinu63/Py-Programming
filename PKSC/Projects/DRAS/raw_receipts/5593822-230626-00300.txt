@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            26/06/2023            
+
+Terminal 004
+Cashier Kevin
+
+Aquaerobics       1          12.60
+Rescue training   1          52.50
+Water bottle      1           7.40
+Aquaerobics       1          12.60
+
+Subtotal                     85.10
+
+* Promotions
+ 15% off Rescue training
+                             -7.88
+
+GST Included                  7.02
+Total                        77.22
+
+Payments
+Cash                         45.10
+Credit Card                  32.12
+
+Reference 5593822:230626:00300
+
+     Pleasure doing business      
+----------------------------------

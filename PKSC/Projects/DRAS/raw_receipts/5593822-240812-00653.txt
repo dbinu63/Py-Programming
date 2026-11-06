@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            12/08/2024            
+
+Terminal 002
+Cashier Jennifer
+Customer Cody
+
+Swim cap          2          11.20
+                             22.40
+Rescue training   3          55.00
+                            165.00
+Waterpolo         3          13.20
+                             39.60
+
+Subtotal                    227.00
+
+* Promotions
+ 20% off Rescue training
+                            -33.00
+
+GST Included                 17.64
+Total                       194.00
+
+Payments
+Credit Card                  19.40
+Debit Card                  174.60
+
+     You earnt 19,400 points!     
+
+Reference 5593822:240812:00653
+
+     Pleasure doing business      
+----------------------------------

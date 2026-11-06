@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            14/02/2028            
+
+Terminal 001
+Cashier Scott
+
+Cape white        2          58.50
+                            117.00
+Shaving cream     1          15.80
+Razorblade        3          19.60
+                             58.80
+
+Subtotal                    191.60
+
+* Promotions
+ Buy 3x Razorblade, save 20%
+                            -11.76
+
+GST Included                 16.35
+Total                       179.84
+
+Payments
+Gift Card                    35.97
+Credit Card                 143.87
+
+Reference 3795898:280214:02234
+
+           Stay healthy           
+----------------------------------

@@ -1,0 +1,25 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2027-05-30",
+    "month": 5,
+    "year": 2027,
+    "terminal": "004",
+    "cashier": "Amber",
+    "customer": "Steven",
+    "reference": "9626510:270530:02721",
+    "items": [
+        {
+            "product": "Garlic prawn",
+            "quantity": 1,
+            "unit_price": 20.0,
+            "total_price": 20.0
+        }
+    ],
+    "subtotal": "20.00",
+    "gst": "1.82",
+    "total": "20.00",
+    "payment": {
+        "Loyalty Points": 20.0
+    }
+}

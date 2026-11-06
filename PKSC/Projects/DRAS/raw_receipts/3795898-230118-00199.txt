@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            18/01/2023            
+
+Terminal 003
+Cashier Anthony
+
+Hairspray         3          26.20
+                             78.60
+Hairspray         3          26.20
+                             78.60
+Razorblade        1          15.80
+Cape white        3          46.80
+                            140.40
+
+Subtotal                    313.40
+
+* Promotions
+ Buy 2x Hairspray, save 25%
+                            -39.30
+
+GST Included                 24.92
+Total                       274.10
+
+Payments
+Credit Card                 274.10
+
+Reference 3795898:230118:00199
+
+           Stay healthy           
+----------------------------------

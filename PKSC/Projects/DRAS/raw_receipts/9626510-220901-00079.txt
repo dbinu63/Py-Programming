@@ -1,0 +1,29 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            01/09/2022            
+
+Terminal 005
+Cashier Tara
+
+Just Cheese       2          12.00
+                             24.00
+Just Cheese       1          12.00
+Garlic bread      3           6.00
+                             18.00
+Just Cheese       2          12.00
+                             24.00
+
+Subtotal                     78.00
+
+GST Included                  7.09
+Total                        78.00
+
+Payments
+Cash                         78.00
+
+Reference 9626510:220901:00079
+
+            Drive safe            
+----------------------------------

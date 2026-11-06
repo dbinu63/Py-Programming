@@ -1,0 +1,31 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2025-04-11",
+    "month": 4,
+    "year": 2025,
+    "terminal": "003",
+    "cashier": "Donna",
+    "customer": "Derek",
+    "reference": "5593822:250411:00871",
+    "items": [
+        {
+            "product": "Waterpolo",
+            "quantity": 1,
+            "unit_price": 13.8,
+            "total_price": 13.8
+        },
+        {
+            "product": "Rescue training",
+            "quantity": 3,
+            "unit_price": 57.0,
+            "total_price": 171.0
+        }
+    ],
+    "subtotal": "184.80",
+    "gst": "16.67",
+    "total": "183.42",
+    "payment": {
+        "EFTPOS": 183.42
+    }
+}

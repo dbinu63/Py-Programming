@@ -1,0 +1,39 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            27/04/2028            
+
+Terminal 005
+Cashier Kevin
+Customer Meghan
+
+Aquaerobics       2          15.80
+                             31.60
+Aquaerobics       1          15.80
+Sync diving       1          25.80
+Water bottle      2           9.30
+                             18.60
+
+Subtotal                     91.80
+
+* Promotions
+ Buy 2x Water bottle, save 5%
+                             -0.93
+ 25% off Sync diving
+                             -6.45
+ Buy 3x Aquaerobics, save 20%
+                             -9.48
+
+GST Included                  6.81
+Total                        74.94
+
+Payments
+Credit Card                  74.94
+
+     You earnt 7,494 points!      
+
+Reference 5593822:280427:01951
+
+           See you soon           
+----------------------------------

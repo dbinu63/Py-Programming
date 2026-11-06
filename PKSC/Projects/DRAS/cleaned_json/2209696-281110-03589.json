@@ -1,0 +1,31 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2028-11-10",
+    "month": 11,
+    "year": 2028,
+    "terminal": "004",
+    "cashier": "Diane",
+    "customer": "Leslie",
+    "reference": "2209696:281110:03589",
+    "items": [
+        {
+            "product": "Cupcake",
+            "quantity": 1,
+            "unit_price": 9.3,
+            "total_price": 9.3
+        },
+        {
+            "product": "Long Black",
+            "quantity": 3,
+            "unit_price": 4.8,
+            "total_price": 14.4
+        }
+    ],
+    "subtotal": "23.70",
+    "gst": "1.76",
+    "total": "19.38",
+    "payment": {
+        "BPAY": 19.38
+    }
+}

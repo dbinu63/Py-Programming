@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            06/07/2026            
+
+Terminal 005
+Cashier Eric
+
+Broom             3          47.20
+                            141.60
+Pomade            2          15.20
+                             30.40
+Pomade            2          15.20
+                             30.40
+Soap 500mL        1           7.90
+
+Subtotal                    210.30
+
+GST Included                 19.12
+Total                       210.30
+
+Payments
+BPAY                        210.30
+
+Reference 3795898:260706:01534
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,30 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            21/02/2024            
+
+Terminal 001
+Cashier Kevin
+
+Adult class       2          18.80
+                             37.60
+Adult class       2          18.80
+                             37.60
+
+Subtotal                     75.20
+
+* Promotions
+ Buy 2x Adult class, save 10%
+                             -7.52
+
+GST Included                  6.15
+Total                        67.68
+
+Payments
+BPAY                         67.68
+
+Reference 5593822:240221:00489
+
+           Stay healthy           
+----------------------------------

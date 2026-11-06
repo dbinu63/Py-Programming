@@ -1,0 +1,43 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-06-12",
+    "month": 6,
+    "year": 2029,
+    "terminal": "004",
+    "cashier": "Hector",
+    "customer": null,
+    "reference": "2209696:290612:03995",
+    "items": [
+        {
+            "product": "Cupcake",
+            "quantity": 3,
+            "unit_price": 9.8,
+            "total_price": 29.4
+        },
+        {
+            "product": "Ham toastie",
+            "quantity": 3,
+            "unit_price": 9.1,
+            "total_price": 27.3
+        },
+        {
+            "product": "Glazed donut",
+            "quantity": 3,
+            "unit_price": 5.6,
+            "total_price": 16.8
+        },
+        {
+            "product": "Long Black",
+            "quantity": 1,
+            "unit_price": 5.1,
+            "total_price": 5.1
+        }
+    ],
+    "subtotal": "78.60",
+    "gst": "6.08",
+    "total": "66.87",
+    "payment": {
+        "Cash": 66.85
+    }
+}

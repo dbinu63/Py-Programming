@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            29/06/2024            
+
+Terminal 005
+Cashier Donna
+Customer Johnathan
+
+Swim cap          2          11.20
+                             22.40
+Swim cap          1          11.20
+Swim cap          2          11.20
+                             22.40
+Waterpolo         1          13.20
+
+Subtotal                     69.20
+
+GST Included                  6.29
+Total                        69.20
+
+Payments
+EFTPOS                       69.20
+
+     You earnt 6,920 points!      
+
+Reference 5593822:240629:00614
+
+            Thank you             
+----------------------------------

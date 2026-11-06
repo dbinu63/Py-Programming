@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            19/05/2029            
+
+Terminal 003
+Cashier Patricia
+
+Towel             3          20.60
+                             61.80
+Hot chips         2           7.10
+                             14.20
+Aquaerobics       1          16.60
+Towel             1          20.60
+
+Subtotal                    113.20
+
+* Promotions
+ Buy 2x Towel, save 15%
+                            -12.36
+
+GST Included                  9.17
+Total                       100.84
+
+Payments
+Cash                         49.40
+EFTPOS                       51.44
+
+Reference 5593822:290519:02357
+
+            Drive safe            
+----------------------------------

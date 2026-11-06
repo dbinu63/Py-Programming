@@ -1,0 +1,30 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            15/02/2029            
+
+Terminal 001
+Cashier Derek
+
+Sync diving       2          27.20
+                             54.40
+Towel             2          20.60
+                             41.20
+
+Subtotal                     95.60
+
+* Promotions
+ Buy 2x Towel, save 15%
+                             -6.18
+
+GST Included                  8.13
+Total                        89.42
+
+Payments
+Debit Card                   89.42
+
+Reference 5593822:290215:02269
+
+              Cheers              
+----------------------------------

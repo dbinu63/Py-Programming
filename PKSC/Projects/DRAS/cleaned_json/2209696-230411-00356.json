@@ -1,0 +1,37 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-04-11",
+    "month": 4,
+    "year": 2023,
+    "terminal": "001",
+    "cashier": "Leslie",
+    "customer": "Ashley",
+    "reference": "2209696:230411:00356",
+    "items": [
+        {
+            "product": "Ham bagel",
+            "quantity": 2,
+            "unit_price": 10.6,
+            "total_price": 21.2
+        },
+        {
+            "product": "Salmon bagel",
+            "quantity": 1,
+            "unit_price": 12.6,
+            "total_price": 12.6
+        },
+        {
+            "product": "Ham bagel",
+            "quantity": 3,
+            "unit_price": 10.6,
+            "total_price": 31.8
+        }
+    ],
+    "subtotal": "65.60",
+    "gst": "5.19",
+    "total": "57.12",
+    "payment": {
+        "Loyalty Points": 57.12
+    }
+}

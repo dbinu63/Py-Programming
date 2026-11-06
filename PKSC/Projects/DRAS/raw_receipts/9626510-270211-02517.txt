@@ -1,0 +1,27 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            11/02/2027            
+
+Terminal 001
+Cashier Levi
+
+Pepperoni         2          16.40
+                             32.80
+Chips             1           7.60
+Pepperoni         2          16.40
+                             32.80
+
+Subtotal                     73.20
+
+GST Included                  6.65
+Total                        73.20
+
+Payments
+EFTPOS                       73.20
+
+Reference 9626510:270211:02517
+
+           See you soon           
+----------------------------------

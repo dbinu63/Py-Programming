@@ -1,0 +1,39 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            06/12/2026            
+
+Terminal 002
+Cashier Scott
+Customer Robin
+
+Mocha             1           4.40
+Macarons          2           4.90
+                              9.80
+Flat white        2           5.50
+                             11.00
+Flat white        3           5.50
+                             16.50
+
+Subtotal                     41.70
+
+* Promotions
+ 15% off Mocha
+                             -0.66
+ Buy 3x Flat white, save 20%
+                             -3.30
+
+GST Included                  3.43
+Total                        37.74
+
+Payments
+Cash                         36.25
+Loyalty Points                1.49
+
+     You earnt 3,625 points!      
+
+Reference 2209696:261206:02348
+
+           See you soon           
+----------------------------------

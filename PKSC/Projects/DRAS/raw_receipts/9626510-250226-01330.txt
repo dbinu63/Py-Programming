@@ -1,0 +1,40 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            26/02/2025            
+
+Terminal 001
+Cashier Amber
+Customer Aaron
+
+Ham and Cheese    3          13.80
+                             41.40
+Soft drink 2L     2           5.20
+                             10.40
+Hawaiian          3          13.80
+                             41.40
+Chips             3           6.90
+                             20.70
+
+Subtotal                    113.90
+
+* Promotions
+ Buy 2x Hawaiian, save 30%
+                             -8.28
+ Buy 3x Chips, save 30%
+                             -6.21
+
+GST Included                  9.04
+Total                        99.41
+
+Payments
+Cash                         66.30
+Credit Card                  33.11
+
+     You earnt 9,941 points!      
+
+Reference 9626510:250226:01330
+
+            Thank you             
+----------------------------------

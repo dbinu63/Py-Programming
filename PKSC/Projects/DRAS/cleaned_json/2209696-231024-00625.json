@@ -1,0 +1,43 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-10-24",
+    "month": 10,
+    "year": 2023,
+    "terminal": "003",
+    "cashier": "Leslie",
+    "customer": null,
+    "reference": "2209696:231024:00625",
+    "items": [
+        {
+            "product": "Ham toastie",
+            "quantity": 3,
+            "unit_price": 6.9,
+            "total_price": 20.7
+        },
+        {
+            "product": "Latte",
+            "quantity": 3,
+            "unit_price": 4.2,
+            "total_price": 12.6
+        },
+        {
+            "product": "Mocha",
+            "quantity": 2,
+            "unit_price": 3.7,
+            "total_price": 7.4
+        },
+        {
+            "product": "Ham bagel",
+            "quantity": 3,
+            "unit_price": 10.6,
+            "total_price": 31.8
+        }
+    ],
+    "subtotal": "72.50",
+    "gst": "6.02",
+    "total": "66.19",
+    "payment": {
+        "Debit Card": 66.19
+    }
+}

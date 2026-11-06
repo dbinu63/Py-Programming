@@ -1,0 +1,38 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2025-12-02",
+    "month": 12,
+    "year": 2025,
+    "terminal": "002",
+    "cashier": "Leslie",
+    "customer": "Scott",
+    "reference": "2209696:251202:01744",
+    "items": [
+        {
+            "product": "Brownie",
+            "quantity": 3,
+            "unit_price": 5.2,
+            "total_price": 15.6
+        },
+        {
+            "product": "Flat white",
+            "quantity": 1,
+            "unit_price": 5.2,
+            "total_price": 5.2
+        },
+        {
+            "product": "Flat white",
+            "quantity": 2,
+            "unit_price": 5.2,
+            "total_price": 10.4
+        }
+    ],
+    "subtotal": "31.20",
+    "gst": "2.69",
+    "total": "29.64",
+    "payment": {
+        "Credit Card": 23.71,
+        "BPAY": 5.93
+    }
+}

@@ -1,0 +1,36 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            13/04/2023            
+
+Terminal 002
+Cashier Joyce
+
+Cheese bread      2           6.30
+                             12.60
+Cheese bread      1           6.30
+Garlic bread      2           6.30
+                             12.60
+Chips             3           6.30
+                             18.90
+
+Subtotal                     50.40
+
+* Promotions
+ 20% off Garlic bread
+                             -2.52
+ Buy 3x Chips, save 5%
+                             -0.95
+
+GST Included                  4.27
+Total                        46.94
+
+Payments
+Cash                         45.75
+Credit Card                   1.19
+
+Reference 9626510:230413:00357
+
+            Thank you             
+----------------------------------

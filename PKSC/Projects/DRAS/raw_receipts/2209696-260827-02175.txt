@@ -1,0 +1,40 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            27/08/2026            
+
+Terminal 001
+Cashier Scott
+Customer Marvin
+
+Mocha             2           4.40
+                              8.80
+Macarons          3           4.90
+                             14.70
+Cupcake           2           8.60
+                             17.20
+Flat white        2           5.50
+                             11.00
+
+Subtotal                     51.70
+
+* Promotions
+ 15% off Mocha
+                             -1.32
+ 10% off Cupcake
+                             -1.72
+
+GST Included                  4.42
+Total                        48.66
+
+Payments
+BPAY                          4.87
+Debit Card                   43.79
+
+     You earnt 4,866 points!      
+
+Reference 2209696:260827:02175
+
+            Thank you             
+----------------------------------

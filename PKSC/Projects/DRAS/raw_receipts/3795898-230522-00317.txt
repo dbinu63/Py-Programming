@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            22/05/2023            
+
+Terminal 002
+Cashier Anthony
+
+Razorblade        1          15.80
+Classic brush     3          14.80
+                             44.40
+Cape white        1          46.80
+
+Subtotal                    107.00
+
+* Promotions
+ Buy 3x Classic brush, save 30%
+                            -13.32
+
+GST Included                  8.52
+Total                        93.68
+
+Payments
+Cash                         21.80
+Credit Card                  71.88
+
+Reference 3795898:230522:00317
+
+            Thank you             
+----------------------------------

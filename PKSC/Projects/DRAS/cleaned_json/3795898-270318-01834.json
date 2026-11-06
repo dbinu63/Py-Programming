@@ -1,0 +1,31 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2027-03-18",
+    "month": 3,
+    "year": 2027,
+    "terminal": "004",
+    "cashier": "Scott",
+    "customer": "William",
+    "reference": "3795898:270318:01834",
+    "items": [
+        {
+            "product": "Pomade",
+            "quantity": 1,
+            "unit_price": 15.8,
+            "total_price": 15.8
+        },
+        {
+            "product": "Pomade",
+            "quantity": 3,
+            "unit_price": 15.8,
+            "total_price": 47.4
+        }
+    ],
+    "subtotal": "79.60",
+    "gst": "6.16",
+    "total": "67.75",
+    "payment": {
+        "EFTPOS": 67.75
+    }
+}

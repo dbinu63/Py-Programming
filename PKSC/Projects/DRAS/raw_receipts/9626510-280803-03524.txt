@@ -1,0 +1,37 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            03/08/2028            
+
+Terminal 005
+Cashier Jennifer
+Customer Robert
+
+Pancakes          3           9.30
+                             27.90
+Garlic bread      3           7.90
+                             23.70
+Pepperoni         3          17.20
+                             51.60
+Pepperoni         2          17.20
+                             34.40
+
+Subtotal                    137.60
+
+* Promotions
+ Buy 2x Garlic bread, save 30%
+                             -4.74
+
+GST Included                 12.08
+Total                       132.86
+
+Payments
+Debit Card                  132.86
+
+     You earnt 13,286 points!     
+
+Reference 9626510:280803:03524
+
+            Drive safe            
+----------------------------------

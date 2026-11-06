@@ -1,0 +1,41 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            09/01/2025            
+
+Terminal 005
+Cashier Kathryn
+Customer Ashley
+
+Scissors          2          39.80
+                             79.60
+Broom             1          44.80
+Clippers kit      3          56.50
+                            169.50
+Razorblade        2          17.20
+                             34.40
+
+Subtotal                    328.30
+
+* Promotions
+ Buy 2x Scissors, save 20%
+                            -15.92
+ Buy 2x Clippers kit, save 15%
+                            -16.95
+ Buy 2x Razorblade, save 5%
+                             -1.72
+
+GST Included                 26.70
+Total                       293.71
+
+Payments
+Loyalty Points               17.80
+Debit Card                  275.91
+
+     You earnt 27,591 points!     
+
+Reference 3795898:250109:00934
+
+            Drive safe            
+----------------------------------

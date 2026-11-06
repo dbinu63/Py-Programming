@@ -1,0 +1,31 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            02/01/2026            
+
+Terminal 003
+Cashier Ronald
+
+Soft drink 2L     1           5.50
+Cheese bread      1           7.30
+Hawaiian          1          14.60
+Soft drink 2L     2           5.50
+                             11.00
+
+Subtotal                     38.40
+
+* Promotions
+ 5% off Soft drink 2L
+                             -0.83
+
+GST Included                  3.42
+Total                        37.58
+
+Payments
+Credit Card                  37.58
+
+Reference 9626510:260102:01823
+
+            Thank you             
+----------------------------------

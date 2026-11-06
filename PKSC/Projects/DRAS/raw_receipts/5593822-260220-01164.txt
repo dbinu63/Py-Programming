@@ -1,0 +1,27 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            20/02/2026            
+
+Terminal 003
+Cashier Kevin
+
+Aquaerobics       3          14.60
+                             43.80
+Swim cap          1          12.40
+Rescue training   3          60.00
+                            180.00
+
+Subtotal                    236.20
+
+GST Included                 21.47
+Total                       236.20
+
+Payments
+BPAY                        236.20
+
+Reference 5593822:260220:01164
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            15/06/2023            
+
+Terminal 004
+Cashier Jonathon
+
+Classic brush     1          14.80
+Cape grey         1          46.80
+Classic brush     2          14.80
+                             29.60
+Cape grey         1          46.80
+
+Subtotal                    138.00
+
+* Promotions
+ Buy 2x Cape grey, save 15%
+                            -14.04
+ Buy 3x Classic brush, save 30%
+                            -13.32
+
+GST Included                 10.06
+Total                       110.64
+
+Payments
+Cash                        110.65
+
+Reference 3795898:230615:00345
+
+            Drive safe            
+----------------------------------

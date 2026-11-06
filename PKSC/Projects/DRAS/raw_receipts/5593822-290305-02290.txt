@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/03/2029            
+
+Terminal 001
+Cashier Derek
+
+Shampoo           3           7.10
+                             21.30
+Shampoo           1           7.10
+Aquaerobics       1          16.60
+
+Subtotal                     45.00
+
+* Promotions
+ Buy 2x Shampoo, save 20%
+                             -5.68
+
+GST Included                  3.57
+Total                        39.32
+
+Payments
+Cash                         37.70
+Credit Card                   1.62
+
+Reference 5593822:290305:02290
+
+     Pleasure doing business      
+----------------------------------

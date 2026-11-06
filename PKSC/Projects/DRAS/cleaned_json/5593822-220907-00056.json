@@ -1,0 +1,38 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2022-09-07",
+    "month": 9,
+    "year": 2022,
+    "terminal": "005",
+    "cashier": "Donna",
+    "customer": "Heidi",
+    "reference": "5593822:220907:00056",
+    "items": [
+        {
+            "product": "Casual access",
+            "quantity": 2,
+            "unit_price": 6.0,
+            "total_price": 12.0
+        },
+        {
+            "product": "Aquaerobics",
+            "quantity": 1,
+            "unit_price": 12.0,
+            "total_price": 12.0
+        },
+        {
+            "product": "Water bottle",
+            "quantity": 3,
+            "unit_price": 7.0,
+            "total_price": 21.0
+        }
+    ],
+    "subtotal": "45.00",
+    "gst": "4.09",
+    "total": "45.00",
+    "payment": {
+        "Credit Card": 27.0,
+        "Debit Card": 18.0
+    }
+}

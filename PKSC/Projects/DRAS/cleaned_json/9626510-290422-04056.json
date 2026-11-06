@@ -1,0 +1,38 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2029-04-22",
+    "month": 4,
+    "year": 2029,
+    "terminal": "005",
+    "cashier": "Jennifer",
+    "customer": "Luke",
+    "reference": "9626510:290422:04056",
+    "items": [
+        {
+            "product": "Pancakes",
+            "quantity": 2,
+            "unit_price": 9.8,
+            "total_price": 19.6
+        },
+        {
+            "product": "Pancakes",
+            "quantity": 3,
+            "unit_price": 9.8,
+            "total_price": 29.4
+        },
+        {
+            "product": "Vego",
+            "quantity": 1,
+            "unit_price": 16.6,
+            "total_price": 16.6
+        }
+    ],
+    "subtotal": "65.60",
+    "gst": "5.96",
+    "total": "65.60",
+    "payment": {
+        "Cash": 43.15,
+        "Loyalty Points": 22.45
+    }
+}

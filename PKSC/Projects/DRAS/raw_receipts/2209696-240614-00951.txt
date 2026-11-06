@@ -1,0 +1,32 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            14/06/2024            
+
+Terminal 001
+Cashier Leslie
+
+Ham bagel         1          11.20
+Salmon bagel      2          13.20
+                             26.40
+English muffin    1           6.60
+Ham bagel         2          11.20
+                             22.40
+
+Subtotal                     66.60
+
+* Promotions
+ 5% off Salmon bagel
+                             -1.32
+
+GST Included                  5.93
+Total                        65.28
+
+Payments
+BPAY                         65.28
+
+Reference 2209696:240614:00951
+
+              Cheers              
+----------------------------------

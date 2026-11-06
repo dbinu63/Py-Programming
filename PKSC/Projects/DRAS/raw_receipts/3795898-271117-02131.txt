@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            17/11/2027            
+
+Terminal 003
+Cashier Michael
+
+Pomade            3          15.80
+                             47.40
+Cape white        2          56.00
+                            112.00
+Soap 500mL        3           8.20
+                             24.60
+
+Subtotal                    184.00
+
+* Promotions
+ Buy 3x Pomade, save 25%
+                            -11.85
+ Buy 2x Cape white, save 10%
+                            -11.20
+
+GST Included                 14.63
+Total                       160.95
+
+Payments
+BPAY                         64.38
+Gift Card                    96.57
+
+Reference 3795898:271117:02131
+
+           See you soon           
+----------------------------------

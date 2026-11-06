@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            01/01/2024            
+
+Terminal 003
+Cashier Donna
+
+Egg+Bac burger    2           5.60
+                             11.20
+Adult class       2          18.80
+                             37.60
+Towel             2          16.60
+                             33.20
+
+Subtotal                     82.00
+
+* Promotions
+ Buy 2x Towel, save 15%
+                             -4.98
+ Buy 2x Adult class, save 10%
+                             -3.76
+
+GST Included                  6.66
+Total                        73.26
+
+Payments
+Debit Card                   58.61
+Gift Card                    14.65
+
+Reference 5593822:240101:00440
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,31 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2028-09-11",
+    "month": 9,
+    "year": 2028,
+    "terminal": "005",
+    "cashier": "Michael",
+    "customer": "Rebecca",
+    "reference": "3795898:280911:02495",
+    "items": [
+        {
+            "product": "Shaving cream",
+            "quantity": 1,
+            "unit_price": 15.8,
+            "total_price": 15.8
+        },
+        {
+            "product": "Pomade",
+            "quantity": 1,
+            "unit_price": 16.6,
+            "total_price": 16.6
+        }
+    ],
+    "subtotal": "32.40",
+    "gst": "2.95",
+    "total": "32.40",
+    "payment": {
+        "Credit Card": 32.4
+    }
+}

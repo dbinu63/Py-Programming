@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            13/07/2023            
+
+Terminal 004
+Cashier Scott
+Customer Daniel
+
+Mocha             3           3.70
+                             11.10
+English muffin    3           6.30
+                             18.90
+Macarons          2           4.20
+                              8.40
+Latte             2           4.20
+                              8.40
+
+Subtotal                     46.80
+
+* Promotions
+ 10% off English muffin
+                             -1.89
+
+GST Included                  4.08
+Total                        44.91
+
+Payments
+Gift Card                    44.91
+
+     You earnt 4,491 points!      
+
+Reference 2209696:230713:00484
+
+           See you soon           
+----------------------------------

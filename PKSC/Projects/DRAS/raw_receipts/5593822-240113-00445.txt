@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            13/01/2024            
+
+Terminal 001
+Cashier Donna
+
+Adult class       2          18.80
+                             37.60
+Adult class       3          18.80
+                             56.40
+Rescue training   1          55.00
+Towel             1          16.60
+
+Subtotal                    165.60
+
+* Promotions
+ Buy 2x Adult class, save 10%
+                             -7.52
+ 20% off Rescue training
+                            -11.00
+
+GST Included                 13.37
+Total                       147.08
+
+Payments
+Debit Card                   73.54
+Gift Card                    73.54
+
+Reference 5593822:240113:00445
+
+           See you soon           
+----------------------------------

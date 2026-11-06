@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            09/06/2028            
+
+Terminal 004
+Cashier Kevin
+Customer Derek
+
+Hot chips         3           6.70
+                             20.10
+Sync diving       3          25.80
+                             77.40
+Aquaerobics       1          15.80
+
+Subtotal                    113.30
+
+* Promotions
+ 25% off Sync diving
+                            -19.35
+
+GST Included                  8.54
+Total                        93.95
+
+Payments
+Cash                         93.95
+
+     You earnt 9,395 points!      
+
+Reference 5593822:280609:01991
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,28 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            10/10/2023            
+
+Terminal 005
+Cashier Donna
+
+Aquaerobics       2          12.60
+                             25.20
+Aquaerobics       3          12.60
+                             37.80
+Water bottle      2           7.40
+                             14.80
+
+Subtotal                     77.80
+
+GST Included                  7.07
+Total                        77.80
+
+Payments
+Cash                         77.80
+
+Reference 5593822:231010:00374
+
+            Drive safe            
+----------------------------------

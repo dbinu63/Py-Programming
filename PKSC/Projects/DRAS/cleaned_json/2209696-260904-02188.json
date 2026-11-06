@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2026-09-04",
+    "month": 9,
+    "year": 2026,
+    "terminal": "004",
+    "cashier": "Scott",
+    "customer": "Sandra",
+    "reference": "2209696:260904:02188",
+    "items": [
+        {
+            "product": "Mocha",
+            "quantity": 2,
+            "unit_price": 4.4,
+            "total_price": 8.8
+        }
+    ],
+    "subtotal": "8.80",
+    "gst": "0.68",
+    "total": "7.48",
+    "payment": {
+        "Cash": 0.25,
+        "Debit Card": 7.23
+    }
+}

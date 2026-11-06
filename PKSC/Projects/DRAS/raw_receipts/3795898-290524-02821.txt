@@ -1,0 +1,38 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            24/05/2029            
+
+Terminal 002
+Cashier Ebony
+Customer Francisco
+
+Spray bottle      2          26.80
+                             53.60
+Hairwax           2          17.60
+                             35.20
+Shaving cream     2          16.60
+                             33.20
+Spray bottle      1          26.80
+
+Subtotal                    148.80
+
+* Promotions
+ 25% off Spray bottle
+                            -20.10
+ 25% off Hairwax
+                             -8.80
+
+GST Included                 10.90
+Total                       119.90
+
+Payments
+EFTPOS                      119.90
+
+     You earnt 11,990 points!     
+
+Reference 3795898:290524:02821
+
+           Stay healthy           
+----------------------------------

@@ -1,0 +1,26 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2022-11-01",
+    "month": 11,
+    "year": 2022,
+    "terminal": "002",
+    "cashier": "Anthony",
+    "customer": "Lisa",
+    "reference": "3795898:221101:00119",
+    "items": [
+        {
+            "product": "Face wipes",
+            "quantity": 3,
+            "unit_price": 9.5,
+            "total_price": 28.5
+        }
+    ],
+    "subtotal": "41.50",
+    "gst": "3.77",
+    "total": "41.50",
+    "payment": {
+        "Loyalty Points": 19.2,
+        "Credit Card": 22.3
+    }
+}

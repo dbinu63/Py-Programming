@@ -1,0 +1,25 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2023-01-19",
+    "month": 1,
+    "year": 2023,
+    "terminal": "005",
+    "cashier": "Kevin",
+    "customer": null,
+    "reference": "5593822:230119:00151",
+    "items": [
+        {
+            "product": "Shampoo",
+            "quantity": 2,
+            "unit_price": 5.3,
+            "total_price": 10.6
+        }
+    ],
+    "subtotal": "10.60",
+    "gst": "0.87",
+    "total": "9.54",
+    "payment": {
+        "Debit Card": 9.54
+    }
+}

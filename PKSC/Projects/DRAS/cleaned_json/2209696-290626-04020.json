@@ -1,0 +1,32 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-06-26",
+    "month": 6,
+    "year": 2029,
+    "terminal": "001",
+    "cashier": "Grant",
+    "customer": "Leslie",
+    "reference": "2209696:290626:04020",
+    "items": [
+        {
+            "product": "Long Black",
+            "quantity": 2,
+            "unit_price": 5.1,
+            "total_price": 10.2
+        },
+        {
+            "product": "Glazed donut",
+            "quantity": 3,
+            "unit_price": 5.6,
+            "total_price": 16.8
+        }
+    ],
+    "subtotal": "27.00",
+    "gst": "2.45",
+    "total": "27.00",
+    "payment": {
+        "Debit Card": 13.5,
+        "EFTPOS": 13.5
+    }
+}

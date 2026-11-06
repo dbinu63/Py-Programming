@@ -1,0 +1,31 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2028-02-13",
+    "month": 2,
+    "year": 2028,
+    "terminal": "001",
+    "cashier": "Levi",
+    "customer": null,
+    "reference": "9626510:280213:03208",
+    "items": [
+        {
+            "product": "Spicy chicken",
+            "quantity": 2,
+            "unit_price": 17.2,
+            "total_price": 34.4
+        },
+        {
+            "product": "Garlic prawn",
+            "quantity": 3,
+            "unit_price": 20.8,
+            "total_price": 62.4
+        }
+    ],
+    "subtotal": "96.80",
+    "gst": "8.80",
+    "total": "96.80",
+    "payment": {
+        "Gift Card": 96.8
+    }
+}

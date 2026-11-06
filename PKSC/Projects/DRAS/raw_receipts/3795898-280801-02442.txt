@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            01/08/2028            
+
+Terminal 003
+Cashier Michael
+
+Pomade            2          16.60
+                             33.20
+Hairwax           3          16.60
+                             49.80
+Cape white        3          58.50
+                            175.50
+Cape white        2          58.50
+                            117.00
+
+Subtotal                    375.50
+
+GST Included                 34.14
+Total                       375.50
+
+Payments
+Debit Card                  375.50
+
+Reference 3795898:280801:02442
+
+              Cheers              
+----------------------------------

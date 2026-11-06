@@ -1,0 +1,25 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2029-02-23",
+    "month": 2,
+    "year": 2029,
+    "terminal": "003",
+    "cashier": "Angela",
+    "customer": "Charles",
+    "reference": "5593822:290223:02278",
+    "items": [
+        {
+            "product": "Towel",
+            "quantity": 3,
+            "unit_price": 20.6,
+            "total_price": 61.8
+        }
+    ],
+    "subtotal": "104.40",
+    "gst": "8.74",
+    "total": "96.09",
+    "payment": {
+        "Cash": 96.1
+    }
+}

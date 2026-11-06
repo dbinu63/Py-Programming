@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/04/2027            
+
+Terminal 002
+Cashier Donna
+
+Egg+Bac burger    3           6.40
+                             19.20
+Hot chips         3           6.40
+                             19.20
+Rescue training   1          62.00
+Rescue training   3          62.00
+                            186.00
+
+Subtotal                    286.40
+
+* Promotions
+ Buy 3x Egg+Bac burger, save 15%
+                             -2.88
+ Buy 2x Hot chips, save 25%
+                             -3.20
+
+GST Included                 25.48
+Total                       280.32
+
+Payments
+BPAY                        280.32
+
+Reference 5593822:270405:01566
+
+            Drive safe            
+----------------------------------

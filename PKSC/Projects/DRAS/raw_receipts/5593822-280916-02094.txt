@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            16/09/2028            
+
+Terminal 004
+Cashier Donna
+
+Aquaerobics       2          15.80
+                             31.60
+Infant lesson     1          19.60
+Aquaerobics       3          15.80
+                             47.40
+
+Subtotal                     98.60
+
+* Promotions
+ Buy 3x Aquaerobics, save 20%
+                             -9.48
+
+GST Included                  8.10
+Total                        89.12
+
+Payments
+Debit Card                   89.12
+
+Reference 5593822:280916:02094
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,25 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2025-07-16",
+    "month": 7,
+    "year": 2025,
+    "terminal": "002",
+    "cashier": "Scott",
+    "customer": "Daniel",
+    "reference": "2209696:250716:01541",
+    "items": [
+        {
+            "product": "Brownie",
+            "quantity": 2,
+            "unit_price": 5.2,
+            "total_price": 10.4
+        }
+    ],
+    "subtotal": "10.40",
+    "gst": "0.95",
+    "total": "10.40",
+    "payment": {
+        "Cash": 10.4
+    }
+}

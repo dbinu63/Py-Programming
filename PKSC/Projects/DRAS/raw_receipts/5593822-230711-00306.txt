@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            11/07/2023            
+
+Terminal 005
+Cashier Theresa
+
+Water bottle      3           7.40
+                             22.20
+Aquaerobics       1          12.60
+Aquaerobics       1          12.60
+Rescue training   3          52.50
+                            157.50
+
+Subtotal                    204.90
+
+* Promotions
+ 15% off Rescue training
+                            -23.62
+
+GST Included                 16.48
+Total                       181.28
+
+Payments
+Gift Card                   181.28
+
+Reference 5593822:230711:00306
+
+           Stay healthy           
+----------------------------------

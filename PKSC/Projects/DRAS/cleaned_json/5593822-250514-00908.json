@@ -1,0 +1,43 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2025-05-14",
+    "month": 5,
+    "year": 2025,
+    "terminal": "005",
+    "cashier": "Kevin",
+    "customer": "William",
+    "reference": "5593822:250514:00908",
+    "items": [
+        {
+            "product": "Swim cap",
+            "quantity": 3,
+            "unit_price": 11.6,
+            "total_price": 34.8
+        },
+        {
+            "product": "Rescue training",
+            "quantity": 3,
+            "unit_price": 57.0,
+            "total_price": 171.0
+        },
+        {
+            "product": "Rescue training",
+            "quantity": 3,
+            "unit_price": 57.0,
+            "total_price": 171.0
+        },
+        {
+            "product": "Waterpolo",
+            "quantity": 3,
+            "unit_price": 13.8,
+            "total_price": 41.4
+        }
+    ],
+    "subtotal": "418.20",
+    "gst": "37.64",
+    "total": "414.06",
+    "payment": {
+        "Gift Card": 414.06
+    }
+}

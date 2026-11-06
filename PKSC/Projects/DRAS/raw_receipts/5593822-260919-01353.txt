@@ -1,0 +1,28 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            19/09/2026            
+
+Terminal 001
+Cashier Kevin
+Customer Tammy
+
+Infant lesson     1          18.20
+Water bottle      3           8.60
+                             25.80
+Infant lesson     3          18.20
+                             54.60
+
+Subtotal                     98.60
+
+GST Included                  8.96
+Total                        98.60
+
+Payments
+Loyalty Points               98.60
+
+Reference 5593822:260919:01353
+
+            Thank you             
+----------------------------------

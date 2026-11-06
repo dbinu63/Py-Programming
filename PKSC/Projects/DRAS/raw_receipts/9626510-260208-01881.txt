@@ -1,0 +1,30 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            08/02/2026            
+
+Terminal 001
+Cashier Ronald
+Customer Steven
+
+Hawaiian          1          14.60
+Garlic bread      1           7.30
+Spicy chicken     1          15.80
+Garlic bread      3           7.30
+                             21.90
+
+Subtotal                     59.60
+
+GST Included                  5.42
+Total                        59.60
+
+Payments
+Credit Card                  59.60
+
+     You earnt 5,960 points!      
+
+Reference 9626510:260208:01881
+
+           Stay healthy           
+----------------------------------

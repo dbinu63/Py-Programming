@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            03/01/2024            
+
+Terminal 004
+Cashier Kathryn
+
+Scissors          2          38.40
+                             76.80
+Face wipes        3          10.60
+                             31.80
+Face wipes        1          10.60
+Face wipes        3          10.60
+                             31.80
+
+Subtotal                    151.00
+
+GST Included                 13.73
+Total                       151.00
+
+Payments
+EFTPOS                      151.00
+
+Reference 3795898:240103:00547
+
+            Thank you             
+----------------------------------

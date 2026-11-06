@@ -1,0 +1,32 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            05/05/2023            
+
+Terminal 002
+Cashier Ronald
+
+Chips             3           6.30
+                             18.90
+Pancakes          1           7.40
+Pancakes          1           7.40
+
+Subtotal                     33.70
+
+* Promotions
+ Buy 3x Chips, save 5%
+                             -0.95
+ Buy 2x Pancakes, save 25%
+                             -3.70
+
+GST Included                  2.64
+Total                        29.06
+
+Payments
+BPAY                         29.06
+
+Reference 9626510:230505:00385
+
+           Stay healthy           
+----------------------------------

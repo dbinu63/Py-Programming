@@ -1,0 +1,25 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2027-06-22",
+    "month": 6,
+    "year": 2027,
+    "terminal": "001",
+    "cashier": "Diane",
+    "customer": "Sandra",
+    "reference": "2209696:270622:02684",
+    "items": [
+        {
+            "product": "Ham bagel",
+            "quantity": 3,
+            "unit_price": 12.8,
+            "total_price": 38.4
+        }
+    ],
+    "subtotal": "38.40",
+    "gst": "3.14",
+    "total": "34.56",
+    "payment": {
+        "Debit Card": 34.56
+    }
+}

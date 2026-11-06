@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/10/2027            
+
+Terminal 002
+Cashier Michael
+Customer Lisa
+
+Cape white        1          56.00
+Pomade            2          15.80
+                             31.60
+Cape white        3          56.00
+                            168.00
+
+Subtotal                    255.60
+
+* Promotions
+ Buy 2x Cape white, save 10%
+                            -22.40
+
+GST Included                 21.20
+Total                       233.20
+
+Payments
+BPAY                         23.32
+Credit Card                 209.88
+
+     You earnt 23,320 points!     
+
+Reference 3795898:271028:02102
+
+           See you soon           
+----------------------------------

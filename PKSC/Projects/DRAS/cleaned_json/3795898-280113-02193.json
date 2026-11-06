@@ -1,0 +1,38 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2028-01-13",
+    "month": 1,
+    "year": 2028,
+    "terminal": "003",
+    "cashier": "Michael",
+    "customer": null,
+    "reference": "3795898:280113:02193",
+    "items": [
+        {
+            "product": "Shaving cream",
+            "quantity": 2,
+            "unit_price": 15.8,
+            "total_price": 31.6
+        },
+        {
+            "product": "Cape grey",
+            "quantity": 2,
+            "unit_price": 58.5,
+            "total_price": 117.0
+        },
+        {
+            "product": "Cape white",
+            "quantity": 2,
+            "unit_price": 58.5,
+            "total_price": 117.0
+        }
+    ],
+    "subtotal": "265.60",
+    "gst": "22.02",
+    "total": "242.20",
+    "payment": {
+        "Cash": 99.75,
+        "Gift Card": 142.45
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2026-01-23",
+    "month": 1,
+    "year": 2026,
+    "terminal": "004",
+    "cashier": "Scott",
+    "customer": "Scott",
+    "reference": "2209696:260123:01830",
+    "items": [
+        {
+            "product": "Flat white",
+            "quantity": 2,
+            "unit_price": 5.5,
+            "total_price": 11.0
+        },
+        {
+            "product": "Cupcake",
+            "quantity": 2,
+            "unit_price": 8.6,
+            "total_price": 17.2
+        }
+    ],
+    "subtotal": "28.20",
+    "gst": "2.41",
+    "total": "26.48",
+    "payment": {
+        "BPAY": 26.48
+    }
+}

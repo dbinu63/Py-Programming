@@ -1,0 +1,28 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/11/2024            
+
+Terminal 002
+Cashier Eric
+Customer Jacob
+
+Hairspray         1          27.40
+Soap 500mL        1           7.20
+
+Subtotal                     34.60
+
+GST Included                  3.15
+Total                        34.60
+
+Payments
+Loyalty Points                5.75
+Debit Card                   28.85
+
+     You earnt 2,885 points!      
+
+Reference 3795898:241128:00888
+
+            Thank you             
+----------------------------------

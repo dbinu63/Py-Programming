@@ -1,0 +1,26 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            04/07/2024            
+
+Terminal 001
+Cashier Jonathon
+
+Soap 500mL        1           7.20
+Scissors          2          38.40
+                             76.80
+
+Subtotal                     84.00
+
+GST Included                  7.64
+Total                        84.00
+
+Payments
+Cash                         78.65
+BPAY                          5.35
+
+Reference 3795898:240704:00736
+
+            Drive safe            
+----------------------------------

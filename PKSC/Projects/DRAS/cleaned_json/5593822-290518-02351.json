@@ -1,0 +1,37 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2029-05-18",
+    "month": 5,
+    "year": 2029,
+    "terminal": "003",
+    "cashier": "Patricia",
+    "customer": "Cody",
+    "reference": "5593822:290518:02351",
+    "items": [
+        {
+            "product": "Aquaerobics",
+            "quantity": 3,
+            "unit_price": 16.6,
+            "total_price": 49.8
+        },
+        {
+            "product": "Towel",
+            "quantity": 2,
+            "unit_price": 20.6,
+            "total_price": 41.2
+        },
+        {
+            "product": "Hot chips",
+            "quantity": 3,
+            "unit_price": 7.1,
+            "total_price": 21.3
+        }
+    ],
+    "subtotal": "119.40",
+    "gst": "9.39",
+    "total": "103.26",
+    "payment": {
+        "Cash": 103.25
+    }
+}

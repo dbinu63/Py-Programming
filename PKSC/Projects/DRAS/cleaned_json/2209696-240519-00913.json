@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2024-05-19",
+    "month": 5,
+    "year": 2024,
+    "terminal": "004",
+    "cashier": "Leslie",
+    "customer": null,
+    "reference": "2209696:240519:00913",
+    "items": [
+        {
+            "product": "Eggs benny",
+            "quantity": 3,
+            "unit_price": 19.8,
+            "total_price": 59.4
+        }
+    ],
+    "subtotal": "59.40",
+    "gst": "5.40",
+    "total": "59.40",
+    "payment": {
+        "EFTPOS": 5.94,
+        "Credit Card": 53.46
+    }
+}

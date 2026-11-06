@@ -1,0 +1,32 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            18/01/2024            
+
+Terminal 005
+Cashier Ronald
+
+Cheese bread      1           6.60
+Hawaiian          2          13.20
+                             26.40
+Chips             1           6.60
+Cheese bread      2           6.60
+                             13.20
+
+Subtotal                     52.80
+
+* Promotions
+ Buy 2x Cheese bread, save 5%
+                             -0.66
+
+GST Included                  4.74
+Total                        52.14
+
+Payments
+Debit Card                   52.14
+
+Reference 9626510:240118:00735
+
+            Thank you             
+----------------------------------

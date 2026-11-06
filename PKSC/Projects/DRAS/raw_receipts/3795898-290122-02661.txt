@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            22/01/2029            
+
+Terminal 001
+Cashier Carlos
+Customer Scott
+
+Spray bottle      3          26.80
+                             80.40
+Spray bottle      3          26.80
+                             80.40
+
+Subtotal                    160.80
+
+* Promotions
+ 25% off Spray bottle
+                            -40.20
+
+GST Included                 10.96
+Total                       120.60
+
+Payments
+BPAY                        120.60
+
+     You earnt 12,060 points!     
+
+Reference 3795898:290122:02661
+
+              Cheers              
+----------------------------------

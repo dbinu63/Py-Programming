@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            06/04/2029            
+
+Terminal 005
+Cashier Juan
+
+Shaving cream     3          16.60
+                             49.80
+Pomade            1          17.60
+Pomade            3          17.60
+                             52.80
+
+Subtotal                    120.20
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -7.04
+
+GST Included                 10.29
+Total                       113.16
+
+Payments
+Gift Card                    22.63
+Debit Card                   90.53
+
+Reference 3795898:290406:02756
+
+            Drive safe            
+----------------------------------

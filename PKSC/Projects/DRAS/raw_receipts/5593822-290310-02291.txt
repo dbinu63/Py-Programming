@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            10/03/2029            
+
+Terminal 001
+Cashier Derek
+
+Shampoo           2           7.10
+                             14.20
+Shampoo           3           7.10
+                             21.30
+Egg+Bac burger    3           7.10
+                             21.30
+Aquaerobics       1          16.60
+
+Subtotal                     73.40
+
+* Promotions
+ Buy 2x Shampoo, save 20%
+                             -5.68
+ Buy 3x Egg+Bac burger, save 5%
+                             -1.07
+
+GST Included                  6.06
+Total                        66.66
+
+Payments
+Cash                         15.95
+EFTPOS                       50.70
+
+Reference 5593822:290310:02291
+
+              Cheers              
+----------------------------------

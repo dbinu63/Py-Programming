@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            15/09/2025            
+
+Terminal 005
+Cashier Jennifer
+
+Swim cap          3          11.60
+                             34.80
+Rescue training   3          57.00
+                            171.00
+Waterpolo         3          13.80
+                             41.40
+Rescue training   1          57.00
+
+Subtotal                    304.20
+
+* Promotions
+ 10% off Waterpolo
+                             -4.14
+
+GST Included                 27.28
+Total                       300.06
+
+Payments
+Credit Card                 300.06
+
+Reference 5593822:250915:01001
+
+            Drive safe            
+----------------------------------

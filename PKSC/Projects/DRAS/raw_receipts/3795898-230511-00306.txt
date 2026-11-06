@@ -1,0 +1,40 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/05/2023            
+
+Terminal 004
+Cashier Jonathon
+Customer Samantha
+
+Soap 500mL        1           6.90
+Cape grey         3          46.80
+                            140.40
+Soap 500mL        1           6.90
+Razorblade        2          15.80
+                             31.60
+
+Subtotal                    185.80
+
+* Promotions
+ Buy 2x Cape grey, save 15%
+                            -14.04
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+ Buy 2x Razorblade, save 20%
+                             -6.32
+
+GST Included                 14.91
+Total                       164.06
+
+Payments
+Debit Card                  114.84
+Credit Card                  49.22
+
+     You earnt 16,406 points!     
+
+Reference 3795898:230511:00306
+
+              Cheers              
+----------------------------------

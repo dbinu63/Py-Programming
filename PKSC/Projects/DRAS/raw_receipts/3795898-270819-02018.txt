@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            19/08/2027            
+
+Terminal 002
+Cashier Scott
+Customer Anna
+
+Shaving cream     3          15.20
+                             45.60
+Soap 500mL        1           8.20
+Spray bottle      2          24.40
+                             48.80
+
+Subtotal                    102.60
+
+GST Included                  9.33
+Total                       102.60
+
+Payments
+BPAY                        102.60
+
+     You earnt 10,260 points!     
+
+Reference 3795898:270819:02018
+
+     Pleasure doing business      
+----------------------------------

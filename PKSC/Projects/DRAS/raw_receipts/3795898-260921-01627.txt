@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            21/09/2026            
+
+Terminal 001
+Cashier Scott
+Customer Ashley
+
+Pomade            2          15.20
+                             30.40
+Pomade            2          15.20
+                             30.40
+
+Subtotal                     60.80
+
+GST Included                  5.53
+Total                        60.80
+
+Payments
+Loyalty Points               60.80
+
+Reference 3795898:260921:01627
+
+     Pleasure doing business      
+----------------------------------

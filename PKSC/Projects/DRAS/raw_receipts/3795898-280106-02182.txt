@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            06/01/2028            
+
+Terminal 004
+Cashier Scott
+Customer Rebecca
+
+Spray bottle      1          25.40
+Razorblade        3          19.60
+                             58.80
+Razorblade        2          19.60
+                             39.20
+Spray bottle      3          25.40
+                             76.20
+
+Subtotal                    199.60
+
+* Promotions
+ Buy 3x Razorblade, save 20%
+                            -11.76
+
+GST Included                 17.08
+Total                       187.84
+
+Payments
+BPAY                        187.84
+
+     You earnt 18,784 points!     
+
+Reference 3795898:280106:02182
+
+     Pleasure doing business      
+----------------------------------

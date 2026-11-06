@@ -1,0 +1,38 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-03-17",
+    "month": 3,
+    "year": 2029,
+    "terminal": "003",
+    "cashier": "Kelly",
+    "customer": null,
+    "reference": "2209696:290317:03836",
+    "items": [
+        {
+            "product": "English muffin",
+            "quantity": 1,
+            "unit_price": 8.3,
+            "total_price": 8.3
+        },
+        {
+            "product": "Cupcake",
+            "quantity": 1,
+            "unit_price": 9.8,
+            "total_price": 9.8
+        },
+        {
+            "product": "Cupcake",
+            "quantity": 2,
+            "unit_price": 9.8,
+            "total_price": 19.6
+        }
+    ],
+    "subtotal": "37.70",
+    "gst": "2.98",
+    "total": "32.80",
+    "payment": {
+        "Cash": 21.9,
+        "EFTPOS": 10.9
+    }
+}

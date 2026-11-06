@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            18/11/2022            
+
+Terminal 004
+Cashier Jonathon
+
+Hairspray         2          25.00
+                             50.00
+Classic brush     3          14.00
+                             42.00
+Soap 500mL        2           6.50
+                             13.00
+Classic brush     3          14.00
+                             42.00
+
+Subtotal                    147.00
+
+GST Included                 13.36
+Total                       147.00
+
+Payments
+Debit Card                  147.00
+
+Reference 3795898:221118:00133
+
+           Stay healthy           
+----------------------------------

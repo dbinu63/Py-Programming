@@ -1,0 +1,37 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            09/01/2025            
+
+Terminal 001
+Cashier Ronald
+Customer Mary
+
+Garlic bread      1           6.90
+Ham and Cheese    2          13.80
+                             27.60
+Chips             2           6.90
+                             13.80
+Hawaiian          3          13.80
+                             41.40
+
+Subtotal                     89.70
+
+* Promotions
+ Buy 2x Hawaiian, save 30%
+                             -8.28
+
+GST Included                  7.40
+Total                        81.42
+
+Payments
+Gift Card                    32.57
+Credit Card                  48.85
+
+     You earnt 8,142 points!      
+
+Reference 9626510:250109:01256
+
+            Thank you             
+----------------------------------

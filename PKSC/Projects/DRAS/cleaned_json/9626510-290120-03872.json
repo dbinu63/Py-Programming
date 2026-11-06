@@ -1,0 +1,26 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2029-01-20",
+    "month": 1,
+    "year": 2029,
+    "terminal": "005",
+    "cashier": "Levi",
+    "customer": null,
+    "reference": "9626510:290120:03872",
+    "items": [
+        {
+            "product": "Ham and Cheese",
+            "quantity": 3,
+            "unit_price": 16.6,
+            "total_price": 49.8
+        }
+    ],
+    "subtotal": "49.80",
+    "gst": "4.53",
+    "total": "49.80",
+    "payment": {
+        "Cash": 28.1,
+        "EFTPOS": 21.7
+    }
+}

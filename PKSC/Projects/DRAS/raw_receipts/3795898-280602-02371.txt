@@ -1,0 +1,24 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            02/06/2028            
+
+Terminal 005
+Cashier Michael
+
+Pomade            1          16.60
+Hairwax           1          16.60
+
+Subtotal                     33.20
+
+GST Included                  3.02
+Total                        33.20
+
+Payments
+EFTPOS                       33.20
+
+Reference 3795898:280602:02371
+
+           See you soon           
+----------------------------------

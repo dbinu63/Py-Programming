@@ -1,0 +1,43 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2024-08-01",
+    "month": 8,
+    "year": 2024,
+    "terminal": "002",
+    "cashier": "Scott",
+    "customer": "David",
+    "reference": "2209696:240801:01019",
+    "items": [
+        {
+            "product": "Ham toastie",
+            "quantity": 3,
+            "unit_price": 7.2,
+            "total_price": 21.6
+        },
+        {
+            "product": "Glazed donut",
+            "quantity": 3,
+            "unit_price": 4.4,
+            "total_price": 13.2
+        },
+        {
+            "product": "Glazed donut",
+            "quantity": 2,
+            "unit_price": 4.4,
+            "total_price": 8.8
+        },
+        {
+            "product": "Salmon bagel",
+            "quantity": 2,
+            "unit_price": 13.2,
+            "total_price": 26.4
+        }
+    ],
+    "subtotal": "70.00",
+    "gst": "6.24",
+    "total": "68.68",
+    "payment": {
+        "BPAY": 68.68
+    }
+}

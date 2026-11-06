@@ -1,0 +1,37 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2024-03-20",
+    "month": 3,
+    "year": 2024,
+    "terminal": "003",
+    "cashier": "Leslie",
+    "customer": "Ricardo",
+    "reference": "2209696:240320:00824",
+    "items": [
+        {
+            "product": "Macarons",
+            "quantity": 2,
+            "unit_price": 4.4,
+            "total_price": 8.8
+        },
+        {
+            "product": "Eggs benny",
+            "quantity": 3,
+            "unit_price": 19.8,
+            "total_price": 59.4
+        },
+        {
+            "product": "Salmon bagel",
+            "quantity": 2,
+            "unit_price": 13.2,
+            "total_price": 26.4
+        }
+    ],
+    "subtotal": "94.60",
+    "gst": "8.48",
+    "total": "93.28",
+    "payment": {
+        "Gift Card": 93.28
+    }
+}

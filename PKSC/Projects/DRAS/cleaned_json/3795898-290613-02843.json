@@ -1,0 +1,44 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2029-06-13",
+    "month": 6,
+    "year": 2029,
+    "terminal": "004",
+    "cashier": "Cole",
+    "customer": "Ashlee",
+    "reference": "3795898:290613:02843",
+    "items": [
+        {
+            "product": "Hair tonic",
+            "quantity": 3,
+            "unit_price": 16.6,
+            "total_price": 49.8
+        },
+        {
+            "product": "Broom",
+            "quantity": 3,
+            "unit_price": 53.0,
+            "total_price": 159.0
+        },
+        {
+            "product": "Broom",
+            "quantity": 1,
+            "unit_price": 53.0,
+            "total_price": 53.0
+        },
+        {
+            "product": "Broom",
+            "quantity": 1,
+            "unit_price": 53.0,
+            "total_price": 53.0
+        }
+    ],
+    "subtotal": "314.80",
+    "gst": "28.62",
+    "total": "314.80",
+    "payment": {
+        "Cash": 312.8,
+        "Credit Card": 2.0
+    }
+}

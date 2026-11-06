@@ -1,0 +1,44 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2022-10-05",
+    "month": 10,
+    "year": 2022,
+    "terminal": "005",
+    "cashier": "Leslie",
+    "customer": null,
+    "reference": "2209696:221005:00128",
+    "items": [
+        {
+            "product": "English muffin",
+            "quantity": 3,
+            "unit_price": 6.0,
+            "total_price": 18.0
+        },
+        {
+            "product": "Cappuccino",
+            "quantity": 2,
+            "unit_price": 5.0,
+            "total_price": 10.0
+        },
+        {
+            "product": "Eggs benny",
+            "quantity": 1,
+            "unit_price": 18.0,
+            "total_price": 18.0
+        },
+        {
+            "product": "Ham toastie",
+            "quantity": 3,
+            "unit_price": 6.5,
+            "total_price": 19.5
+        }
+    ],
+    "subtotal": "65.50",
+    "gst": "5.95",
+    "total": "65.50",
+    "payment": {
+        "Cash": 27.8,
+        "Gift Card": 37.7
+    }
+}

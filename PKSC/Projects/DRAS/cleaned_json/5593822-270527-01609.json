@@ -1,0 +1,38 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2027-05-27",
+    "month": 5,
+    "year": 2027,
+    "terminal": "005",
+    "cashier": "Kevin",
+    "customer": null,
+    "reference": "5593822:270527:01609",
+    "items": [
+        {
+            "product": "Casual access",
+            "quantity": 1,
+            "unit_price": 7.6,
+            "total_price": 7.6
+        },
+        {
+            "product": "Casual access",
+            "quantity": 3,
+            "unit_price": 7.6,
+            "total_price": 22.8
+        },
+        {
+            "product": "Rescue training",
+            "quantity": 2,
+            "unit_price": 62.0,
+            "total_price": 124.0
+        }
+    ],
+    "subtotal": "154.40",
+    "gst": "14.04",
+    "total": "154.40",
+    "payment": {
+        "Credit Card": 138.96,
+        "Debit Card": 15.44
+    }
+}

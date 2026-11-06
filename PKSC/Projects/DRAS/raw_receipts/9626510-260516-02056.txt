@@ -1,0 +1,35 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            16/05/2026            
+
+Terminal 004
+Cashier Ronald
+
+Chips             3           7.30
+                             21.90
+Chips             3           7.30
+                             21.90
+Spicy chicken     1          15.80
+Soft drink 2L     2           5.50
+                             11.00
+
+Subtotal                     70.60
+
+* Promotions
+ 5% off Soft drink 2L
+                             -0.55
+ Buy 2x Chips, save 5%
+                             -2.19
+
+GST Included                  6.17
+Total                        67.86
+
+Payments
+BPAY                         67.86
+
+Reference 9626510:260516:02056
+
+            Thank you             
+----------------------------------

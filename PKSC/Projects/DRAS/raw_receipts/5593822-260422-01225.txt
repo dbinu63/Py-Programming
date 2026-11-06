@@ -1,0 +1,37 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            22/04/2026            
+
+Terminal 004
+Cashier Kevin
+
+Swim cap          2          12.40
+                             24.80
+Shampoo           3           6.20
+                             18.60
+Hot chips         3           6.20
+                             18.60
+Swim cap          2          12.40
+                             24.80
+
+Subtotal                     86.80
+
+* Promotions
+ Buy 3x Hot chips, save 15%
+                             -2.79
+ Buy 2x Swim cap, save 25%
+                            -12.40
+
+GST Included                  6.51
+Total                        71.61
+
+Payments
+Cash                         23.70
+Gift Card                    47.91
+
+Reference 5593822:260422:01225
+
+            Drive safe            
+----------------------------------

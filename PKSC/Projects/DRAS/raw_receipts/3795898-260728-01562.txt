@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/07/2026            
+
+Terminal 004
+Cashier Eric
+Customer David
+
+Pomade            1          15.20
+Pomade            3          15.20
+                             45.60
+Razorblade        1          18.20
+Soap 500mL        1           7.90
+
+Subtotal                     86.90
+
+GST Included                  7.90
+Total                        86.90
+
+Payments
+Cash                          2.05
+Loyalty Points               84.85
+
+      You earnt 205 points!       
+
+Reference 3795898:260728:01562
+
+            Thank you             
+----------------------------------

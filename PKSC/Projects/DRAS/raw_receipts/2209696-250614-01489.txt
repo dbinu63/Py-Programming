@@ -1,0 +1,36 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            14/06/2025            
+
+Terminal 002
+Cashier Scott
+Customer Ashley
+
+Flat white        3           5.20
+                             15.60
+Cupcake           3           8.10
+                             24.30
+Ham bagel         2          11.60
+                             23.20
+Ham bagel         1          11.60
+
+Subtotal                     74.70
+
+* Promotions
+ Buy 2x Flat white, save 15%
+                             -1.56
+ Buy 2x Ham bagel, save 15%
+                             -3.48
+
+GST Included                  6.33
+Total                        69.66
+
+Payments
+Loyalty Points               69.66
+
+Reference 2209696:250614:01489
+
+              Cheers              
+----------------------------------

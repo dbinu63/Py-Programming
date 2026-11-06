@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/01/2029            
+
+Terminal 002
+Cashier Kevin
+Customer Cody
+
+Towel             2          20.60
+                             41.20
+
+Subtotal                     41.20
+
+* Promotions
+ Buy 2x Towel, save 15%
+                             -6.18
+
+GST Included                  3.18
+Total                        35.02
+
+Payments
+Loyalty Points               35.02
+
+Reference 5593822:290105:02228
+
+              Cheers              
+----------------------------------

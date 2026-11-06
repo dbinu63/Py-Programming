@@ -1,0 +1,26 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2024-12-21",
+    "month": 12,
+    "year": 2024,
+    "terminal": "002",
+    "cashier": "Donna",
+    "customer": "Sean",
+    "reference": "5593822:241221:00754",
+    "items": [
+        {
+            "product": "Rescue training",
+            "quantity": 1,
+            "unit_price": 55.0,
+            "total_price": 55.0
+        }
+    ],
+    "subtotal": "71.80",
+    "gst": "5.53",
+    "total": "60.80",
+    "payment": {
+        "Debit Card": 30.4,
+        "BPAY": 30.4
+    }
+}

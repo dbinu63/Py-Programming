@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            21/02/2025            
+
+Terminal 002
+Cashier Scott
+Customer Scott
+
+Glazed donut      1           4.60
+Flat white        3           5.20
+                             15.60
+Ham bagel         1          11.60
+Mocha             3           4.10
+                             12.30
+
+Subtotal                     44.10
+
+* Promotions
+ Buy 2x Mocha, save 15%
+                             -1.23
+ Buy 2x Flat white, save 15%
+                             -1.56
+
+GST Included                  3.76
+Total                        41.31
+
+Payments
+BPAY                         41.31
+
+     You earnt 4,131 points!      
+
+Reference 2209696:250221:01312
+
+              Cheers              
+----------------------------------

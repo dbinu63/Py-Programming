@@ -1,0 +1,25 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2028-12-10",
+    "month": 12,
+    "year": 2028,
+    "terminal": "005",
+    "cashier": "Diane",
+    "customer": null,
+    "reference": "2209696:281210:03642",
+    "items": [
+        {
+            "product": "Ham toastie",
+            "quantity": 2,
+            "unit_price": 8.6,
+            "total_price": 17.2
+        }
+    ],
+    "subtotal": "17.20",
+    "gst": "1.56",
+    "total": "17.20",
+    "payment": {
+        "Credit Card": 17.2
+    }
+}

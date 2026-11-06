@@ -1,0 +1,38 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            18/05/2029            
+
+Terminal 003
+Cashier Patricia
+Customer Cody
+
+Aquaerobics       3          16.60
+                             49.80
+Egg+Bac burger    1           7.10
+Towel             2          20.60
+                             41.20
+Hot chips         3           7.10
+                             21.30
+
+Subtotal                    119.40
+
+* Promotions
+ Buy 2x Towel, save 15%
+                             -6.18
+ Buy 2x Aquaerobics, save 30%
+                             -9.96
+
+GST Included                  9.39
+Total                       103.26
+
+Payments
+Cash                        103.25
+
+     You earnt 10,325 points!     
+
+Reference 5593822:290518:02351
+
+           See you soon           
+----------------------------------

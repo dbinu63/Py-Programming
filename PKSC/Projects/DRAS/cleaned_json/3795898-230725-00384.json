@@ -1,0 +1,31 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2023-07-25",
+    "month": 7,
+    "year": 2023,
+    "terminal": "002",
+    "cashier": "Jonathon",
+    "customer": "Mariah",
+    "reference": "3795898:230725:00384",
+    "items": [
+        {
+            "product": "Hairwax",
+            "quantity": 2,
+            "unit_price": 13.2,
+            "total_price": 26.4
+        },
+        {
+            "product": "Spray bottle",
+            "quantity": 1,
+            "unit_price": 20.6,
+            "total_price": 20.6
+        }
+    ],
+    "subtotal": "47.00",
+    "gst": "4.27",
+    "total": "47.00",
+    "payment": {
+        "BPAY": 47.0
+    }
+}

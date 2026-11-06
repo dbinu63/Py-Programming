@@ -1,0 +1,38 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            07/02/2026            
+
+Terminal 004
+Cashier Kevin
+Customer Scott
+
+Shampoo           3           6.20
+                             18.60
+Shampoo           3           6.20
+                             18.60
+Swim cap          2          12.40
+                             24.80
+Swim cap          2          12.40
+                             24.80
+
+Subtotal                     86.80
+
+* Promotions
+ Buy 2x Swim cap, save 25%
+                            -12.40
+
+GST Included                  6.76
+Total                        74.40
+
+Payments
+Cash                          2.60
+Credit Card                  71.80
+
+     You earnt 7,440 points!      
+
+Reference 5593822:260207:01154
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,37 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            16/02/2029            
+
+Terminal 001
+Cashier Jennifer
+Customer Andrew
+
+Vego              2          16.60
+                             33.20
+Pancakes          1           9.80
+Vego              3          16.60
+                             49.80
+Spicy chicken     3          18.20
+                             54.60
+
+Subtotal                    147.40
+
+* Promotions
+ Buy 3x Spicy chicken, save 5%
+                             -2.73
+
+GST Included                 13.15
+Total                       144.67
+
+Payments
+Credit Card                 101.27
+BPAY                         43.40
+
+     You earnt 14,467 points!     
+
+Reference 9626510:290216:03923
+
+            Drive safe            
+----------------------------------

@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2026-08-27",
+    "month": 8,
+    "year": 2026,
+    "terminal": "003",
+    "cashier": "Matthew",
+    "customer": "Ricardo",
+    "reference": "2209696:260827:02174",
+    "items": [
+        {
+            "product": "Long Black",
+            "quantity": 2,
+            "unit_price": 4.4,
+            "total_price": 8.8
+        }
+    ],
+    "subtotal": "8.80",
+    "gst": "0.80",
+    "total": "8.80",
+    "payment": {
+        "Gift Card": 1.76,
+        "EFTPOS": 7.04
+    }
+}

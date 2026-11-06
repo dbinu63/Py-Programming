@@ -1,0 +1,32 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2023-06-13",
+    "month": 6,
+    "year": 2023,
+    "terminal": "001",
+    "cashier": "Jonathon",
+    "customer": "Michaela",
+    "reference": "3795898:230613:00340",
+    "items": [
+        {
+            "product": "Cape grey",
+            "quantity": 1,
+            "unit_price": 46.8,
+            "total_price": 46.8
+        },
+        {
+            "product": "Hairwax",
+            "quantity": 2,
+            "unit_price": 13.2,
+            "total_price": 26.4
+        }
+    ],
+    "subtotal": "73.20",
+    "gst": "6.65",
+    "total": "73.20",
+    "payment": {
+        "Loyalty Points": 72.2,
+        "Credit Card": 1.0
+    }
+}

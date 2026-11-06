@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            08/06/2026            
+
+Terminal 005
+Cashier Kevin
+Customer Meghan
+
+Rescue training   3          60.00
+                            180.00
+Shampoo           2           6.20
+                             12.40
+Waterpolo         2          14.60
+                             29.20
+Hot chips         2           6.20
+                             12.40
+
+Subtotal                    234.00
+
+GST Included                 21.27
+Total                       234.00
+
+Payments
+Loyalty Points              234.00
+
+Reference 5593822:260608:01267
+
+            Thank you             
+----------------------------------

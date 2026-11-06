@@ -1,0 +1,38 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            01/02/2026            
+
+Terminal 001
+Cashier Scott
+Customer Michelle
+
+Mocha             1           4.40
+Cupcake           1           8.60
+Ham bagel         1          12.40
+Mocha             3           4.40
+                             13.20
+
+Subtotal                     38.60
+
+* Promotions
+ 15% off Mocha
+                             -2.64
+ 25% off Ham bagel
+                             -3.10
+ 10% off Cupcake
+                             -0.86
+
+GST Included                  2.91
+Total                        32.00
+
+Payments
+Cash                         32.00
+
+     You earnt 3,200 points!      
+
+Reference 2209696:260201:01840
+
+           Stay healthy           
+----------------------------------

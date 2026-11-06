@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            06/12/2028            
+
+Terminal 001
+Cashier Carlos
+
+Hairwax           2          16.60
+                             33.20
+Cape white        2          58.50
+                            117.00
+Shaving cream     2          15.80
+                             31.60
+Pomade            2          16.60
+                             33.20
+
+Subtotal                    215.00
+
+GST Included                 19.55
+Total                       215.00
+
+Payments
+Credit Card                 215.00
+
+Reference 3795898:281206:02604
+
+           Stay healthy           
+----------------------------------

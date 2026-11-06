@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            07/03/2028            
+
+Terminal 001
+Cashier Michael
+
+Pomade            1          16.60
+Shaving cream     3          15.80
+                             47.40
+Razorblade        1          19.60
+Razorblade        1          19.60
+
+Subtotal                    103.20
+
+GST Included                  9.38
+Total                       103.20
+
+Payments
+Cash                        103.20
+
+Reference 3795898:280307:02263
+
+            Drive safe            
+----------------------------------

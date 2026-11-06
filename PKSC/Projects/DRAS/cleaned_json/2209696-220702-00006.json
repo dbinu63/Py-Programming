@@ -1,0 +1,43 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2022-07-02",
+    "month": 7,
+    "year": 2022,
+    "terminal": "005",
+    "cashier": "Scott",
+    "customer": "Isaac",
+    "reference": "2209696:220702:00006",
+    "items": [
+        {
+            "product": "Cappuccino",
+            "quantity": 3,
+            "unit_price": 5.0,
+            "total_price": 15.0
+        },
+        {
+            "product": "Mocha",
+            "quantity": 2,
+            "unit_price": 3.5,
+            "total_price": 7.0
+        },
+        {
+            "product": "Eggs benny",
+            "quantity": 3,
+            "unit_price": 18.0,
+            "total_price": 54.0
+        },
+        {
+            "product": "Eggs benny",
+            "quantity": 2,
+            "unit_price": 18.0,
+            "total_price": 36.0
+        }
+    ],
+    "subtotal": "112.00",
+    "gst": "10.18",
+    "total": "112.00",
+    "payment": {
+        "EFTPOS": 112.0
+    }
+}

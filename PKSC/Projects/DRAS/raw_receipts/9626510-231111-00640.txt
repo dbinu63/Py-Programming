@@ -1,0 +1,39 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            11/11/2023            
+
+Terminal 005
+Cashier Tara
+Customer Luke
+
+Chips             3           6.30
+                             18.90
+Soft drink 2L     2           4.80
+                              9.60
+Three meat        3          16.80
+                             50.40
+Soft drink 1L     3           3.70
+                             11.10
+
+Subtotal                     90.00
+
+* Promotions
+ Buy 3x Chips, save 5%
+                             -0.95
+ 5% off Three meat
+                             -2.52
+
+GST Included                  7.87
+Total                        86.54
+
+Payments
+Gift Card                    86.54
+
+     You earnt 8,654 points!      
+
+Reference 9626510:231111:00640
+
+     Pleasure doing business      
+----------------------------------

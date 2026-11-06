@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            24/08/2027            
+
+Terminal 005
+Cashier Michael
+Customer Anna
+
+Shaving cream     2          15.20
+                             30.40
+Shaving cream     2          15.20
+                             30.40
+Cape white        3          56.00
+                            168.00
+
+Subtotal                    228.80
+
+* Promotions
+ Buy 2x Cape white, save 10%
+                            -11.20
+
+GST Included                 19.78
+Total                       217.60
+
+Payments
+Cash                        217.60
+
+     You earnt 21,760 points!     
+
+Reference 3795898:270824:02026
+
+            Drive safe            
+----------------------------------

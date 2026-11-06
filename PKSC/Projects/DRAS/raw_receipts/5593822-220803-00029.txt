@@ -1,0 +1,25 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            03/08/2022            
+
+Terminal 001
+Cashier Jennifer
+
+Aquaerobics       1          12.00
+Aquaerobics       1          12.00
+
+Subtotal                     24.00
+
+GST Included                  2.18
+Total                        24.00
+
+Payments
+Cash                         20.70
+Gift Card                     3.30
+
+Reference 5593822:220803:00029
+
+            Drive safe            
+----------------------------------

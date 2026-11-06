@@ -1,0 +1,44 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2025-10-30",
+    "month": 10,
+    "year": 2025,
+    "terminal": "004",
+    "cashier": "Jennifer",
+    "customer": "Ashley",
+    "reference": "5593822:251030:01042",
+    "items": [
+        {
+            "product": "Swim goggles",
+            "quantity": 3,
+            "unit_price": 22.8,
+            "total_price": 68.4
+        },
+        {
+            "product": "Swim goggles",
+            "quantity": 2,
+            "unit_price": 22.8,
+            "total_price": 45.6
+        },
+        {
+            "product": "Shampoo",
+            "quantity": 3,
+            "unit_price": 5.8,
+            "total_price": 17.4
+        },
+        {
+            "product": "Rescue training",
+            "quantity": 3,
+            "unit_price": 57.0,
+            "total_price": 171.0
+        }
+    ],
+    "subtotal": "302.40",
+    "gst": "27.49",
+    "total": "302.40",
+    "payment": {
+        "Credit Card": 90.72,
+        "EFTPOS": 211.68
+    }
+}

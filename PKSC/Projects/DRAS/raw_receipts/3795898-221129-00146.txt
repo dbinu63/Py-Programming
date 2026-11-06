@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            29/11/2022            
+
+Terminal 001
+Cashier Anthony
+
+Hairspray         3          25.00
+                             75.00
+Face wipes        2           9.50
+                             19.00
+Soap 500mL        2           6.50
+                             13.00
+
+Subtotal                    107.00
+
+GST Included                  9.73
+Total                       107.00
+
+Payments
+EFTPOS                       32.10
+Credit Card                  74.90
+
+Reference 3795898:221129:00146
+
+           See you soon           
+----------------------------------

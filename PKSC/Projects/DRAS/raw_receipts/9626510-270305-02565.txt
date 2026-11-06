@@ -1,0 +1,34 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            05/03/2027            
+
+Terminal 005
+Cashier Jennifer
+Customer Robert
+
+Pepperoni         2          16.40
+                             32.80
+Pepperoni         3          16.40
+                             49.20
+Chips             3           7.60
+                             22.80
+Vego              2          15.20
+                             30.40
+
+Subtotal                    135.20
+
+GST Included                 12.29
+Total                       135.20
+
+Payments
+Cash                         23.25
+Loyalty Points              111.95
+
+     You earnt 2,325 points!      
+
+Reference 9626510:270305:02565
+
+     Pleasure doing business      
+----------------------------------

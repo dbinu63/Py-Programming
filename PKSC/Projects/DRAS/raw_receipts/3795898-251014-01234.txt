@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            14/10/2025            
+
+Terminal 003
+Cashier Jonathon
+
+Pomade            1          14.40
+Scissors          3          39.80
+                            119.40
+Pomade            2          14.40
+                             28.80
+
+Subtotal                    162.60
+
+* Promotions
+ Buy 2x Scissors, save 20%
+                            -15.92
+
+GST Included                 13.33
+Total                       146.68
+
+Payments
+BPAY                         73.34
+Debit Card                   73.34
+
+Reference 3795898:251014:01234
+
+            Thank you             
+----------------------------------

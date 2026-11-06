@@ -1,0 +1,40 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            29/12/2028            
+
+Terminal 005
+Cashier Donna
+Customer Patricia
+
+Aquaerobics       3          15.80
+                             47.40
+Infant lesson     2          19.60
+                             39.20
+Sync diving       3          25.80
+                             77.40
+Shampoo           3           6.70
+                             20.10
+
+Subtotal                    184.10
+
+* Promotions
+ 25% off Sync diving
+                            -19.35
+ Buy 3x Aquaerobics, save 20%
+                             -9.48
+
+GST Included                 14.12
+Total                       155.27
+
+Payments
+Cash                         37.45
+Loyalty Points              117.82
+
+     You earnt 3,745 points!      
+
+Reference 5593822:281229:02224
+
+           See you soon           
+----------------------------------

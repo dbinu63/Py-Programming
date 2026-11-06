@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2024-04-20",
+    "month": 4,
+    "year": 2024,
+    "terminal": "002",
+    "cashier": "Leslie",
+    "customer": "Scott",
+    "reference": "2209696:240420:00872",
+    "items": [
+        {
+            "product": "Macarons",
+            "quantity": 1,
+            "unit_price": 4.4,
+            "total_price": 4.4
+        }
+    ],
+    "subtotal": "4.40",
+    "gst": "0.40",
+    "total": "4.40",
+    "payment": {
+        "Loyalty Points": 2.9,
+        "Gift Card": 1.5
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2025-10-11",
+    "month": 10,
+    "year": 2025,
+    "terminal": "003",
+    "cashier": "Donna",
+    "customer": "Vicki",
+    "reference": "5593822:251011:01026",
+    "items": [
+        {
+            "product": "Shampoo",
+            "quantity": 1,
+            "unit_price": 5.8,
+            "total_price": 5.8
+        },
+        {
+            "product": "Swim cap",
+            "quantity": 3,
+            "unit_price": 11.6,
+            "total_price": 34.8
+        },
+        {
+            "product": "Swim goggles",
+            "quantity": 2,
+            "unit_price": 22.8,
+            "total_price": 45.6
+        },
+        {
+            "product": "Swim goggles",
+            "quantity": 2,
+            "unit_price": 22.8,
+            "total_price": 45.6
+        }
+    ],
+    "subtotal": "131.80",
+    "gst": "11.98",
+    "total": "131.80",
+    "payment": {
+        "BPAY": 65.9,
+        "Credit Card": 65.9
+    }
+}

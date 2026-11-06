@@ -1,0 +1,39 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            02/12/2025            
+
+Terminal 001
+Cashier Leslie
+Customer Robert
+
+Mocha             2           4.10
+                              8.20
+Brownie           1           5.20
+Flat white        3           5.20
+                             15.60
+Flat white        3           5.20
+                             15.60
+
+Subtotal                     44.60
+
+* Promotions
+ Buy 2x Mocha, save 15%
+                             -1.23
+ Buy 2x Flat white, save 15%
+                             -4.68
+
+GST Included                  3.52
+Total                        38.69
+
+Payments
+Cash                         36.95
+Debit Card                    1.74
+
+     You earnt 3,869 points!      
+
+Reference 2209696:251202:01743
+
+           Stay healthy           
+----------------------------------

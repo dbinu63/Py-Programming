@@ -1,0 +1,37 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            23/05/2026            
+
+Terminal 004
+Cashier Donna
+Customer Sean
+
+Hot chips         2           6.20
+                             12.40
+Shampoo           2           6.20
+                             12.40
+Hot chips         3           6.20
+                             18.60
+Hot chips         2           6.20
+                             12.40
+
+Subtotal                     55.80
+
+* Promotions
+ Buy 3x Hot chips, save 15%
+                             -5.58
+
+GST Included                  4.57
+Total                        50.22
+
+Payments
+Debit Card                   50.22
+
+     You earnt 5,022 points!      
+
+Reference 5593822:260523:01252
+
+            Drive safe            
+----------------------------------

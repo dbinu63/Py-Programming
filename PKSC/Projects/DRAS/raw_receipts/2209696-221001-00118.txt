@@ -1,0 +1,33 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            01/10/2022            
+
+Terminal 004
+Cashier Scott
+Customer Dorothy
+
+Cappuccino        2           5.00
+                             10.00
+Eggs benny        2          18.00
+                             36.00
+Mocha             3           3.50
+                             10.50
+English muffin    1           6.00
+
+Subtotal                     62.50
+
+GST Included                  5.68
+Total                        62.50
+
+Payments
+Loyalty Points               60.40
+Debit Card                    2.10
+
+      You earnt 210 points!       
+
+Reference 2209696:221001:00118
+
+              Cheers              
+----------------------------------

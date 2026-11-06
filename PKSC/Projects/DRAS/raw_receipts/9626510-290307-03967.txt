@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            07/03/2029            
+
+Terminal 005
+Cashier Jennifer
+Customer Jeremy
+
+Pepperoni         1          18.20
+Spicy chicken     2          18.20
+                             36.40
+Ham and Cheese    1          16.60
+
+Subtotal                     71.20
+
+* Promotions
+ 25% off Pepperoni
+                             -4.55
+
+GST Included                  6.06
+Total                        66.65
+
+Payments
+Credit Card                  66.65
+
+     You earnt 6,665 points!      
+
+Reference 9626510:290307:03967
+
+     Pleasure doing business      
+----------------------------------

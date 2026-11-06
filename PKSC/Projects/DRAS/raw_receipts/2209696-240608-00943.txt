@@ -1,0 +1,38 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            08/06/2024            
+
+Terminal 001
+Cashier Leslie
+Customer Marvin
+
+Latte             2           4.40
+                              8.80
+Salmon bagel      2          13.20
+                             26.40
+Ham bagel         3          11.20
+                             33.60
+Salmon bagel      3          13.20
+                             39.60
+
+Subtotal                    108.40
+
+* Promotions
+ 5% off Salmon bagel
+                             -3.30
+
+GST Included                  9.55
+Total                       105.10
+
+Payments
+BPAY                         84.08
+Credit Card                  21.02
+
+     You earnt 10,510 points!     
+
+Reference 2209696:240608:00943
+
+            Drive safe            
+----------------------------------

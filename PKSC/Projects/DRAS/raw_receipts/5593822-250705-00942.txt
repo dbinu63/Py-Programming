@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/07/2025            
+
+Terminal 001
+Cashier Donna
+Customer Jennifer
+
+Swim goggles      2          22.80
+                             45.60
+Swim cap          2          11.60
+                             23.20
+Hot chips         3           5.80
+                             17.40
+
+Subtotal                     86.20
+
+GST Included                  7.84
+Total                        86.20
+
+Payments
+Cash                         70.45
+BPAY                         15.75
+
+     You earnt 8,620 points!      
+
+Reference 5593822:250705:00942
+
+            Thank you             
+----------------------------------

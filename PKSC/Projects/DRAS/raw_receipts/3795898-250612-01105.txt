@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            12/06/2025            
+
+Terminal 001
+Cashier Jonathon
+
+Scissors          3          39.80
+                            119.40
+Broom             3          44.80
+                            134.40
+
+Subtotal                    253.80
+
+* Promotions
+ Buy 2x Scissors, save 20%
+                            -15.92
+
+GST Included                 21.63
+Total                       237.88
+
+Payments
+BPAY                        237.88
+
+Reference 3795898:250612:01105
+
+            Drive safe            
+----------------------------------

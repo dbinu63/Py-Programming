@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            22/08/2028            
+
+Terminal 001
+Cashier Michael
+Customer Lisa
+
+Pomade            2          16.60
+                             33.20
+Soap 500mL        3           8.60
+                             25.80
+Pomade            1          16.60
+
+Subtotal                     75.60
+
+GST Included                  6.87
+Total                        75.60
+
+Payments
+Cash                          9.00
+BPAY                         66.60
+
+     You earnt 7,560 points!      
+
+Reference 3795898:280822:02467
+
+     Pleasure doing business      
+----------------------------------

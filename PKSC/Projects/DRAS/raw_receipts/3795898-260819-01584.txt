@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            19/08/2026            
+
+Terminal 004
+Cashier Michael
+
+Soap 500mL        1           7.90
+Razorblade        2          18.20
+                             36.40
+Cape white        3          54.00
+                            162.00
+
+Subtotal                    206.30
+
+* Promotions
+ 25% off Cape white
+                            -40.50
+
+GST Included                 15.07
+Total                       165.80
+
+Payments
+Cash                        153.60
+BPAY                         12.20
+
+Reference 3795898:260819:01584
+
+           Stay healthy           
+----------------------------------

@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            14/02/2029            
+
+Terminal 001
+Cashier Barbara
+
+Pomade            2          17.60
+                             35.20
+Hair tonic        1          16.60
+Shaving cream     2          16.60
+                             33.20
+Pomade            1          17.60
+
+Subtotal                    102.60
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -3.52
+
+GST Included                  9.01
+Total                        99.08
+
+Payments
+Debit Card                   99.08
+
+Reference 3795898:290214:02687
+
+           See you soon           
+----------------------------------

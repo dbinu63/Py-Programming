@@ -1,0 +1,38 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2027-09-29",
+    "month": 9,
+    "year": 2027,
+    "terminal": "001",
+    "cashier": "Michael",
+    "customer": "Carol",
+    "reference": "3795898:270929:02068",
+    "items": [
+        {
+            "product": "Clippers kit",
+            "quantity": 1,
+            "unit_price": 61.5,
+            "total_price": 61.5
+        },
+        {
+            "product": "Cape white",
+            "quantity": 1,
+            "unit_price": 56.0,
+            "total_price": 56.0
+        },
+        {
+            "product": "Spray bottle",
+            "quantity": 3,
+            "unit_price": 24.4,
+            "total_price": 73.2
+        }
+    ],
+    "subtotal": "190.70",
+    "gst": "17.34",
+    "total": "190.70",
+    "payment": {
+        "Cash": 185.15,
+        "Gift Card": 5.55
+    }
+}

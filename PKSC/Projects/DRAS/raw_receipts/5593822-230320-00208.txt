@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            20/03/2023            
+
+Terminal 003
+Cashier Jennifer
+Customer Samantha
+
+Shampoo           1           5.30
+
+Subtotal                      5.30
+
+* Promotions
+ 10% off Shampoo
+                             -0.53
+
+GST Included                  0.43
+Total                         4.77
+
+Payments
+Credit Card                   3.82
+Debit Card                    0.95
+
+      You earnt 477 points!       
+
+Reference 5593822:230320:00208
+
+            Drive safe            
+----------------------------------

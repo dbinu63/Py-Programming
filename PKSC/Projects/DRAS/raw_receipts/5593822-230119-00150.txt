@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            19/01/2023            
+
+Terminal 005
+Cashier Jennifer
+Customer Cody
+
+Sync diving       2          21.00
+                             42.00
+Water bottle      1           7.40
+
+Subtotal                     49.40
+
+GST Included                  4.49
+Total                        49.40
+
+Payments
+Credit Card                  29.64
+EFTPOS                       19.76
+
+     You earnt 4,940 points!      
+
+Reference 5593822:230119:00150
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            08/07/2028            
+
+Terminal 002
+Cashier Kevin
+Customer Kenneth
+
+Hot chips         2           6.70
+                             13.40
+Aquaerobics       3          15.80
+                             47.40
+Infant lesson     2          19.60
+                             39.20
+
+Subtotal                    100.00
+
+* Promotions
+ Buy 3x Aquaerobics, save 20%
+                             -9.48
+
+GST Included                  8.23
+Total                        90.52
+
+Payments
+Loyalty Points               90.52
+
+Reference 5593822:280708:02020
+
+            Thank you             
+----------------------------------

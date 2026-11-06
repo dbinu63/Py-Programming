@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            22/06/2029            
+
+Terminal 001
+Cashier Cole
+
+Razorblade        3          20.60
+                             61.80
+Pomade            3          17.60
+                             52.80
+
+Subtotal                    114.60
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -3.52
+
+GST Included                 10.10
+Total                       111.08
+
+Payments
+Gift Card                   111.08
+
+Reference 3795898:290622:02855
+
+              Cheers              
+----------------------------------

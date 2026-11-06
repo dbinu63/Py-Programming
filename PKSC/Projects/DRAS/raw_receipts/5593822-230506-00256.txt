@@ -1,0 +1,28 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            06/05/2023            
+
+Terminal 004
+Cashier Donna
+
+Shampoo           3           5.30
+                             15.90
+
+Subtotal                     15.90
+
+* Promotions
+ 10% off Shampoo
+                             -1.59
+
+GST Included                  1.30
+Total                        14.31
+
+Payments
+Credit Card                  14.31
+
+Reference 5593822:230506:00256
+
+              Cheers              
+----------------------------------

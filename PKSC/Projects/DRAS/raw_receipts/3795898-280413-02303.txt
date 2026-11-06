@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            13/04/2028            
+
+Terminal 001
+Cashier Michael
+
+Shaving cream     1          15.80
+Spray bottle      3          25.40
+                             76.20
+Razorblade        2          19.60
+                             39.20
+Spray bottle      3          25.40
+                             76.20
+
+Subtotal                    207.40
+
+GST Included                 18.85
+Total                       207.40
+
+Payments
+BPAY                        207.40
+
+Reference 3795898:280413:02303
+
+           See you soon           
+----------------------------------

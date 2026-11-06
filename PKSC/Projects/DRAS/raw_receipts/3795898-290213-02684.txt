@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            13/02/2029            
+
+Terminal 004
+Cashier Barbara
+
+Hairwax           1          17.60
+Hairwax           3          17.60
+                             52.80
+Pomade            3          17.60
+                             52.80
+
+Subtotal                    123.20
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -3.52
+ 25% off Hairwax
+                            -17.60
+
+GST Included                  9.28
+Total                       102.08
+
+Payments
+BPAY                        102.08
+
+Reference 3795898:290213:02684
+
+           Stay healthy           
+----------------------------------

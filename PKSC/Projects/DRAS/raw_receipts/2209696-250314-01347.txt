@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            14/03/2025            
+
+Terminal 005
+Cashier Leslie
+
+Mocha             3           4.10
+                             12.30
+Glazed donut      3           4.60
+                             13.80
+Ham bagel         3          11.60
+                             34.80
+Glazed donut      2           4.60
+                              9.20
+
+Subtotal                     70.10
+
+* Promotions
+ Buy 2x Mocha, save 15%
+                             -1.23
+ Buy 2x Ham bagel, save 15%
+                             -3.48
+
+GST Included                  5.94
+Total                        65.39
+
+Payments
+Credit Card                  45.77
+EFTPOS                       19.62
+
+Reference 2209696:250314:01347
+
+           See you soon           
+----------------------------------

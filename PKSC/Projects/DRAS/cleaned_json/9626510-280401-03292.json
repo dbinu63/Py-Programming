@@ -1,0 +1,26 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2028-04-01",
+    "month": 4,
+    "year": 2028,
+    "terminal": "002",
+    "cashier": "Levi",
+    "customer": "Linda",
+    "reference": "9626510:280401:03292",
+    "items": [
+        {
+            "product": "Spicy chicken",
+            "quantity": 1,
+            "unit_price": 17.2,
+            "total_price": 17.2
+        }
+    ],
+    "subtotal": "17.20",
+    "gst": "1.56",
+    "total": "17.20",
+    "payment": {
+        "Loyalty Points": 15.4,
+        "EFTPOS": 1.8
+    }
+}

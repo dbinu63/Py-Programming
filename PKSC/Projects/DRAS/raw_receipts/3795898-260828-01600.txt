@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/08/2026            
+
+Terminal 001
+Cashier Michael
+
+Razorblade        1          18.20
+Pomade            2          15.20
+                             30.40
+Razorblade        2          18.20
+                             36.40
+Clippers kit      3          59.50
+                            178.50
+
+Subtotal                    263.50
+
+GST Included                 23.95
+Total                       263.50
+
+Payments
+Credit Card                 158.10
+EFTPOS                      105.40
+
+Reference 3795898:260828:01600
+
+            Thank you             
+----------------------------------

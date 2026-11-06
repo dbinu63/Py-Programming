@@ -1,0 +1,37 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            15/02/2024            
+
+Terminal 004
+Cashier Jennifer
+Customer William
+
+Towel             2          16.60
+                             33.20
+Adult class       2          18.80
+                             37.60
+Towel             3          16.60
+                             49.80
+
+Subtotal                    120.60
+
+* Promotions
+ Buy 2x Towel, save 15%
+                             -9.96
+ Buy 2x Adult class, save 10%
+                             -3.76
+
+GST Included                  9.72
+Total                       106.88
+
+Payments
+Cash                        106.90
+
+     You earnt 10,690 points!     
+
+Reference 5593822:240215:00483
+
+           See you soon           
+----------------------------------

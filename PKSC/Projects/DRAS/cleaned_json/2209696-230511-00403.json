@@ -1,0 +1,37 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-05-11",
+    "month": 5,
+    "year": 2023,
+    "terminal": "004",
+    "cashier": "Scott",
+    "customer": "Justin",
+    "reference": "2209696:230511:00403",
+    "items": [
+        {
+            "product": "English muffin",
+            "quantity": 3,
+            "unit_price": 6.3,
+            "total_price": 18.9
+        },
+        {
+            "product": "Ham toastie",
+            "quantity": 1,
+            "unit_price": 6.9,
+            "total_price": 6.9
+        },
+        {
+            "product": "English muffin",
+            "quantity": 1,
+            "unit_price": 6.3,
+            "total_price": 6.3
+        }
+    ],
+    "subtotal": "32.10",
+    "gst": "2.69",
+    "total": "29.58",
+    "payment": {
+        "Cash": 29.6
+    }
+}

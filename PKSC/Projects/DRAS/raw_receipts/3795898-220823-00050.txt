@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            23/08/2022            
+
+Terminal 001
+Cashier Jonathon
+
+Hairspray         3          25.00
+                             75.00
+Hairspray         3          25.00
+                             75.00
+Face wipes        2           9.50
+                             19.00
+Classic brush     1          14.00
+
+Subtotal                    183.00
+
+GST Included                 16.64
+Total                       183.00
+
+Payments
+Debit Card                  183.00
+
+Reference 3795898:220823:00050
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,32 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2025-06-28",
+    "month": 6,
+    "year": 2025,
+    "terminal": "004",
+    "cashier": "Ronald",
+    "customer": "Luke",
+    "reference": "9626510:250628:01526",
+    "items": [
+        {
+            "product": "Hawaiian",
+            "quantity": 3,
+            "unit_price": 13.8,
+            "total_price": 41.4
+        },
+        {
+            "product": "Ham and Cheese",
+            "quantity": 3,
+            "unit_price": 13.8,
+            "total_price": 41.4
+        }
+    ],
+    "subtotal": "82.80",
+    "gst": "6.77",
+    "total": "74.52",
+    "payment": {
+        "Loyalty Points": 1.9,
+        "Debit Card": 72.62
+    }
+}

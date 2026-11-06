@@ -1,0 +1,28 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            11/03/2028            
+
+Terminal 004
+Cashier Kevin
+
+Aquaerobics       2          15.80
+                             31.60
+Egg+Bac burger    2           6.70
+                             13.40
+Egg+Bac burger    1           6.70
+
+Subtotal                     51.70
+
+GST Included                  4.70
+Total                        51.70
+
+Payments
+Cash                         35.25
+Debit Card                   16.45
+
+Reference 5593822:280311:01911
+
+              Cheers              
+----------------------------------

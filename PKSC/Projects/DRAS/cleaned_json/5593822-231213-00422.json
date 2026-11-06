@@ -1,0 +1,43 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2023-12-13",
+    "month": 12,
+    "year": 2023,
+    "terminal": "004",
+    "cashier": "Kevin",
+    "customer": "Derek",
+    "reference": "5593822:231213:00422",
+    "items": [
+        {
+            "product": "Water bottle",
+            "quantity": 2,
+            "unit_price": 7.4,
+            "total_price": 14.8
+        },
+        {
+            "product": "Rescue training",
+            "quantity": 3,
+            "unit_price": 52.5,
+            "total_price": 157.5
+        },
+        {
+            "product": "Towel",
+            "quantity": 3,
+            "unit_price": 15.8,
+            "total_price": 47.4
+        },
+        {
+            "product": "Towel",
+            "quantity": 1,
+            "unit_price": 15.8,
+            "total_price": 15.8
+        }
+    ],
+    "subtotal": "235.50",
+    "gst": "19.26",
+    "total": "211.88",
+    "payment": {
+        "Cash": 211.85
+    }
+}

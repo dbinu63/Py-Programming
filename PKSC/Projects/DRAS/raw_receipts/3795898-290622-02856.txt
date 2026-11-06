@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            22/06/2029            
+
+Terminal 001
+Cashier Joan
+Customer Carol
+
+Hair tonic        2          16.60
+                             33.20
+Broom             3          53.00
+                            159.00
+
+Subtotal                    192.20
+
+GST Included                 17.47
+Total                       192.20
+
+Payments
+Loyalty Points               95.05
+EFTPOS                       97.15
+
+     You earnt 9,715 points!      
+
+Reference 3795898:290622:02856
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,32 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2026-11-26",
+    "month": 11,
+    "year": 2026,
+    "terminal": "004",
+    "cashier": "Donna",
+    "customer": "Elijah",
+    "reference": "5593822:261126:01430",
+    "items": [
+        {
+            "product": "Infant lesson",
+            "quantity": 2,
+            "unit_price": 18.2,
+            "total_price": 36.4
+        },
+        {
+            "product": "Waterpolo",
+            "quantity": 2,
+            "unit_price": 14.6,
+            "total_price": 29.2
+        }
+    ],
+    "subtotal": "65.60",
+    "gst": "5.96",
+    "total": "65.60",
+    "payment": {
+        "BPAY": 52.48,
+        "Gift Card": 13.12
+    }
+}

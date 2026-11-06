@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            26/11/2024            
+
+Terminal 003
+Cashier Eric
+
+Broom             2          43.20
+                             86.40
+Scissors          3          38.40
+                            115.20
+Hairspray         3          27.40
+                             82.20
+
+Subtotal                    283.80
+
+GST Included                 25.80
+Total                       283.80
+
+Payments
+Cash                         42.90
+EFTPOS                      240.90
+
+Reference 3795898:241126:00885
+
+           See you soon           
+----------------------------------

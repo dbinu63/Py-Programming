@@ -1,0 +1,32 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2024-04-11",
+    "month": 4,
+    "year": 2024,
+    "terminal": "004",
+    "cashier": "Jonathon",
+    "customer": null,
+    "reference": "3795898:240411:00650",
+    "items": [
+        {
+            "product": "Spray bottle",
+            "quantity": 2,
+            "unit_price": 21.6,
+            "total_price": 43.2
+        },
+        {
+            "product": "Scissors",
+            "quantity": 2,
+            "unit_price": 38.4,
+            "total_price": 76.8
+        }
+    ],
+    "subtotal": "134.40",
+    "gst": "11.24",
+    "total": "123.60",
+    "payment": {
+        "Debit Card": 12.36,
+        "Gift Card": 111.24
+    }
+}

@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            18/03/2026            
+
+Terminal 001
+Cashier Scott
+
+Soap 500mL        3           7.90
+                             23.70
+Soap 500mL        2           7.90
+                             15.80
+Soap 500mL        1           7.90
+
+Subtotal                     47.40
+
+GST Included                  4.31
+Total                        47.40
+
+Payments
+Debit Card                   47.40
+
+Reference 3795898:260318:01413
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            21/02/2029            
+
+Terminal 001
+Cashier Carlos
+Customer Scott
+
+Cape white        2          61.50
+                            123.00
+Hair tonic        1          16.60
+
+Subtotal                    139.60
+
+GST Included                 12.69
+Total                       139.60
+
+Payments
+Loyalty Points               38.75
+Credit Card                 100.85
+
+     You earnt 10,085 points!     
+
+Reference 3795898:290221:02698
+
+            Thank you             
+----------------------------------

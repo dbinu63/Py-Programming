@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            20/01/2025            
+
+Terminal 004
+Cashier Donna
+
+Swim cap          2          11.60
+                             23.20
+Waterpolo         1          13.80
+
+Subtotal                     37.00
+
+* Promotions
+ 10% off Waterpolo
+                             -1.38
+
+GST Included                  3.24
+Total                        35.62
+
+Payments
+BPAY                         35.62
+
+Reference 5593822:250120:00783
+
+     Pleasure doing business      
+----------------------------------

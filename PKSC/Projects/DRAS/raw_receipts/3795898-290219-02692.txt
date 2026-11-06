@@ -1,0 +1,26 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            19/02/2029            
+
+Terminal 003
+Cashier Carlos
+
+Hair tonic        1          16.60
+Shaving cream     1          16.60
+Shaving cream     2          16.60
+                             33.20
+
+Subtotal                     66.40
+
+GST Included                  6.04
+Total                        66.40
+
+Payments
+Cash                         66.40
+
+Reference 3795898:290219:02692
+
+           See you soon           
+----------------------------------

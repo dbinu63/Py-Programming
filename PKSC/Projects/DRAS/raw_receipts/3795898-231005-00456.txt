@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            05/10/2023            
+
+Terminal 004
+Cashier Kathryn
+
+Classic brush     1          14.80
+Cape grey         3          46.80
+                            140.40
+Hairwax           1          13.20
+
+Subtotal                    168.40
+
+* Promotions
+ Buy 2x Cape grey, save 15%
+                            -14.04
+
+GST Included                 14.03
+Total                       154.36
+
+Payments
+EFTPOS                      154.36
+
+Reference 3795898:231005:00456
+
+            Thank you             
+----------------------------------

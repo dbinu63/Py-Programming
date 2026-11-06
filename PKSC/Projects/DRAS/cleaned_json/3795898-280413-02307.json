@@ -1,0 +1,43 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2028-04-13",
+    "month": 4,
+    "year": 2028,
+    "terminal": "002",
+    "cashier": "Natasha",
+    "customer": "Valerie",
+    "reference": "3795898:280413:02307",
+    "items": [
+        {
+            "product": "Cape grey",
+            "quantity": 3,
+            "unit_price": 58.5,
+            "total_price": 175.5
+        },
+        {
+            "product": "Shaving cream",
+            "quantity": 3,
+            "unit_price": 15.8,
+            "total_price": 47.4
+        },
+        {
+            "product": "Shaving cream",
+            "quantity": 1,
+            "unit_price": 15.8,
+            "total_price": 15.8
+        },
+        {
+            "product": "Razorblade",
+            "quantity": 2,
+            "unit_price": 19.6,
+            "total_price": 39.2
+        }
+    ],
+    "subtotal": "277.90",
+    "gst": "23.14",
+    "total": "254.50",
+    "payment": {
+        "Cash": 254.5
+    }
+}

@@ -1,0 +1,34 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            15/02/2026            
+
+Terminal 001
+Cashier Amber
+Customer Gary
+
+Soft drink 2L     2           5.50
+                             11.00
+Hawaiian          2          14.60
+                             29.20
+Garlic bread      3           7.30
+                             21.90
+Chips             1           7.30
+
+Subtotal                     69.40
+
+* Promotions
+ 5% off Soft drink 2L
+                             -0.55
+
+GST Included                  6.26
+Total                        68.85
+
+Payments
+Loyalty Points               68.85
+
+Reference 9626510:260215:01899
+
+            Thank you             
+----------------------------------

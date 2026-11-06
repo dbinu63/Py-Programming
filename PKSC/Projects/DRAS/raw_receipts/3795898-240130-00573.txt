@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            30/01/2024            
+
+Terminal 001
+Cashier Jonathon
+
+Scissors          3          38.40
+                            115.20
+Spray bottle      3          21.60
+                             64.80
+
+Subtotal                    180.00
+
+* Promotions
+ 25% off Spray bottle
+                            -16.20
+
+GST Included                 14.89
+Total                       163.80
+
+Payments
+Cash                         88.30
+BPAY                         75.50
+
+Reference 3795898:240130:00573
+
+            Drive safe            
+----------------------------------

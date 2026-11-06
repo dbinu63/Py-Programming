@@ -1,0 +1,32 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2024-07-17",
+    "month": 7,
+    "year": 2024,
+    "terminal": "004",
+    "cashier": "Donna",
+    "customer": "Sarah",
+    "reference": "5593822:240717:00627",
+    "items": [
+        {
+            "product": "Sync diving",
+            "quantity": 3,
+            "unit_price": 22.0,
+            "total_price": 66.0
+        },
+        {
+            "product": "Swim cap",
+            "quantity": 1,
+            "unit_price": 11.2,
+            "total_price": 11.2
+        }
+    ],
+    "subtotal": "77.20",
+    "gst": "5.82",
+    "total": "64.00",
+    "payment": {
+        "Cash": 46.85,
+        "Loyalty Points": 17.15
+    }
+}

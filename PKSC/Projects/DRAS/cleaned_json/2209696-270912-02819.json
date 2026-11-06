@@ -1,0 +1,38 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2027-09-12",
+    "month": 9,
+    "year": 2027,
+    "terminal": "002",
+    "cashier": "Diane",
+    "customer": "Leslie",
+    "reference": "2209696:270912:02819",
+    "items": [
+        {
+            "product": "Cupcake",
+            "quantity": 1,
+            "unit_price": 8.9,
+            "total_price": 8.9
+        },
+        {
+            "product": "Salmon bagel",
+            "quantity": 2,
+            "unit_price": 15.2,
+            "total_price": 30.4
+        },
+        {
+            "product": "Cappuccino",
+            "quantity": 2,
+            "unit_price": 6.4,
+            "total_price": 12.8
+        }
+    ],
+    "subtotal": "52.10",
+    "gst": "4.74",
+    "total": "52.10",
+    "payment": {
+        "Loyalty Points": 19.7,
+        "Debit Card": 32.4
+    }
+}

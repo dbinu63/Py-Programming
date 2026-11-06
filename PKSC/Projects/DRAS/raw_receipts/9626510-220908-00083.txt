@@ -1,0 +1,29 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            08/09/2022            
+
+Terminal 002
+Cashier Christian
+
+Chips             2           6.00
+                             12.00
+Just Cheese       2          12.00
+                             24.00
+Pancakes          2           7.00
+                             14.00
+
+Subtotal                     50.00
+
+GST Included                  4.55
+Total                        50.00
+
+Payments
+Debit Card                   10.00
+EFTPOS                       40.00
+
+Reference 9626510:220908:00083
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,44 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2022-08-11",
+    "month": 8,
+    "year": 2022,
+    "terminal": "003",
+    "cashier": "Anthony",
+    "customer": "Lisa",
+    "reference": "3795898:220811:00037",
+    "items": [
+        {
+            "product": "Classic brush",
+            "quantity": 1,
+            "unit_price": 14.0,
+            "total_price": 14.0
+        },
+        {
+            "product": "Classic brush",
+            "quantity": 2,
+            "unit_price": 14.0,
+            "total_price": 28.0
+        },
+        {
+            "product": "Razorblade",
+            "quantity": 2,
+            "unit_price": 15.0,
+            "total_price": 30.0
+        },
+        {
+            "product": "Hairspray",
+            "quantity": 1,
+            "unit_price": 25.0,
+            "total_price": 25.0
+        }
+    ],
+    "subtotal": "97.00",
+    "gst": "8.82",
+    "total": "97.00",
+    "payment": {
+        "Gift Card": 48.5,
+        "EFTPOS": 48.5
+    }
+}

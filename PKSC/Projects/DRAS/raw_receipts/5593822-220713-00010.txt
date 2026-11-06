@@ -1,0 +1,28 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            13/07/2022            
+
+Terminal 003
+Cashier Donna
+
+Water bottle      2           7.00
+                             14.00
+Infant lesson     2          15.00
+                             30.00
+Water bottle      2           7.00
+                             14.00
+
+Subtotal                     58.00
+
+GST Included                  5.27
+Total                        58.00
+
+Payments
+Cash                         58.00
+
+Reference 5593822:220713:00010
+
+            Drive safe            
+----------------------------------

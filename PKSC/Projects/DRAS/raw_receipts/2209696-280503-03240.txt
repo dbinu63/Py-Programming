@@ -1,0 +1,32 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            03/05/2028            
+
+Terminal 002
+Cashier Nathaniel
+Customer Scott
+
+Mocha             2           4.80
+                              9.60
+Salmon bagel      2          15.80
+                             31.60
+Mocha             2           4.80
+                              9.60
+Mocha             1           4.80
+
+Subtotal                     55.60
+
+GST Included                  5.05
+Total                        55.60
+
+Payments
+Cash                         55.60
+
+     You earnt 5,560 points!      
+
+Reference 2209696:280503:03240
+
+            Thank you             
+----------------------------------

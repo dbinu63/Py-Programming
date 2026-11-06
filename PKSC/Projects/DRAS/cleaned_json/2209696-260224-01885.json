@@ -1,0 +1,31 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2026-02-24",
+    "month": 2,
+    "year": 2026,
+    "terminal": "001",
+    "cashier": "Leslie",
+    "customer": "Leslie",
+    "reference": "2209696:260224:01885",
+    "items": [
+        {
+            "product": "Mocha",
+            "quantity": 2,
+            "unit_price": 4.4,
+            "total_price": 8.8
+        },
+        {
+            "product": "Flat white",
+            "quantity": 2,
+            "unit_price": 5.5,
+            "total_price": 11.0
+        }
+    ],
+    "subtotal": "19.80",
+    "gst": "1.68",
+    "total": "18.48",
+    "payment": {
+        "Credit Card": 18.48
+    }
+}

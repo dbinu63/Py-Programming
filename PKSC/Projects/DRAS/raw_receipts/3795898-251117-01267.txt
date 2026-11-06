@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            17/11/2025            
+
+Terminal 001
+Cashier Jonathon
+Customer David
+
+Soap 500mL        3           7.50
+                             22.50
+Scissors          3          39.80
+                            119.40
+Scissors          1          39.80
+
+Subtotal                    181.70
+
+* Promotions
+ Buy 2x Scissors, save 20%
+                            -31.84
+
+GST Included                 13.62
+Total                       149.86
+
+Payments
+EFTPOS                       59.94
+Gift Card                    89.92
+
+     You earnt 14,986 points!     
+
+Reference 3795898:251117:01267
+
+     Pleasure doing business      
+----------------------------------

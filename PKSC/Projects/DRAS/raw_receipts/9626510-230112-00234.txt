@@ -1,0 +1,35 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            12/01/2023            
+
+Terminal 001
+Cashier Christian
+
+Pancakes          2           7.40
+                             14.80
+Just Cheese       1          12.60
+Garlic bread      2           6.30
+                             12.60
+Cheese bread      1           6.30
+
+Subtotal                     46.30
+
+* Promotions
+ 20% off Garlic bread
+                             -2.52
+ Buy 2x Pancakes, save 25%
+                             -3.70
+
+GST Included                  3.64
+Total                        40.08
+
+Payments
+Gift Card                     8.02
+Debit Card                   32.06
+
+Reference 9626510:230112:00234
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,30 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            10/08/2023            
+
+Terminal 003
+Cashier Donna
+Customer Patricia
+
+Towel             1          15.80
+Aquaerobics       2          12.60
+                             25.20
+Towel             1          15.80
+
+Subtotal                     56.80
+
+GST Included                  5.16
+Total                        56.80
+
+Payments
+BPAY                         22.72
+Credit Card                  34.08
+
+     You earnt 5,680 points!      
+
+Reference 5593822:230810:00330
+
+              Cheers              
+----------------------------------

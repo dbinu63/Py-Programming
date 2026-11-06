@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            01/02/2026            
+
+Terminal 001
+Cashier Ronald
+Customer Luke
+
+Chips             1           7.30
+Spicy chicken     1          15.80
+Cheese bread      1           7.30
+Soft drink 2L     1           5.50
+
+Subtotal                     35.90
+
+* Promotions
+ 5% off Soft drink 2L
+                             -0.28
+
+GST Included                  3.24
+Total                        35.63
+
+Payments
+Debit Card                   35.63
+
+     You earnt 3,563 points!      
+
+Reference 9626510:260201:01869
+
+            Thank you             
+----------------------------------

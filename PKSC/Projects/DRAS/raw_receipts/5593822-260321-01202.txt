@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            21/03/2026            
+
+Terminal 005
+Cashier Kevin
+Customer Samantha
+
+Aquaerobics       2          14.60
+                             29.20
+Rescue training   3          60.00
+                            180.00
+Waterpolo         2          14.60
+                             29.20
+Aquaerobics       3          14.60
+                             43.80
+
+Subtotal                    282.20
+
+GST Included                 25.65
+Total                       282.20
+
+Payments
+EFTPOS                      282.20
+
+     You earnt 28,220 points!     
+
+Reference 5593822:260321:01202
+
+            Thank you             
+----------------------------------

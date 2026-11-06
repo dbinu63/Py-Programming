@@ -1,0 +1,25 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/10/2028            
+
+Terminal 001
+Cashier Michael
+
+Shaving cream     1          15.80
+Hairwax           2          16.60
+                             33.20
+
+Subtotal                     49.00
+
+GST Included                  4.45
+Total                        49.00
+
+Payments
+Debit Card                   49.00
+
+Reference 3795898:281010:02531
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,29 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            02/09/2022            
+
+Terminal 003
+Cashier Ronald
+Customer Andrew
+
+Pancakes          1           7.00
+Chips             2           6.00
+                             12.00
+
+Subtotal                     19.00
+
+GST Included                  1.73
+Total                        19.00
+
+Payments
+Cash                         12.85
+Loyalty Points                6.15
+
+     You earnt 1,285 points!      
+
+Reference 9626510:220902:00081
+
+            Thank you             
+----------------------------------

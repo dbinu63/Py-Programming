@@ -1,0 +1,32 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2025-03-14",
+    "month": 3,
+    "year": 2025,
+    "terminal": "004",
+    "cashier": "Donna",
+    "customer": null,
+    "reference": "5593822:250314:00846",
+    "items": [
+        {
+            "product": "Casual access",
+            "quantity": 1,
+            "unit_price": 6.9,
+            "total_price": 6.9
+        },
+        {
+            "product": "Shampoo",
+            "quantity": 2,
+            "unit_price": 5.8,
+            "total_price": 11.6
+        }
+    ],
+    "subtotal": "35.90",
+    "gst": "3.26",
+    "total": "35.90",
+    "payment": {
+        "Cash": 24.45,
+        "BPAY": 11.45
+    }
+}

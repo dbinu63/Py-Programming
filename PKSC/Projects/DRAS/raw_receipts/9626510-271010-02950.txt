@@ -1,0 +1,27 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            10/10/2027            
+
+Terminal 001
+Cashier Jennifer
+
+Pepperoni         3          16.40
+                             49.20
+Pepperoni         1          16.40
+Pancakes          1           8.90
+Chips             1           7.60
+
+Subtotal                     82.10
+
+GST Included                  7.46
+Total                        82.10
+
+Payments
+EFTPOS                       82.10
+
+Reference 9626510:271010:02950
+
+              Cheers              
+----------------------------------

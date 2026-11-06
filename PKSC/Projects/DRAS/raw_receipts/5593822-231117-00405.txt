@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            17/11/2023            
+
+Terminal 001
+Cashier Donna
+
+Water bottle      3           7.40
+                             22.20
+Sync diving       3          21.00
+                             63.00
+Rescue training   1          52.50
+
+Subtotal                    137.70
+
+* Promotions
+ 15% off Rescue training
+                             -7.88
+
+GST Included                 11.80
+Total                       129.82
+
+Payments
+Gift Card                   129.82
+
+Reference 5593822:231117:00405
+
+     Pleasure doing business      
+----------------------------------

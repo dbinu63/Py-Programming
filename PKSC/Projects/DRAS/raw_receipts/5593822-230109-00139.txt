@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            09/01/2023            
+
+Terminal 001
+Cashier Jennifer
+Customer Johnathan
+
+Water bottle      2           7.40
+                             14.80
+Aquaerobics       3          12.60
+                             37.80
+Aquaerobics       3          12.60
+                             37.80
+Aquaerobics       3          12.60
+                             37.80
+
+Subtotal                    128.20
+
+GST Included                 11.65
+Total                       128.20
+
+Payments
+Gift Card                   128.20
+
+     You earnt 12,820 points!     
+
+Reference 5593822:230109:00139
+
+              Cheers              
+----------------------------------

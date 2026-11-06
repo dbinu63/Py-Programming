@@ -1,0 +1,32 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            05/06/2025            
+
+Terminal 001
+Cashier Ronald
+Customer Andrew
+
+Spicy chicken     1          15.00
+Spicy chicken     2          15.00
+                             30.00
+Ham and Cheese    1          13.80
+Ham and Cheese    3          13.80
+                             41.40
+
+Subtotal                    100.20
+
+GST Included                  9.11
+Total                       100.20
+
+Payments
+Loyalty Points               18.65
+BPAY                         81.55
+
+     You earnt 8,155 points!      
+
+Reference 9626510:250605:01491
+
+           Stay healthy           
+----------------------------------

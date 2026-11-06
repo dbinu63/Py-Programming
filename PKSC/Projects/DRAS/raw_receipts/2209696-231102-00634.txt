@@ -1,0 +1,36 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            02/11/2023            
+
+Terminal 004
+Cashier Scott
+Customer Ricardo
+
+Mocha             1           3.70
+English muffin    3           6.30
+                             18.90
+Latte             2           4.20
+                              8.40
+Mocha             2           3.70
+                              7.40
+
+Subtotal                     38.40
+
+* Promotions
+ 10% off English muffin
+                             -1.89
+
+GST Included                  3.32
+Total                        36.51
+
+Payments
+Cash                         36.50
+
+     You earnt 3,650 points!      
+
+Reference 2209696:231102:00634
+
+            Drive safe            
+----------------------------------

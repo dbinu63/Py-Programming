@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            08/04/2028            
+
+Terminal 005
+Cashier Nathaniel
+Customer Marvin
+
+Salmon bagel      2          15.80
+                             31.60
+Long Black        3           4.80
+                             14.40
+Almond croissant  3           8.60
+                             25.80
+Almond croissant  3           8.60
+                             25.80
+
+Subtotal                     97.60
+
+* Promotions
+ 30% off Long Black
+                             -4.32
+
+GST Included                  8.48
+Total                        93.28
+
+Payments
+Debit Card                   93.28
+
+     You earnt 9,328 points!      
+
+Reference 2209696:280408:03197
+
+     Pleasure doing business      
+----------------------------------

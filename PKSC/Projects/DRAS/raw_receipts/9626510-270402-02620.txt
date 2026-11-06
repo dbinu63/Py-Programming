@@ -1,0 +1,37 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            02/04/2027            
+
+Terminal 001
+Cashier Levi
+Customer Andrew
+
+Chips             2           7.60
+                             15.20
+Three meat        2          20.00
+                             40.00
+Pepperoni         3          16.40
+                             49.20
+Garlic prawn      2          20.00
+                             40.00
+
+Subtotal                    144.40
+
+* Promotions
+ Buy 2x Garlic prawn, save 15%
+                             -6.00
+
+GST Included                 12.58
+Total                       138.40
+
+Payments
+Debit Card                  138.40
+
+     You earnt 13,840 points!     
+
+Reference 9626510:270402:02620
+
+           Stay healthy           
+----------------------------------

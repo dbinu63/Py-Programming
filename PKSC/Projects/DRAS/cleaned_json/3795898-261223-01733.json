@@ -1,0 +1,32 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2026-12-23",
+    "month": 12,
+    "year": 2026,
+    "terminal": "004",
+    "cashier": "Michael",
+    "customer": "William",
+    "reference": "3795898:261223:01733",
+    "items": [
+        {
+            "product": "Clippers kit",
+            "quantity": 1,
+            "unit_price": 59.5,
+            "total_price": 59.5
+        },
+        {
+            "product": "Clippers kit",
+            "quantity": 1,
+            "unit_price": 59.5,
+            "total_price": 59.5
+        }
+    ],
+    "subtotal": "119.00",
+    "gst": "10.82",
+    "total": "119.00",
+    "payment": {
+        "Cash": 42.75,
+        "EFTPOS": 76.25
+    }
+}

@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/08/2025            
+
+Terminal 003
+Cashier Jennifer
+Customer Steven
+
+Shampoo           2           5.80
+                             11.60
+Shampoo           2           5.80
+                             11.60
+Swim cap          3          11.60
+                             34.80
+
+Subtotal                     58.00
+
+GST Included                  5.27
+Total                        58.00
+
+Payments
+EFTPOS                       11.60
+BPAY                         46.40
+
+     You earnt 5,800 points!      
+
+Reference 5593822:250805:00969
+
+            Thank you             
+----------------------------------

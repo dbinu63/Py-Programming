@@ -1,0 +1,32 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2027-06-10",
+    "month": 6,
+    "year": 2027,
+    "terminal": "002",
+    "cashier": "Levi",
+    "customer": "Scott",
+    "reference": "9626510:270610:02741",
+    "items": [
+        {
+            "product": "Chips",
+            "quantity": 2,
+            "unit_price": 7.6,
+            "total_price": 15.2
+        },
+        {
+            "product": "Pepperoni",
+            "quantity": 1,
+            "unit_price": 16.4,
+            "total_price": 16.4
+        }
+    ],
+    "subtotal": "31.60",
+    "gst": "2.87",
+    "total": "31.60",
+    "payment": {
+        "BPAY": 25.28,
+        "EFTPOS": 6.32
+    }
+}

@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            04/10/2028            
+
+Terminal 001
+Cashier Michael
+
+Pomade            3          16.60
+                             49.80
+Spray bottle      1          25.40
+Pomade            3          16.60
+                             49.80
+
+Subtotal                    125.00
+
+GST Included                 11.36
+Total                       125.00
+
+Payments
+Credit Card                 125.00
+
+Reference 3795898:281004:02524
+
+           Stay healthy           
+----------------------------------

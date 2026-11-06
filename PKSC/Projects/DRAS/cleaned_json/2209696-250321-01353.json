@@ -1,0 +1,38 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2025-03-21",
+    "month": 3,
+    "year": 2025,
+    "terminal": "005",
+    "cashier": "Scott",
+    "customer": "James",
+    "reference": "2209696:250321:01353",
+    "items": [
+        {
+            "product": "Glazed donut",
+            "quantity": 2,
+            "unit_price": 4.6,
+            "total_price": 9.2
+        },
+        {
+            "product": "Flat white",
+            "quantity": 2,
+            "unit_price": 5.2,
+            "total_price": 10.4
+        },
+        {
+            "product": "Ham toastie",
+            "quantity": 2,
+            "unit_price": 7.5,
+            "total_price": 15.0
+        }
+    ],
+    "subtotal": "34.60",
+    "gst": "3.00",
+    "total": "33.04",
+    "payment": {
+        "Loyalty Points": 12.6,
+        "BPAY": 20.44
+    }
+}

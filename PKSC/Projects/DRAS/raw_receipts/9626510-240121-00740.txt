@@ -1,0 +1,36 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            21/01/2024            
+
+Terminal 001
+Cashier Tara
+Customer Aaron
+
+Hawaiian          1          13.20
+Soft drink 1L     3           3.90
+                             11.70
+Ham and Cheese    2          13.20
+                             26.40
+Soft drink 2L     3           5.00
+                             15.00
+
+Subtotal                     66.30
+
+* Promotions
+ Buy 3x Soft drink 2L, save 15%
+                             -2.25
+
+GST Included                  5.82
+Total                        64.05
+
+Payments
+Credit Card                  64.05
+
+     You earnt 6,405 points!      
+
+Reference 9626510:240121:00740
+
+     Pleasure doing business      
+----------------------------------

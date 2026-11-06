@@ -1,0 +1,37 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-06-08",
+    "month": 6,
+    "year": 2023,
+    "terminal": "001",
+    "cashier": "Scott",
+    "customer": null,
+    "reference": "2209696:230608:00437",
+    "items": [
+        {
+            "product": "Latte",
+            "quantity": 1,
+            "unit_price": 4.2,
+            "total_price": 4.2
+        },
+        {
+            "product": "Macarons",
+            "quantity": 1,
+            "unit_price": 4.2,
+            "total_price": 4.2
+        },
+        {
+            "product": "Macarons",
+            "quantity": 2,
+            "unit_price": 4.2,
+            "total_price": 8.4
+        }
+    ],
+    "subtotal": "16.80",
+    "gst": "1.53",
+    "total": "16.80",
+    "payment": {
+        "Cash": 16.8
+    }
+}

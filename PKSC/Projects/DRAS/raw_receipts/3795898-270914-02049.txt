@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            14/09/2027            
+
+Terminal 004
+Cashier Scott
+Customer Lisa
+
+Shaving cream     1          15.20
+Shaving cream     3          15.20
+                             45.60
+Shaving cream     3          15.20
+                             45.60
+Cape white        1          56.00
+
+Subtotal                    162.40
+
+GST Included                 14.76
+Total                       162.40
+
+Payments
+Loyalty Points               30.15
+EFTPOS                      132.25
+
+     You earnt 13,225 points!     
+
+Reference 3795898:270914:02049
+
+           Stay healthy           
+----------------------------------

@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            24/01/2024            
+
+Terminal 002
+Cashier Kevin
+
+Adult class       2          18.80
+                             37.60
+Water bottle      2           7.80
+                             15.60
+Adult class       2          18.80
+                             37.60
+Water bottle      1           7.80
+
+Subtotal                     98.60
+
+* Promotions
+ Buy 2x Adult class, save 10%
+                             -7.52
+ 25% off Water bottle
+                             -5.85
+
+GST Included                  7.75
+Total                        85.23
+
+Payments
+Debit Card                   85.23
+
+Reference 5593822:240124:00462
+
+            Drive safe            
+----------------------------------

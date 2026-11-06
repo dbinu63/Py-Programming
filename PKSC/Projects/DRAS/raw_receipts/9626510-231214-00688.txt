@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            14/12/2023            
+
+Terminal 001
+Cashier Ronald
+
+Just Cheese       2          12.60
+                             25.20
+Just Cheese       3          12.60
+                             37.80
+Just Cheese       3          12.60
+                             37.80
+Cheese bread      1           6.30
+
+Subtotal                    107.10
+
+* Promotions
+ Buy 2x Just Cheese, save 25%
+                            -25.20
+
+GST Included                  7.45
+Total                        81.90
+
+Payments
+BPAY                         81.90
+
+Reference 9626510:231214:00688
+
+            Thank you             
+----------------------------------

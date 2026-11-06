@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            16/09/2024            
+
+Terminal 001
+Cashier Kevin
+Customer Derek
+
+Rescue training   3          55.00
+                            165.00
+Rescue training   1          55.00
+
+Subtotal                    220.00
+
+* Promotions
+ 20% off Rescue training
+                            -44.00
+
+GST Included                 16.00
+Total                       176.00
+
+Payments
+BPAY                        176.00
+
+     You earnt 17,600 points!     
+
+Reference 5593822:240916:00669
+
+           See you soon           
+----------------------------------

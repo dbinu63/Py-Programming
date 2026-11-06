@@ -1,0 +1,7 @@
+{
+    "roll_no": 101,
+    "name": "Don Binu",
+    "subjects": ["C", "Java", "Python"],
+    "marks": [85, 90, 88],
+    "passed": true
+}

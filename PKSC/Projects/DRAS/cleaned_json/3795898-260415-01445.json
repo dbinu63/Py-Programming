@@ -1,0 +1,31 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2026-04-15",
+    "month": 4,
+    "year": 2026,
+    "terminal": "005",
+    "cashier": "Scott",
+    "customer": "Jonathan",
+    "reference": "3795898:260415:01445",
+    "items": [
+        {
+            "product": "Cape grey",
+            "quantity": 3,
+            "unit_price": 54.0,
+            "total_price": 162.0
+        },
+        {
+            "product": "Scissors",
+            "quantity": 3,
+            "unit_price": 42.0,
+            "total_price": 126.0
+        }
+    ],
+    "subtotal": "295.90",
+    "gst": "26.33",
+    "total": "289.60",
+    "payment": {
+        "Gift Card": 289.6
+    }
+}

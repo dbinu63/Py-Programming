@@ -1,0 +1,38 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2024-11-06",
+    "month": 11,
+    "year": 2024,
+    "terminal": "004",
+    "cashier": "Jonathon",
+    "customer": null,
+    "reference": "3795898:241106:00868",
+    "items": [
+        {
+            "product": "Hairspray",
+            "quantity": 1,
+            "unit_price": 27.4,
+            "total_price": 27.4
+        },
+        {
+            "product": "Hairspray",
+            "quantity": 1,
+            "unit_price": 27.4,
+            "total_price": 27.4
+        },
+        {
+            "product": "Cape grey",
+            "quantity": 2,
+            "unit_price": 48.8,
+            "total_price": 97.6
+        }
+    ],
+    "subtotal": "152.40",
+    "gst": "12.97",
+    "total": "142.64",
+    "payment": {
+        "Credit Card": 71.32,
+        "EFTPOS": 71.32
+    }
+}

@@ -1,0 +1,38 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            12/07/2023            
+
+Terminal 005
+Cashier Donna
+Customer Elijah
+
+Towel             2          15.80
+                             31.60
+Sync diving       3          21.00
+                             63.00
+Rescue training   3          52.50
+                            157.50
+Rescue training   3          52.50
+                            157.50
+
+Subtotal                    409.60
+
+* Promotions
+ 15% off Rescue training
+                            -47.25
+
+GST Included                 32.94
+Total                       362.35
+
+Payments
+BPAY                        108.70
+Debit Card                  253.65
+
+     You earnt 36,235 points!     
+
+Reference 5593822:230712:00308
+
+           See you soon           
+----------------------------------

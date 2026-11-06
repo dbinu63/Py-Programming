@@ -1,0 +1,31 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2029-06-10",
+    "month": 6,
+    "year": 2029,
+    "terminal": "004",
+    "cashier": "Jennifer",
+    "customer": null,
+    "reference": "9626510:290610:04148",
+    "items": [
+        {
+            "product": "Hawaiian",
+            "quantity": 2,
+            "unit_price": 16.6,
+            "total_price": 33.2
+        },
+        {
+            "product": "Pepperoni",
+            "quantity": 3,
+            "unit_price": 18.2,
+            "total_price": 54.6
+        }
+    ],
+    "subtotal": "87.80",
+    "gst": "6.74",
+    "total": "74.15",
+    "payment": {
+        "Credit Card": 74.15
+    }
+}

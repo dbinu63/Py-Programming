@@ -1,0 +1,31 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-08-30",
+    "month": 8,
+    "year": 2023,
+    "terminal": "003",
+    "cashier": "Scott",
+    "customer": "David",
+    "reference": "2209696:230830:00552",
+    "items": [
+        {
+            "product": "Macarons",
+            "quantity": 3,
+            "unit_price": 4.2,
+            "total_price": 12.6
+        },
+        {
+            "product": "Ham toastie",
+            "quantity": 1,
+            "unit_price": 6.9,
+            "total_price": 6.9
+        }
+    ],
+    "subtotal": "19.50",
+    "gst": "1.77",
+    "total": "19.50",
+    "payment": {
+        "EFTPOS": 19.5
+    }
+}

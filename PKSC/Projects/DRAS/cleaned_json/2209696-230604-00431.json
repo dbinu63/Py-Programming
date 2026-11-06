@@ -1,0 +1,44 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-06-04",
+    "month": 6,
+    "year": 2023,
+    "terminal": "003",
+    "cashier": "Scott",
+    "customer": "Melissa",
+    "reference": "2209696:230604:00431",
+    "items": [
+        {
+            "product": "Latte",
+            "quantity": 2,
+            "unit_price": 4.2,
+            "total_price": 8.4
+        },
+        {
+            "product": "Macarons",
+            "quantity": 3,
+            "unit_price": 4.2,
+            "total_price": 12.6
+        },
+        {
+            "product": "Latte",
+            "quantity": 3,
+            "unit_price": 4.2,
+            "total_price": 12.6
+        },
+        {
+            "product": "Latte",
+            "quantity": 2,
+            "unit_price": 4.2,
+            "total_price": 8.4
+        }
+    ],
+    "subtotal": "42.00",
+    "gst": "3.82",
+    "total": "42.00",
+    "payment": {
+        "Gift Card": 37.8,
+        "Credit Card": 4.2
+    }
+}

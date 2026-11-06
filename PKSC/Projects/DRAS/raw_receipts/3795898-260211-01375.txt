@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/02/2026            
+
+Terminal 005
+Cashier Scott
+
+Cape grey         3          54.00
+                            162.00
+Scissors          3          42.00
+                            126.00
+Cape grey         2          54.00
+                            108.00
+
+Subtotal                    396.00
+
+* Promotions
+ 5% off Scissors
+                             -6.30
+
+GST Included                 35.43
+Total                       389.70
+
+Payments
+Debit Card                  389.70
+
+Reference 3795898:260211:01375
+
+              Cheers              
+----------------------------------

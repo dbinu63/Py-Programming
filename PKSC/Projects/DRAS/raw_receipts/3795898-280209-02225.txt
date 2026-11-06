@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            09/02/2028            
+
+Terminal 003
+Cashier Scott
+Customer Manuel
+
+Spray bottle      1          25.40
+Shaving cream     2          15.80
+                             31.60
+Cape grey         1          58.50
+Spray bottle      3          25.40
+                             76.20
+
+Subtotal                    191.70
+
+GST Included                 17.43
+Total                       191.70
+
+Payments
+Loyalty Points              191.70
+
+Reference 3795898:280209:02225
+
+           Stay healthy           
+----------------------------------

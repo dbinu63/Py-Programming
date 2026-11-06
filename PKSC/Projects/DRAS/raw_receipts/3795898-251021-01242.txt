@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            21/10/2025            
+
+Terminal 001
+Cashier Eric
+Customer Angela
+
+Pomade            3          14.40
+                             43.20
+Pomade            2          14.40
+                             28.80
+Broom             2          44.80
+                             89.60
+
+Subtotal                    161.60
+
+GST Included                 14.69
+Total                       161.60
+
+Payments
+Gift Card                   161.60
+
+     You earnt 16,160 points!     
+
+Reference 3795898:251021:01242
+
+              Cheers              
+----------------------------------

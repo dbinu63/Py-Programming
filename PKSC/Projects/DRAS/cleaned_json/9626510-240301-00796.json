@@ -1,0 +1,18 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2024-03-01",
+    "month": 3,
+    "year": 2024,
+    "terminal": "003",
+    "cashier": "Tara",
+    "customer": "Robert",
+    "reference": "9626510:240301:00796",
+    "items": [],
+    "subtotal": "16.70",
+    "gst": "1.52",
+    "total": "16.70",
+    "payment": {
+        "EFTPOS": 16.7
+    }
+}

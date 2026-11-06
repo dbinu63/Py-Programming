@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2024-09-19",
+    "month": 9,
+    "year": 2024,
+    "terminal": "002",
+    "cashier": "Scott",
+    "customer": "Dorothy",
+    "reference": "2209696:240919:01088",
+    "items": [
+        {
+            "product": "Glazed donut",
+            "quantity": 3,
+            "unit_price": 4.4,
+            "total_price": 13.2
+        }
+    ],
+    "subtotal": "13.20",
+    "gst": "1.20",
+    "total": "13.20",
+    "payment": {
+        "EFTPOS": 5.28,
+        "Credit Card": 7.92
+    }
+}

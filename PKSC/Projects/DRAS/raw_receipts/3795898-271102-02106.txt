@@ -1,0 +1,34 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            02/11/2027            
+
+Terminal 003
+Cashier Scott
+
+Pomade            1          15.80
+Spray bottle      3          24.40
+                             73.20
+Cape white        3          56.00
+                            168.00
+Spray bottle      3          24.40
+                             73.20
+
+Subtotal                    330.20
+
+* Promotions
+ Buy 2x Cape white, save 10%
+                            -11.20
+
+GST Included                 29.00
+Total                       319.00
+
+Payments
+Credit Card                 127.60
+BPAY                        191.40
+
+Reference 3795898:271102:02106
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            08/02/2023            
+
+Terminal 001
+Cashier Tara
+
+Chips             1           6.30
+Pancakes          3           7.40
+                             22.20
+Three meat        3          16.80
+                             50.40
+
+Subtotal                     78.90
+
+* Promotions
+ 5% off Three meat
+                             -2.52
+ Buy 2x Pancakes, save 25%
+                             -3.70
+
+GST Included                  6.61
+Total                        72.68
+
+Payments
+Credit Card                  72.68
+
+Reference 9626510:230208:00273
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,38 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            02/02/2023            
+
+Terminal 002
+Cashier Joyce
+
+Garlic bread      3           6.30
+                             18.90
+Pancakes          3           7.40
+                             22.20
+Pancakes          3           7.40
+                             22.20
+Three meat        1          16.80
+
+Subtotal                     80.10
+
+* Promotions
+ 20% off Garlic bread
+                             -3.78
+ 5% off Three meat
+                             -0.84
+ Buy 2x Pancakes, save 25%
+                            -11.10
+
+GST Included                  5.85
+Total                        64.38
+
+Payments
+Cash                         28.00
+EFTPOS                       36.38
+
+Reference 9626510:230202:00263
+
+            Thank you             
+----------------------------------

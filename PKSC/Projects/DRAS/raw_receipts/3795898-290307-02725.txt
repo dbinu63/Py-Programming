@@ -1,0 +1,28 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            07/03/2029            
+
+Terminal 004
+Cashier Barbara
+
+Hairwax           1          17.60
+Cape white        1          61.50
+
+Subtotal                     79.10
+
+* Promotions
+ 25% off Hairwax
+                             -4.40
+
+GST Included                  6.79
+Total                        74.70
+
+Payments
+Credit Card                  74.70
+
+Reference 3795898:290307:02725
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,24 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            06/04/2027            
+
+Terminal 001
+Cashier Michael
+
+Pomade            1          15.80
+Scissors          1          43.20
+
+Subtotal                     59.00
+
+GST Included                  5.36
+Total                        59.00
+
+Payments
+EFTPOS                       59.00
+
+Reference 3795898:270406:01856
+
+           Stay healthy           
+----------------------------------

@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            01/02/2024            
+
+Terminal 003
+Cashier Kevin
+
+Towel             3          16.60
+                             49.80
+Towel             3          16.60
+                             49.80
+Rescue training   1          55.00
+
+Subtotal                    154.60
+
+* Promotions
+ Buy 2x Towel, save 15%
+                            -14.94
+ 20% off Rescue training
+                            -11.00
+
+GST Included                 11.70
+Total                       128.66
+
+Payments
+Credit Card                  90.06
+BPAY                         38.60
+
+Reference 5593822:240201:00470
+
+     Pleasure doing business      
+----------------------------------

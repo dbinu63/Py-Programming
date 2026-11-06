@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            02/09/2026            
+
+Terminal 002
+Cashier Donna
+
+Infant lesson     2          18.20
+                             36.40
+Rescue training   2          60.00
+                            120.00
+Rescue training   3          60.00
+                            180.00
+
+Subtotal                    336.40
+
+GST Included                 30.58
+Total                       336.40
+
+Payments
+Cash                        242.55
+Debit Card                   93.85
+
+Reference 5593822:260902:01336
+
+     Pleasure doing business      
+----------------------------------

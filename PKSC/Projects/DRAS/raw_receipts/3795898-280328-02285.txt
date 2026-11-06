@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/03/2028            
+
+Terminal 002
+Cashier Michael
+Customer Anna
+
+Cape grey         3          58.50
+                            175.50
+Spray bottle      2          25.40
+                             50.80
+Pomade            1          16.60
+
+Subtotal                    242.90
+
+* Promotions
+ Buy 2x Cape grey, save 20%
+                            -23.40
+
+GST Included                 19.95
+Total                       219.50
+
+Payments
+Loyalty Points               64.45
+Debit Card                  155.05
+
+     You earnt 15,505 points!     
+
+Reference 3795898:280328:02285
+
+            Thank you             
+----------------------------------

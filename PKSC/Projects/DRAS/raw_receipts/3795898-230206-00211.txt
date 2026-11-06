@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            06/02/2023            
+
+Terminal 002
+Cashier Anthony
+
+Hairspray         2          26.20
+                             52.40
+Soap 500mL        1           6.90
+Razorblade        1          15.80
+Soap 500mL        2           6.90
+                             13.80
+
+Subtotal                     88.90
+
+* Promotions
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+ Buy 2x Hairspray, save 25%
+                            -13.10
+
+GST Included                  6.77
+Total                        74.42
+
+Payments
+Cash                         32.75
+EFTPOS                       41.67
+
+Reference 3795898:230206:00211
+
+     Pleasure doing business      
+----------------------------------

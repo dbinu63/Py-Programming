@@ -1,0 +1,38 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            27/01/2023            
+
+Terminal 004
+Cashier Joyce
+Customer Mary
+
+Garlic bread      1           6.30
+Cheese bread      2           6.30
+                             12.60
+Chips             1           6.30
+Three meat        2          16.80
+                             33.60
+
+Subtotal                     58.80
+
+* Promotions
+ 20% off Garlic bread
+                             -1.26
+ 5% off Three meat
+                             -1.68
+
+GST Included                  5.08
+Total                        55.86
+
+Payments
+Credit Card                  50.27
+Gift Card                     5.59
+
+     You earnt 5,586 points!      
+
+Reference 9626510:230127:00259
+
+           See you soon           
+----------------------------------

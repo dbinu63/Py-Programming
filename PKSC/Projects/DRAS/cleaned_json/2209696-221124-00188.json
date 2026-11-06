@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2022-11-24",
+    "month": 11,
+    "year": 2022,
+    "terminal": "001",
+    "cashier": "Scott",
+    "customer": "Leslie",
+    "reference": "2209696:221124:00188",
+    "items": [
+        {
+            "product": "Cappuccino",
+            "quantity": 1,
+            "unit_price": 5.0,
+            "total_price": 5.0
+        }
+    ],
+    "subtotal": "5.00",
+    "gst": "0.45",
+    "total": "5.00",
+    "payment": {
+        "Gift Card": 3.0,
+        "BPAY": 2.0
+    }
+}

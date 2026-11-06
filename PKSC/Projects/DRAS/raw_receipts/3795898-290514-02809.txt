@@ -1,0 +1,37 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            14/05/2029            
+
+Terminal 005
+Cashier Thomas
+
+Shaving cream     2          16.60
+                             33.20
+Hairwax           3          17.60
+                             52.80
+Spray bottle      3          26.80
+                             80.40
+Hair tonic        2          16.60
+                             33.20
+
+Subtotal                    199.60
+
+* Promotions
+ 25% off Spray bottle
+                            -20.10
+ 25% off Hairwax
+                            -13.20
+
+GST Included                 15.12
+Total                       166.30
+
+Payments
+BPAY                        116.41
+Credit Card                  49.89
+
+Reference 3795898:290514:02809
+
+              Cheers              
+----------------------------------

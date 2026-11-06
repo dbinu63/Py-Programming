@@ -1,0 +1,26 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            03/08/2022            
+
+Terminal 001
+Cashier Anthony
+
+Hairspray         2          25.00
+                             50.00
+Classic brush     1          14.00
+
+Subtotal                     64.00
+
+GST Included                  5.82
+Total                        64.00
+
+Payments
+EFTPOS                       32.00
+Debit Card                   32.00
+
+Reference 3795898:220803:00030
+
+            Thank you             
+----------------------------------

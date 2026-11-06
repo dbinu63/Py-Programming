@@ -1,0 +1,28 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            08/04/2024            
+
+Terminal 002
+Cashier Donna
+Customer Charles
+
+Towel             1          16.60
+Sync diving       1          22.00
+Egg+Bac burger    1           5.60
+
+Subtotal                     44.20
+
+GST Included                  4.02
+Total                        44.20
+
+Payments
+Debit Card                   44.20
+
+     You earnt 4,420 points!      
+
+Reference 5593822:240408:00538
+
+            Thank you             
+----------------------------------

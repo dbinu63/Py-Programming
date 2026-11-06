@@ -1,0 +1,44 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2025-09-05",
+    "month": 9,
+    "year": 2025,
+    "terminal": "005",
+    "cashier": "Jonathon",
+    "customer": "Ashley",
+    "reference": "3795898:250905:01200",
+    "items": [
+        {
+            "product": "Scissors",
+            "quantity": 2,
+            "unit_price": 39.8,
+            "total_price": 79.6
+        },
+        {
+            "product": "Cape grey",
+            "quantity": 1,
+            "unit_price": 51.0,
+            "total_price": 51.0
+        },
+        {
+            "product": "Pomade",
+            "quantity": 1,
+            "unit_price": 14.4,
+            "total_price": 14.4
+        },
+        {
+            "product": "Pomade",
+            "quantity": 3,
+            "unit_price": 14.4,
+            "total_price": 43.2
+        }
+    ],
+    "subtotal": "188.20",
+    "gst": "15.66",
+    "total": "172.28",
+    "payment": {
+        "Loyalty Points": 54.75,
+        "Credit Card": 117.53
+    }
+}

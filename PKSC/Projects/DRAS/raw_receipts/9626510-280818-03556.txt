@@ -1,0 +1,36 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            18/08/2028            
+
+Terminal 002
+Cashier Amber
+Customer Jonathan
+
+Garlic bread      3           7.90
+                             23.70
+Garlic bread      1           7.90
+Pancakes          2           9.30
+                             18.60
+Pancakes          1           9.30
+
+Subtotal                     59.50
+
+* Promotions
+ Buy 2x Garlic bread, save 30%
+                             -9.48
+
+GST Included                  4.55
+Total                        50.02
+
+Payments
+Loyalty Points               43.60
+BPAY                          6.42
+
+      You earnt 642 points!       
+
+Reference 9626510:280818:03556
+
+            Thank you             
+----------------------------------

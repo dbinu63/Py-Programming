@@ -1,0 +1,25 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2025-10-17",
+    "month": 10,
+    "year": 2025,
+    "terminal": "001",
+    "cashier": "Amber",
+    "customer": "Robert",
+    "reference": "9626510:251017:01693",
+    "items": [
+        {
+            "product": "Hawaiian",
+            "quantity": 1,
+            "unit_price": 13.8,
+            "total_price": 13.8
+        }
+    ],
+    "subtotal": "13.80",
+    "gst": "1.25",
+    "total": "13.80",
+    "payment": {
+        "Cash": 13.8
+    }
+}

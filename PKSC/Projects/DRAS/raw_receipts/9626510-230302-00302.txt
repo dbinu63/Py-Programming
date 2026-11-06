@@ -1,0 +1,32 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            02/03/2023            
+
+Terminal 002
+Cashier Ronald
+
+Chips             1           6.30
+Chips             2           6.30
+                             12.60
+Pancakes          1           7.40
+Cheese bread      2           6.30
+                             12.60
+
+Subtotal                     38.90
+
+* Promotions
+ Buy 3x Chips, save 5%
+                             -0.95
+
+GST Included                  3.45
+Total                        37.96
+
+Payments
+Debit Card                   37.96
+
+Reference 9626510:230302:00302
+
+            Thank you             
+----------------------------------

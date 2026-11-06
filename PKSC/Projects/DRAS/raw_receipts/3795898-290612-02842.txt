@@ -1,0 +1,40 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            12/06/2029            
+
+Terminal 005
+Cashier Kathleen
+Customer Earl
+
+Broom             2          53.00
+                            106.00
+Pomade            3          17.60
+                             52.80
+Spray bottle      2          26.80
+                             53.60
+Broom             3          53.00
+                            159.00
+
+Subtotal                    371.40
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -3.52
+ 25% off Spray bottle
+                            -13.40
+
+GST Included                 32.23
+Total                       354.48
+
+Payments
+Cash                        126.15
+Debit Card                  228.33
+
+     You earnt 35,448 points!     
+
+Reference 3795898:290612:02842
+
+           Stay healthy           
+----------------------------------

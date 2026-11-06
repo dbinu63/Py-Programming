@@ -1,0 +1,37 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            25/02/2026            
+
+Terminal 002
+Cashier Scott
+Customer Rebecca
+
+Broom             3          47.20
+                            141.60
+Scissors          2          42.00
+                             84.00
+Cape grey         3          54.00
+                            162.00
+Soap 500mL        1           7.90
+
+Subtotal                    395.50
+
+* Promotions
+ 5% off Scissors
+                             -4.20
+
+GST Included                 35.57
+Total                       391.30
+
+Payments
+Loyalty Points              341.95
+Gift Card                    49.35
+
+     You earnt 4,935 points!      
+
+Reference 3795898:260225:01385
+
+            Drive safe            
+----------------------------------

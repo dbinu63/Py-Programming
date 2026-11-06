@@ -1,0 +1,37 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            13/08/2027            
+
+Terminal 001
+Cashier Michael
+Customer Carrie
+
+Spray bottle      2          24.40
+                             48.80
+Pomade            3          15.80
+                             47.40
+Soap 500mL        3           8.20
+                             24.60
+Pomade            2          15.80
+                             31.60
+
+Subtotal                    152.40
+
+* Promotions
+ Buy 3x Pomade, save 25%
+                            -11.85
+
+GST Included                 12.78
+Total                       140.55
+
+Payments
+Gift Card                   140.55
+
+     You earnt 14,055 points!     
+
+Reference 3795898:270813:02015
+
+            Thank you             
+----------------------------------

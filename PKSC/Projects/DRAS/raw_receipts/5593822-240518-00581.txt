@@ -1,0 +1,28 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            18/05/2024            
+
+Terminal 002
+Cashier Jennifer
+
+Rescue training   3          55.00
+                            165.00
+
+Subtotal                    165.00
+
+* Promotions
+ 20% off Rescue training
+                            -33.00
+
+GST Included                 12.00
+Total                       132.00
+
+Payments
+EFTPOS                      132.00
+
+Reference 5593822:240518:00581
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,40 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            05/02/2026            
+
+Terminal 003
+Cashier Scott
+Customer James
+
+Long Black        3           4.40
+                             13.20
+Cupcake           2           8.60
+                             17.20
+Flat white        3           5.50
+                             16.50
+English muffin    2           7.30
+                             14.60
+
+Subtotal                     61.50
+
+* Promotions
+ 10% off Cupcake
+                             -1.72
+ Buy 3x Flat white, save 20%
+                             -3.30
+
+GST Included                  5.13
+Total                        56.48
+
+Payments
+Loyalty Points               15.55
+Credit Card                  40.93
+
+     You earnt 4,093 points!      
+
+Reference 2209696:260205:01848
+
+     Pleasure doing business      
+----------------------------------

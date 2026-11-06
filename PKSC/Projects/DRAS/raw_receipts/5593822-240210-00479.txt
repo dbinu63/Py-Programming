@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            10/02/2024            
+
+Terminal 003
+Cashier Donna
+
+Rescue training   3          55.00
+                            165.00
+Water bottle      2           7.80
+                             15.60
+Towel             1          16.60
+
+Subtotal                    197.20
+
+* Promotions
+ 20% off Rescue training
+                            -33.00
+ 25% off Water bottle
+                             -3.90
+
+GST Included                 14.57
+Total                       160.30
+
+Payments
+Cash                         52.00
+EFTPOS                      108.30
+
+Reference 5593822:240210:00479
+
+           See you soon           
+----------------------------------

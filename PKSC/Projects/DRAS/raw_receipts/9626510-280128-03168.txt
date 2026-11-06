@@ -1,0 +1,37 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            28/01/2028            
+
+Terminal 001
+Cashier Jennifer
+Customer Danny
+
+Chips             2           7.90
+                             15.80
+Garlic bread      1           7.90
+Pepperoni         2          17.20
+                             34.40
+Garlic bread      2           7.90
+                             15.80
+
+Subtotal                     73.90
+
+* Promotions
+ Buy 2x Garlic bread, save 30%
+                             -4.74
+
+GST Included                  6.29
+Total                        69.16
+
+Payments
+Cash                         28.10
+Debit Card                   41.06
+
+     You earnt 6,916 points!      
+
+Reference 9626510:280128:03168
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,43 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2026-10-24",
+    "month": 10,
+    "year": 2026,
+    "terminal": "004",
+    "cashier": "Matthew",
+    "customer": null,
+    "reference": "2209696:261024:02268",
+    "items": [
+        {
+            "product": "Macarons",
+            "quantity": 2,
+            "unit_price": 4.9,
+            "total_price": 9.8
+        },
+        {
+            "product": "Macarons",
+            "quantity": 2,
+            "unit_price": 4.9,
+            "total_price": 9.8
+        },
+        {
+            "product": "Cupcake",
+            "quantity": 3,
+            "unit_price": 8.6,
+            "total_price": 25.8
+        },
+        {
+            "product": "Flat white",
+            "quantity": 1,
+            "unit_price": 5.5,
+            "total_price": 5.5
+        }
+    ],
+    "subtotal": "50.90",
+    "gst": "4.39",
+    "total": "48.32",
+    "payment": {
+        "Gift Card": 48.32
+    }
+}

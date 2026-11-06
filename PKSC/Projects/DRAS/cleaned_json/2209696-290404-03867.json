@@ -1,0 +1,25 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-04-04",
+    "month": 4,
+    "year": 2029,
+    "terminal": "003",
+    "cashier": "Hector",
+    "customer": null,
+    "reference": "2209696:290404:03867",
+    "items": [
+        {
+            "product": "Flat white",
+            "quantity": 2,
+            "unit_price": 6.3,
+            "total_price": 12.6
+        }
+    ],
+    "subtotal": "12.60",
+    "gst": "1.15",
+    "total": "12.60",
+    "payment": {
+        "Gift Card": 12.6
+    }
+}

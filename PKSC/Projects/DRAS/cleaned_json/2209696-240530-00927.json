@@ -1,0 +1,37 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2024-05-30",
+    "month": 5,
+    "year": 2024,
+    "terminal": "004",
+    "cashier": "Leslie",
+    "customer": "Leslie",
+    "reference": "2209696:240530:00927",
+    "items": [
+        {
+            "product": "Macarons",
+            "quantity": 1,
+            "unit_price": 4.4,
+            "total_price": 4.4
+        },
+        {
+            "product": "English muffin",
+            "quantity": 2,
+            "unit_price": 6.6,
+            "total_price": 13.2
+        },
+        {
+            "product": "Macarons",
+            "quantity": 1,
+            "unit_price": 4.4,
+            "total_price": 4.4
+        }
+    ],
+    "subtotal": "22.00",
+    "gst": "1.64",
+    "total": "18.04",
+    "payment": {
+        "Loyalty Points": 18.04
+    }
+}

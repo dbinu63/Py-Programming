@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            05/05/2028            
+
+Terminal 001
+Cashier Michael
+Customer Francisco
+
+Pomade            2          16.60
+                             33.20
+Razorblade        1          19.60
+Pomade            3          16.60
+                             49.80
+
+Subtotal                    102.60
+
+GST Included                  9.33
+Total                       102.60
+
+Payments
+Debit Card                  102.60
+
+     You earnt 10,260 points!     
+
+Reference 3795898:280505:02338
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,32 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            08/03/2023            
+
+Terminal 004
+Cashier Scott
+Customer Gregory
+
+Cappuccino        1           5.30
+Cappuccino        1           5.30
+
+Subtotal                     10.60
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -1.06
+
+GST Included                  0.87
+Total                         9.54
+
+Payments
+Loyalty Points                1.75
+EFTPOS                        7.79
+
+      You earnt 779 points!       
+
+Reference 2209696:230308:00309
+
+              Cheers              
+----------------------------------

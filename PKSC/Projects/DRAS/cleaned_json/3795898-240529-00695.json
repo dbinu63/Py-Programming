@@ -1,0 +1,32 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2024-05-29",
+    "month": 5,
+    "year": 2024,
+    "terminal": "002",
+    "cashier": "Jonathon",
+    "customer": null,
+    "reference": "3795898:240529:00695",
+    "items": [
+        {
+            "product": "Face wipes",
+            "quantity": 2,
+            "unit_price": 10.6,
+            "total_price": 21.2
+        },
+        {
+            "product": "Scissors",
+            "quantity": 3,
+            "unit_price": 38.4,
+            "total_price": 115.2
+        }
+    ],
+    "subtotal": "136.40",
+    "gst": "12.40",
+    "total": "136.40",
+    "payment": {
+        "Credit Card": 27.28,
+        "EFTPOS": 109.12
+    }
+}

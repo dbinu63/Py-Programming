@@ -1,0 +1,37 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2023-04-08",
+    "month": 4,
+    "year": 2023,
+    "terminal": "004",
+    "cashier": "Tara",
+    "customer": "Steven",
+    "reference": "9626510:230408:00349",
+    "items": [
+        {
+            "product": "Cheese bread",
+            "quantity": 3,
+            "unit_price": 6.3,
+            "total_price": 18.9
+        },
+        {
+            "product": "Cheese bread",
+            "quantity": 3,
+            "unit_price": 6.3,
+            "total_price": 18.9
+        },
+        {
+            "product": "Pancakes",
+            "quantity": 2,
+            "unit_price": 7.4,
+            "total_price": 14.8
+        }
+    ],
+    "subtotal": "52.60",
+    "gst": "4.45",
+    "total": "48.90",
+    "payment": {
+        "BPAY": 48.9
+    }
+}

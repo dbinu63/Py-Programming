@@ -1,0 +1,38 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/04/2024            
+
+Terminal 001
+Cashier Jennifer
+
+Rescue training   2          55.00
+                            110.00
+Adult class       3          18.80
+                             56.40
+Adult class       3          18.80
+                             56.40
+Sync diving       2          22.00
+                             44.00
+
+Subtotal                    266.80
+
+* Promotions
+ Buy 2x Sync diving, save 30%
+                            -13.20
+ Buy 2x Adult class, save 10%
+                            -11.28
+ 20% off Rescue training
+                            -22.00
+
+GST Included                 20.03
+Total                       220.32
+
+Payments
+Cash                        220.30
+
+Reference 5593822:240405:00537
+
+              Cheers              
+----------------------------------

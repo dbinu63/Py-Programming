@@ -1,0 +1,28 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            22/12/2022            
+
+Terminal 003
+Cashier Anthony
+
+Hairspray         3          25.00
+                             75.00
+Cape grey         3          44.50
+                            133.50
+Hairspray         3          25.00
+                             75.00
+
+Subtotal                    283.50
+
+GST Included                 25.77
+Total                       283.50
+
+Payments
+BPAY                        283.50
+
+Reference 3795898:221222:00167
+
+              Cheers              
+----------------------------------

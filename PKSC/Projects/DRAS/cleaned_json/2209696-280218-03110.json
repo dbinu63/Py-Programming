@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2028-02-18",
+    "month": 2,
+    "year": 2028,
+    "terminal": "004",
+    "cashier": "Diane",
+    "customer": "Ashley",
+    "reference": "2209696:280218:03110",
+    "items": [
+        {
+            "product": "Cupcake",
+            "quantity": 1,
+            "unit_price": 9.3,
+            "total_price": 9.3
+        }
+    ],
+    "subtotal": "9.30",
+    "gst": "0.85",
+    "total": "9.30",
+    "payment": {
+        "Gift Card": 4.65,
+        "EFTPOS": 4.65
+    }
+}

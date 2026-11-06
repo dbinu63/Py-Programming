@@ -1,0 +1,38 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            22/06/2023            
+
+Terminal 002
+Cashier Leslie
+Customer Marvin
+
+Macarons          2           4.20
+                              8.40
+Latte             3           4.20
+                             12.60
+Latte             3           4.20
+                             12.60
+Ham bagel         3          10.60
+                             31.80
+
+Subtotal                     65.40
+
+* Promotions
+ Buy 2x Ham bagel, save 20%
+                             -4.24
+
+GST Included                  5.56
+Total                        61.16
+
+Payments
+Loyalty Points               51.20
+EFTPOS                        9.96
+
+      You earnt 996 points!       
+
+Reference 2209696:230622:00459
+
+            Thank you             
+----------------------------------

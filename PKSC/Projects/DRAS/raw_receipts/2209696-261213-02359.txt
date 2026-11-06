@@ -1,0 +1,32 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            13/12/2026            
+
+Terminal 002
+Cashier Matthew
+Customer Gregory
+
+Mocha             1           4.40
+Flat white        3           5.50
+                             16.50
+
+Subtotal                     20.90
+
+* Promotions
+ 15% off Mocha
+                             -0.66
+ Buy 3x Flat white, save 20%
+                             -3.30
+
+GST Included                  1.54
+Total                        16.94
+
+Payments
+Loyalty Points               16.94
+
+Reference 2209696:261213:02359
+
+              Cheers              
+----------------------------------

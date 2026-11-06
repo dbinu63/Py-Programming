@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/12/2023            
+
+Terminal 005
+Cashier Kathryn
+Customer Lisa
+
+Spray bottle      3          20.60
+                             61.80
+Hairwax           1          13.20
+Soap 500mL        2           6.90
+                             13.80
+Spray bottle      2          20.60
+                             41.20
+
+Subtotal                    130.00
+
+* Promotions
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+
+GST Included                 11.69
+Total                       128.62
+
+Payments
+BPAY                        128.62
+
+     You earnt 12,862 points!     
+
+Reference 3795898:231228:00539
+
+           See you soon           
+----------------------------------

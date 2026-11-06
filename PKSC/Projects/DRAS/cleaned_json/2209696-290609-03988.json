@@ -1,0 +1,31 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-06-09",
+    "month": 6,
+    "year": 2029,
+    "terminal": "001",
+    "cashier": "Patricia",
+    "customer": "Isaac",
+    "reference": "2209696:290609:03988",
+    "items": [
+        {
+            "product": "Cupcake",
+            "quantity": 1,
+            "unit_price": 9.8,
+            "total_price": 9.8
+        },
+        {
+            "product": "Glazed donut",
+            "quantity": 2,
+            "unit_price": 5.6,
+            "total_price": 11.2
+        }
+    ],
+    "subtotal": "21.00",
+    "gst": "1.91",
+    "total": "21.00",
+    "payment": {
+        "Cash": 21.0
+    }
+}

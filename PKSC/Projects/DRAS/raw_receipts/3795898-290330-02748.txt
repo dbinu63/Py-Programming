@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            30/03/2029            
+
+Terminal 003
+Cashier Barbara
+Customer Samantha
+
+Hairwax           1          17.60
+
+Subtotal                     17.60
+
+* Promotions
+ 25% off Hairwax
+                             -4.40
+
+GST Included                  1.20
+Total                        13.20
+
+Payments
+Cash                          6.00
+Debit Card                    7.20
+
+     You earnt 1,320 points!      
+
+Reference 3795898:290330:02748
+
+              Cheers              
+----------------------------------

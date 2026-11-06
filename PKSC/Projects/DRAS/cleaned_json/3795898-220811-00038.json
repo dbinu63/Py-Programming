@@ -1,0 +1,25 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2022-08-11",
+    "month": 8,
+    "year": 2022,
+    "terminal": "002",
+    "cashier": "Anthony",
+    "customer": null,
+    "reference": "3795898:220811:00038",
+    "items": [
+        {
+            "product": "Hairspray",
+            "quantity": 2,
+            "unit_price": 25.0,
+            "total_price": 50.0
+        }
+    ],
+    "subtotal": "50.00",
+    "gst": "4.55",
+    "total": "50.00",
+    "payment": {
+        "EFTPOS": 50.0
+    }
+}

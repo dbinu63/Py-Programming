@@ -1,0 +1,36 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            01/04/2029            
+
+Terminal 002
+Cashier Jennifer
+Customer Scott
+
+Pancakes          1           9.80
+Spicy chicken     3          18.20
+                             54.60
+Pancakes          3           9.80
+                             29.40
+Ham and Cheese    1          16.60
+
+Subtotal                    110.40
+
+* Promotions
+ Buy 3x Spicy chicken, save 5%
+                             -2.73
+
+GST Included                  9.79
+Total                       107.67
+
+Payments
+Loyalty Points               55.95
+Gift Card                    51.72
+
+     You earnt 5,172 points!      
+
+Reference 9626510:290401:04017
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/03/2024            
+
+Terminal 003
+Cashier Kevin
+Customer Sean
+
+Sync diving       2          22.00
+                             44.00
+
+Subtotal                     44.00
+
+* Promotions
+ Buy 2x Sync diving, save 30%
+                            -13.20
+
+GST Included                  2.80
+Total                        30.80
+
+Payments
+Cash                         30.80
+
+     You earnt 3,080 points!      
+
+Reference 5593822:240305:00504
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            03/05/2029            
+
+Terminal 004
+Cashier Ebony
+Customer Anna
+
+Pomade            1          17.60
+Cape white        1          61.50
+Spray bottle      3          26.80
+                             80.40
+Hair tonic        2          16.60
+                             33.20
+
+Subtotal                    192.70
+
+* Promotions
+ 25% off Spray bottle
+                            -20.10
+
+GST Included                 15.69
+Total                       172.60
+
+Payments
+Loyalty Points              123.95
+Gift Card                    48.65
+
+     You earnt 4,865 points!      
+
+Reference 3795898:290503:02793
+
+              Cheers              
+----------------------------------

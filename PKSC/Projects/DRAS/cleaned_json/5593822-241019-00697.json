@@ -1,0 +1,32 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2024-10-19",
+    "month": 10,
+    "year": 2024,
+    "terminal": "005",
+    "cashier": "Kevin",
+    "customer": "Scott",
+    "reference": "5593822:241019:00697",
+    "items": [
+        {
+            "product": "Swim cap",
+            "quantity": 3,
+            "unit_price": 11.2,
+            "total_price": 33.6
+        },
+        {
+            "product": "Water bottle",
+            "quantity": 3,
+            "unit_price": 7.8,
+            "total_price": 23.4
+        }
+    ],
+    "subtotal": "57.00",
+    "gst": "4.65",
+    "total": "51.15",
+    "payment": {
+        "Debit Card": 30.69,
+        "BPAY": 20.46
+    }
+}

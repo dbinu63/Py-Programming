@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            29/06/2029            
+
+Terminal 001
+Cashier Jeffrey
+Customer Elijah
+
+Shampoo           3           7.10
+                             21.30
+
+Subtotal                     21.30
+
+* Promotions
+ Buy 2x Shampoo, save 20%
+                             -2.84
+
+GST Included                  1.68
+Total                        18.46
+
+Payments
+Loyalty Points               18.46
+
+Reference 5593822:290629:02398
+
+           Stay healthy           
+----------------------------------

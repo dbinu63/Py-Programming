@@ -1,0 +1,27 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            14/02/2023            
+
+Terminal 001
+Cashier Kevin
+Customer Kenneth
+
+Aquaerobics       2          12.60
+                             25.20
+
+Subtotal                     25.20
+
+GST Included                  2.29
+Total                        25.20
+
+Payments
+Credit Card                  25.20
+
+     You earnt 2,520 points!      
+
+Reference 5593822:230214:00169
+
+            Thank you             
+----------------------------------

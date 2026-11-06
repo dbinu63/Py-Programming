@@ -1,0 +1,38 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2027-07-13",
+    "month": 7,
+    "year": 2027,
+    "terminal": "001",
+    "cashier": "Eric",
+    "customer": "Valerie",
+    "reference": "3795898:270713:01977",
+    "items": [
+        {
+            "product": "Cape white",
+            "quantity": 1,
+            "unit_price": 56.0,
+            "total_price": 56.0
+        },
+        {
+            "product": "Spray bottle",
+            "quantity": 2,
+            "unit_price": 24.4,
+            "total_price": 48.8
+        },
+        {
+            "product": "Cape white",
+            "quantity": 1,
+            "unit_price": 56.0,
+            "total_price": 56.0
+        }
+    ],
+    "subtotal": "160.80",
+    "gst": "13.60",
+    "total": "149.60",
+    "payment": {
+        "Cash": 59.3,
+        "BPAY": 90.3
+    }
+}

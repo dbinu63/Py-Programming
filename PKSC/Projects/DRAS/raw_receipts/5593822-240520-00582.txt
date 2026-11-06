@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            20/05/2024            
+
+Terminal 001
+Cashier Kevin
+Customer Ashley
+
+Adult class       1          18.80
+Rescue training   2          55.00
+                            110.00
+Adult class       1          18.80
+
+Subtotal                    147.60
+
+* Promotions
+ Buy 2x Adult class, save 10%
+                             -3.76
+ 20% off Rescue training
+                            -22.00
+
+GST Included                 11.08
+Total                       121.84
+
+Payments
+Loyalty Points               22.25
+Credit Card                  99.59
+
+     You earnt 9,959 points!      
+
+Reference 5593822:240520:00582
+
+     Pleasure doing business      
+----------------------------------

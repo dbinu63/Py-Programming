@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            21/06/2027            
+
+Terminal 002
+Cashier Kevin
+Customer Roger
+
+Water bottle      1           8.90
+Egg+Bac burger    1           6.40
+Hot chips         2           6.40
+                             12.80
+Water bottle      2           8.90
+                             17.80
+
+Subtotal                     45.90
+
+* Promotions
+ Buy 2x Hot chips, save 25%
+                             -3.20
+
+GST Included                  3.88
+Total                        42.70
+
+Payments
+Loyalty Points               42.70
+
+Reference 5593822:270621:01630
+
+     Pleasure doing business      
+----------------------------------

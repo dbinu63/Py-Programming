@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            29/08/2022            
+
+Terminal 002
+Cashier Anthony
+Customer Francisco
+
+Face wipes        3           9.50
+                             28.50
+Razorblade        2          15.00
+                             30.00
+Soap 500mL        2           6.50
+                             13.00
+
+Subtotal                     71.50
+
+GST Included                  6.50
+Total                        71.50
+
+Payments
+Loyalty Points               22.60
+Debit Card                   48.90
+
+     You earnt 4,890 points!      
+
+Reference 3795898:220829:00057
+
+     Pleasure doing business      
+----------------------------------

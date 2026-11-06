@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/06/2025            
+
+Terminal 005
+Cashier Eric
+Customer Catherine
+
+Scissors          1          39.80
+Cape grey         2          51.00
+                            102.00
+Scissors          2          39.80
+                             79.60
+
+Subtotal                    221.40
+
+* Promotions
+ Buy 2x Scissors, save 20%
+                            -15.92
+ Buy 2x Cape grey, save 30%
+                            -30.60
+
+GST Included                 15.90
+Total                       174.88
+
+Payments
+Cash                        174.90
+
+     You earnt 17,490 points!     
+
+Reference 3795898:250610:01097
+
+     Pleasure doing business      
+----------------------------------

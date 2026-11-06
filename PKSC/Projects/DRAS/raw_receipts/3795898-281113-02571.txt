@@ -1,0 +1,25 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            13/11/2028            
+
+Terminal 001
+Cashier Natasha
+
+Soap 500mL        1           8.60
+Hairwax           1          16.60
+Pomade            1          16.60
+
+Subtotal                     41.80
+
+GST Included                  3.80
+Total                        41.80
+
+Payments
+BPAY                         41.80
+
+Reference 3795898:281113:02571
+
+           See you soon           
+----------------------------------

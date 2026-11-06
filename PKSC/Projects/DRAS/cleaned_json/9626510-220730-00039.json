@@ -1,0 +1,32 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2022-07-30",
+    "month": 7,
+    "year": 2022,
+    "terminal": "002",
+    "cashier": "Christian",
+    "customer": "Andrew",
+    "reference": "9626510:220730:00039",
+    "items": [
+        {
+            "product": "Three meat",
+            "quantity": 1,
+            "unit_price": 16.0,
+            "total_price": 16.0
+        },
+        {
+            "product": "Three meat",
+            "quantity": 3,
+            "unit_price": 16.0,
+            "total_price": 48.0
+        }
+    ],
+    "subtotal": "64.00",
+    "gst": "5.82",
+    "total": "64.00",
+    "payment": {
+        "BPAY": 19.2,
+        "EFTPOS": 44.8
+    }
+}

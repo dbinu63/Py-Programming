@@ -1,0 +1,31 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2025-07-25",
+    "month": 7,
+    "year": 2025,
+    "terminal": "003",
+    "cashier": "Eric",
+    "customer": "William",
+    "reference": "3795898:250725:01152",
+    "items": [
+        {
+            "product": "Scissors",
+            "quantity": 2,
+            "unit_price": 39.8,
+            "total_price": 79.6
+        },
+        {
+            "product": "Pomade",
+            "quantity": 3,
+            "unit_price": 14.4,
+            "total_price": 43.2
+        }
+    ],
+    "subtotal": "145.30",
+    "gst": "11.76",
+    "total": "129.38",
+    "payment": {
+        "Credit Card": 129.38
+    }
+}

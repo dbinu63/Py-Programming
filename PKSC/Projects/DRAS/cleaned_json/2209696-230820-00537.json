@@ -1,0 +1,32 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-08-20",
+    "month": 8,
+    "year": 2023,
+    "terminal": "004",
+    "cashier": "Leslie",
+    "customer": "Justin",
+    "reference": "2209696:230820:00537",
+    "items": [
+        {
+            "product": "Latte",
+            "quantity": 2,
+            "unit_price": 4.2,
+            "total_price": 8.4
+        },
+        {
+            "product": "Mocha",
+            "quantity": 1,
+            "unit_price": 3.7,
+            "total_price": 3.7
+        }
+    ],
+    "subtotal": "12.10",
+    "gst": "1.10",
+    "total": "12.10",
+    "payment": {
+        "Credit Card": 8.47,
+        "BPAY": 3.63
+    }
+}

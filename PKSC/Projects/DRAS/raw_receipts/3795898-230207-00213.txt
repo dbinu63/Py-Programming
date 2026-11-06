@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            07/02/2023            
+
+Terminal 004
+Cashier Anthony
+
+Cape white        1          46.80
+Cape white        3          46.80
+                            140.40
+Cape white        1          46.80
+Classic brush     3          14.80
+                             44.40
+
+Subtotal                    278.40
+
+* Promotions
+ Buy 3x Classic brush, save 30%
+                            -13.32
+
+GST Included                 24.10
+Total                       265.08
+
+Payments
+Credit Card                  79.52
+Gift Card                   185.56
+
+Reference 3795898:230207:00213
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,35 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            02/03/2024            
+
+Terminal 003
+Cashier Ronald
+Customer Robert
+
+Chips             2           6.60
+                             13.20
+Soft drink 2L     3           5.00
+                             15.00
+Ham and Cheese    2          13.20
+                             26.40
+
+Subtotal                     54.60
+
+* Promotions
+ Buy 3x Soft drink 2L, save 15%
+                             -2.25
+
+GST Included                  4.76
+Total                        52.35
+
+Payments
+EFTPOS                       52.35
+
+     You earnt 5,235 points!      
+
+Reference 9626510:240302:00799
+
+           See you soon           
+----------------------------------

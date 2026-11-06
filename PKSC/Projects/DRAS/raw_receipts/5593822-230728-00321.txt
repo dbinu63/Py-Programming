@@ -1,0 +1,28 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            28/07/2023            
+
+Terminal 004
+Cashier Kevin
+
+Aquaerobics       1          12.60
+Sync diving       1          21.00
+Aquaerobics       2          12.60
+                             25.20
+Aquaerobics       1          12.60
+
+Subtotal                     71.40
+
+GST Included                  6.49
+Total                        71.40
+
+Payments
+Cash                         39.20
+Credit Card                  32.20
+
+Reference 5593822:230728:00321
+
+           See you soon           
+----------------------------------

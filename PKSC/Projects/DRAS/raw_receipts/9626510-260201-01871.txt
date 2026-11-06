@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            01/02/2026            
+
+Terminal 001
+Cashier Ronald
+Customer Scott
+
+Spicy chicken     2          15.80
+                             31.60
+Soft drink 2L     1           5.50
+Hawaiian          1          14.60
+
+Subtotal                     51.70
+
+* Promotions
+ 5% off Soft drink 2L
+                             -0.28
+
+GST Included                  4.68
+Total                        51.43
+
+Payments
+Debit Card                   51.43
+
+     You earnt 5,142 points!      
+
+Reference 9626510:260201:01871
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            27/09/2024            
+
+Terminal 003
+Cashier Jonathon
+Customer Shelley
+
+Razorblade        1          16.60
+Cape grey         1          48.80
+
+Subtotal                     65.40
+
+* Promotions
+ 10% off Cape grey
+                             -4.88
+
+GST Included                  5.50
+Total                        60.52
+
+Payments
+Loyalty Points               60.52
+
+Reference 3795898:240927:00827
+
+           Stay healthy           
+----------------------------------

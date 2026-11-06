@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            25/01/2029            
+
+Terminal 003
+Cashier Barbara
+Customer Samantha
+
+Spray bottle      3          26.80
+                             80.40
+Hairwax           2          17.60
+                             35.20
+
+Subtotal                    115.60
+
+* Promotions
+ 25% off Spray bottle
+                            -20.10
+ 25% off Hairwax
+                             -8.80
+
+GST Included                  7.88
+Total                        86.70
+
+Payments
+EFTPOS                        8.67
+Debit Card                   78.03
+
+     You earnt 8,670 points!      
+
+Reference 3795898:290125:02665
+
+           Stay healthy           
+----------------------------------

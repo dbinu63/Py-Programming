@@ -1,0 +1,32 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            09/06/2028            
+
+Terminal 001
+Cashier Levi
+Customer Andrew
+
+Pepperoni         2          17.20
+                             34.40
+Vego              3          15.80
+                             47.40
+Pepperoni         1          17.20
+Vego              3          15.80
+                             47.40
+
+Subtotal                    146.40
+
+GST Included                 13.31
+Total                       146.40
+
+Payments
+BPAY                        146.40
+
+     You earnt 14,640 points!     
+
+Reference 9626510:280609:03421
+
+            Drive safe            
+----------------------------------

@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/05/2029            
+
+Terminal 003
+Cashier Ebony
+Customer Kelly
+
+Shaving cream     2          16.60
+                             33.20
+Hair tonic        3          16.60
+                             49.80
+Hairwax           3          17.60
+                             52.80
+
+Subtotal                    135.80
+
+* Promotions
+ 25% off Hairwax
+                            -13.20
+
+GST Included                 11.15
+Total                       122.60
+
+Payments
+Loyalty Points               61.50
+Debit Card                   61.10
+
+     You earnt 6,110 points!      
+
+Reference 3795898:290511:02805
+
+              Cheers              
+----------------------------------

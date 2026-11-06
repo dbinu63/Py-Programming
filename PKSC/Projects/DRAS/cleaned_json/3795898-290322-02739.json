@@ -1,0 +1,37 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2029-03-22",
+    "month": 3,
+    "year": 2029,
+    "terminal": "002",
+    "cashier": "Carlos",
+    "customer": null,
+    "reference": "3795898:290322:02739",
+    "items": [
+        {
+            "product": "Hair tonic",
+            "quantity": 3,
+            "unit_price": 16.6,
+            "total_price": 49.8
+        },
+        {
+            "product": "Spray bottle",
+            "quantity": 2,
+            "unit_price": 26.8,
+            "total_price": 53.6
+        },
+        {
+            "product": "Cape white",
+            "quantity": 3,
+            "unit_price": 61.5,
+            "total_price": 184.5
+        }
+    ],
+    "subtotal": "287.90",
+    "gst": "24.95",
+    "total": "274.50",
+    "payment": {
+        "BPAY": 274.5
+    }
+}

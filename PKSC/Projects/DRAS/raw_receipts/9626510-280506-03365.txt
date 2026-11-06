@@ -1,0 +1,36 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            06/05/2028            
+
+Terminal 004
+Cashier Jennifer
+Customer Aaron
+
+Vego              2          15.80
+                             31.60
+Chips             2           7.90
+                             15.80
+Garlic bread      2           7.90
+                             15.80
+Spicy chicken     1          17.20
+
+Subtotal                     80.40
+
+* Promotions
+ Buy 2x Garlic bread, save 30%
+                             -4.74
+
+GST Included                  6.88
+Total                        75.66
+
+Payments
+EFTPOS                       75.66
+
+     You earnt 7,566 points!      
+
+Reference 9626510:280506:03365
+
+            Thank you             
+----------------------------------

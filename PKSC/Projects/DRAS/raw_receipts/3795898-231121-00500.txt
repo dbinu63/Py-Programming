@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            21/11/2023            
+
+Terminal 003
+Cashier Kathryn
+
+Hairwax           2          13.20
+                             26.40
+Razorblade        1          15.80
+Classic brush     2          14.80
+                             29.60
+Hairwax           3          13.20
+                             39.60
+
+Subtotal                    111.40
+
+GST Included                 10.13
+Total                       111.40
+
+Payments
+BPAY                        111.40
+
+Reference 3795898:231121:00500
+
+            Thank you             
+----------------------------------

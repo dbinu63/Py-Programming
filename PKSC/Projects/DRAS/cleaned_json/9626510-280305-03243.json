@@ -1,0 +1,32 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2028-03-05",
+    "month": 3,
+    "year": 2028,
+    "terminal": "002",
+    "cashier": "Levi",
+    "customer": "Steven",
+    "reference": "9626510:280305:03243",
+    "items": [
+        {
+            "product": "Vego",
+            "quantity": 3,
+            "unit_price": 15.8,
+            "total_price": 47.4
+        },
+        {
+            "product": "Spicy chicken",
+            "quantity": 3,
+            "unit_price": 17.2,
+            "total_price": 51.6
+        }
+    ],
+    "subtotal": "99.00",
+    "gst": "9.00",
+    "total": "99.00",
+    "payment": {
+        "Debit Card": 89.1,
+        "EFTPOS": 9.9
+    }
+}

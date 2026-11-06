@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/05/2027            
+
+Terminal 004
+Cashier Michael
+Customer Ashley
+
+Soap 500mL        3           8.20
+                             24.60
+Razorblade        1          18.80
+Scissors          3          43.20
+                            129.60
+Scissors          1          43.20
+
+Subtotal                    216.20
+
+GST Included                 19.65
+Total                       216.20
+
+Payments
+Credit Card                 216.20
+
+     You earnt 21,620 points!     
+
+Reference 3795898:270528:01920
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            07/06/2028            
+
+Terminal 001
+Cashier Michael
+Customer Francisco
+
+Cape white        1          58.50
+Pomade            2          16.60
+                             33.20
+Cape white        3          58.50
+                            175.50
+
+Subtotal                    267.20
+
+GST Included                 24.29
+Total                       267.20
+
+Payments
+Loyalty Points              177.15
+Gift Card                    90.05
+
+     You earnt 9,005 points!      
+
+Reference 3795898:280607:02378
+
+           See you soon           
+----------------------------------

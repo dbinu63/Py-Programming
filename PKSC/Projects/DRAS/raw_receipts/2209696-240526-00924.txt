@@ -1,0 +1,35 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            26/05/2024            
+
+Terminal 001
+Cashier Scott
+Customer Robin
+
+Eggs benny        2          19.80
+                             39.60
+Ham bagel         3          11.20
+                             33.60
+Salmon bagel      1          13.20
+Macarons          1           4.40
+
+Subtotal                     90.80
+
+* Promotions
+ 5% off Salmon bagel
+                             -0.66
+
+GST Included                  8.19
+Total                        90.14
+
+Payments
+BPAY                         90.14
+
+     You earnt 9,014 points!      
+
+Reference 2209696:240526:00924
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,38 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2024-12-18",
+    "month": 12,
+    "year": 2024,
+    "terminal": "005",
+    "cashier": "Jonathon",
+    "customer": "Angela",
+    "reference": "3795898:241218:00913",
+    "items": [
+        {
+            "product": "Broom",
+            "quantity": 1,
+            "unit_price": 43.2,
+            "total_price": 43.2
+        },
+        {
+            "product": "Broom",
+            "quantity": 2,
+            "unit_price": 43.2,
+            "total_price": 86.4
+        },
+        {
+            "product": "Cape grey",
+            "quantity": 1,
+            "unit_price": 48.8,
+            "total_price": 48.8
+        }
+    ],
+    "subtotal": "178.40",
+    "gst": "15.77",
+    "total": "173.52",
+    "payment": {
+        "Debit Card": 34.7,
+        "Gift Card": 138.82
+    }
+}

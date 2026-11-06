@@ -1,0 +1,32 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2026-02-15",
+    "month": 2,
+    "year": 2026,
+    "terminal": "002",
+    "cashier": "Ronald",
+    "customer": "Scott",
+    "reference": "9626510:260215:01896",
+    "items": [
+        {
+            "product": "Spicy chicken",
+            "quantity": 3,
+            "unit_price": 15.8,
+            "total_price": 47.4
+        },
+        {
+            "product": "Cheese bread",
+            "quantity": 3,
+            "unit_price": 7.3,
+            "total_price": 21.9
+        }
+    ],
+    "subtotal": "69.30",
+    "gst": "6.30",
+    "total": "69.30",
+    "payment": {
+        "Cash": 61.45,
+        "BPAY": 7.85
+    }
+}

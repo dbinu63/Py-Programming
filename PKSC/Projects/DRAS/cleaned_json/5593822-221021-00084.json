@@ -1,0 +1,43 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2022-10-21",
+    "month": 10,
+    "year": 2022,
+    "terminal": "001",
+    "cashier": "Kevin",
+    "customer": "Steven",
+    "reference": "5593822:221021:00084",
+    "items": [
+        {
+            "product": "Sync diving",
+            "quantity": 3,
+            "unit_price": 20.0,
+            "total_price": 60.0
+        },
+        {
+            "product": "Shampoo",
+            "quantity": 1,
+            "unit_price": 5.0,
+            "total_price": 5.0
+        },
+        {
+            "product": "Casual access",
+            "quantity": 2,
+            "unit_price": 6.0,
+            "total_price": 12.0
+        },
+        {
+            "product": "Sync diving",
+            "quantity": 3,
+            "unit_price": 20.0,
+            "total_price": 60.0
+        }
+    ],
+    "subtotal": "137.00",
+    "gst": "12.45",
+    "total": "137.00",
+    "payment": {
+        "Credit Card": 137.0
+    }
+}

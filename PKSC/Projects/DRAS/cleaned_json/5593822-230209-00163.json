@@ -1,0 +1,32 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2023-02-09",
+    "month": 2,
+    "year": 2023,
+    "terminal": "003",
+    "cashier": "Kevin",
+    "customer": "Meghan",
+    "reference": "5593822:230209:00163",
+    "items": [
+        {
+            "product": "Water bottle",
+            "quantity": 2,
+            "unit_price": 7.4,
+            "total_price": 14.8
+        },
+        {
+            "product": "Rescue training",
+            "quantity": 2,
+            "unit_price": 52.5,
+            "total_price": 105.0
+        }
+    ],
+    "subtotal": "119.80",
+    "gst": "9.46",
+    "total": "104.05",
+    "payment": {
+        "Loyalty Points": 60.8,
+        "BPAY": 43.25
+    }
+}

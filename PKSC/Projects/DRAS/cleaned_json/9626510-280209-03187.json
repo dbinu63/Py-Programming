@@ -1,0 +1,37 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2028-02-09",
+    "month": 2,
+    "year": 2028,
+    "terminal": "002",
+    "cashier": "Levi",
+    "customer": "Scott",
+    "reference": "9626510:280209:03187",
+    "items": [
+        {
+            "product": "Chips",
+            "quantity": 2,
+            "unit_price": 7.9,
+            "total_price": 15.8
+        },
+        {
+            "product": "Spicy chicken",
+            "quantity": 2,
+            "unit_price": 17.2,
+            "total_price": 34.4
+        },
+        {
+            "product": "Spicy chicken",
+            "quantity": 2,
+            "unit_price": 17.2,
+            "total_price": 34.4
+        }
+    ],
+    "subtotal": "84.60",
+    "gst": "7.69",
+    "total": "84.60",
+    "payment": {
+        "EFTPOS": 84.6
+    }
+}

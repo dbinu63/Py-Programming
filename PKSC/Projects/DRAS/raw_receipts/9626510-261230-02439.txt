@@ -1,0 +1,29 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            30/12/2026            
+
+Terminal 001
+Cashier Ronald
+Customer Luke
+
+Vego              3          14.60
+                             43.80
+Spicy chicken     1          15.80
+Vego              1          14.60
+Spicy chicken     2          15.80
+                             31.60
+
+Subtotal                    105.80
+
+GST Included                  9.62
+Total                       105.80
+
+Payments
+Loyalty Points              105.80
+
+Reference 9626510:261230:02439
+
+     Pleasure doing business      
+----------------------------------

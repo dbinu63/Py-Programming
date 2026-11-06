@@ -1,0 +1,31 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2029-03-08",
+    "month": 3,
+    "year": 2029,
+    "terminal": "002",
+    "cashier": "Carlos",
+    "customer": null,
+    "reference": "3795898:290308:02726",
+    "items": [
+        {
+            "product": "Shaving cream",
+            "quantity": 2,
+            "unit_price": 16.6,
+            "total_price": 33.2
+        },
+        {
+            "product": "Hairwax",
+            "quantity": 1,
+            "unit_price": 17.6,
+            "total_price": 17.6
+        }
+    ],
+    "subtotal": "50.80",
+    "gst": "4.22",
+    "total": "46.40",
+    "payment": {
+        "Gift Card": 46.4
+    }
+}

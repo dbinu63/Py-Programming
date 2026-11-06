@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            17/01/2024            
+
+Terminal 002
+Cashier Donna
+Customer Tammy
+
+Towel             2          16.60
+                             33.20
+Sync diving       1          22.00
+Towel             2          16.60
+                             33.20
+Towel             3          16.60
+                             49.80
+
+Subtotal                    138.20
+
+* Promotions
+ Buy 2x Towel, save 15%
+                            -14.94
+
+GST Included                 11.21
+Total                       123.26
+
+Payments
+BPAY                        123.26
+
+     You earnt 12,326 points!     
+
+Reference 5593822:240117:00449
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,28 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            12/09/2024            
+
+Terminal 001
+Cashier Kathryn
+
+Scissors          3          38.40
+                            115.20
+Soap 500mL        3           7.20
+                             21.60
+Hairspray         2          27.40
+                             54.80
+
+Subtotal                    191.60
+
+GST Included                 17.42
+Total                       191.60
+
+Payments
+EFTPOS                      191.60
+
+Reference 3795898:240912:00806
+
+           Stay healthy           
+----------------------------------

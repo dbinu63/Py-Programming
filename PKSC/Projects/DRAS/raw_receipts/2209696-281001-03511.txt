@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            01/10/2028            
+
+Terminal 002
+Cashier Nathaniel
+Customer Marvin
+
+Long Black        3           4.80
+                             14.40
+Cupcake           3           9.30
+                             27.90
+Ham toastie       1           8.60
+Cupcake           2           9.30
+                             18.60
+
+Subtotal                     69.50
+
+* Promotions
+ 30% off Long Black
+                             -4.32
+
+GST Included                  5.93
+Total                        65.18
+
+Payments
+Debit Card                   32.59
+BPAY                         32.59
+
+     You earnt 6,518 points!      
+
+Reference 2209696:281001:03511
+
+            Drive safe            
+----------------------------------

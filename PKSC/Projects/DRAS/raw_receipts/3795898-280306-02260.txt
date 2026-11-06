@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            06/03/2028            
+
+Terminal 005
+Cashier Scott
+Customer Francisco
+
+Cape grey         3          58.50
+                            175.50
+Cape white        2          58.50
+                            117.00
+Pomade            2          16.60
+                             33.20
+Cape white        1          58.50
+
+Subtotal                    384.20
+
+* Promotions
+ Buy 2x Cape grey, save 20%
+                            -23.40
+
+GST Included                 32.80
+Total                       360.80
+
+Payments
+EFTPOS                      360.80
+
+     You earnt 36,080 points!     
+
+Reference 3795898:280306:02260
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            03/04/2028            
+
+Terminal 002
+Cashier Olivia
+Customer Linda
+
+Cape grey         2          58.50
+                            117.00
+Pomade            3          16.60
+                             49.80
+Pomade            2          16.60
+                             33.20
+Shaving cream     1          15.80
+
+Subtotal                    215.80
+
+* Promotions
+ Buy 2x Cape grey, save 20%
+                            -23.40
+
+GST Included                 17.49
+Total                       192.40
+
+Payments
+Gift Card                   192.40
+
+     You earnt 19,240 points!     
+
+Reference 3795898:280403:02295
+
+            Drive safe            
+----------------------------------

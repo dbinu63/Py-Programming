@@ -1,0 +1,25 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            08/07/2024            
+
+Terminal 002
+Cashier Jonathon
+
+Hairspray         1          27.40
+Hairspray         3          27.40
+                             82.20
+
+Subtotal                    109.60
+
+GST Included                  9.96
+Total                       109.60
+
+Payments
+BPAY                        109.60
+
+Reference 3795898:240708:00742
+
+            Drive safe            
+----------------------------------

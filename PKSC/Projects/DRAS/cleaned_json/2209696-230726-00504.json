@@ -1,0 +1,38 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-07-26",
+    "month": 7,
+    "year": 2023,
+    "terminal": "003",
+    "cashier": "Leslie",
+    "customer": "Isaac",
+    "reference": "2209696:230726:00504",
+    "items": [
+        {
+            "product": "Ham toastie",
+            "quantity": 2,
+            "unit_price": 6.9,
+            "total_price": 13.8
+        },
+        {
+            "product": "Macarons",
+            "quantity": 3,
+            "unit_price": 4.2,
+            "total_price": 12.6
+        },
+        {
+            "product": "Macarons",
+            "quantity": 1,
+            "unit_price": 4.2,
+            "total_price": 4.2
+        }
+    ],
+    "subtotal": "30.60",
+    "gst": "2.78",
+    "total": "30.60",
+    "payment": {
+        "Debit Card": 27.54,
+        "Gift Card": 3.06
+    }
+}

@@ -1,0 +1,38 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            25/05/2024            
+
+Terminal 002
+Cashier Donna
+Customer Scott
+
+Sync diving       3          22.00
+                             66.00
+Sync diving       2          22.00
+                             44.00
+Sync diving       1          22.00
+Adult class       3          18.80
+                             56.40
+
+Subtotal                    188.40
+
+* Promotions
+ Buy 2x Sync diving, save 30%
+                            -39.60
+ Buy 2x Adult class, save 10%
+                             -3.76
+
+GST Included                 13.19
+Total                       145.04
+
+Payments
+Credit Card                 145.04
+
+     You earnt 14,504 points!     
+
+Reference 5593822:240525:00585
+
+            Drive safe            
+----------------------------------

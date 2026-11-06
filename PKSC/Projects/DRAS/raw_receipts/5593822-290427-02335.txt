@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            27/04/2029            
+
+Terminal 005
+Cashier Angela
+
+Shampoo           1           7.10
+Towel             3          20.60
+                             61.80
+Egg+Bac burger    3           7.10
+                             21.30
+Egg+Bac burger    1           7.10
+
+Subtotal                     97.30
+
+* Promotions
+ Buy 2x Towel, save 15%
+                             -6.18
+ Buy 3x Egg+Bac burger, save 5%
+                             -1.07
+
+GST Included                  8.19
+Total                        90.05
+
+Payments
+Gift Card                    90.05
+
+Reference 5593822:290427:02335
+
+     Pleasure doing business      
+----------------------------------

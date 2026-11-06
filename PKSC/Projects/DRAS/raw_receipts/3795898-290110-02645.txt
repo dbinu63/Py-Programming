@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/01/2029            
+
+Terminal 003
+Cashier Barbara
+Customer Jonathan
+
+Pomade            1          17.60
+Cape white        2          61.50
+                            123.00
+Hair tonic        3          16.60
+                             49.80
+Cape white        2          61.50
+                            123.00
+
+Subtotal                    313.40
+
+GST Included                 28.49
+Total                       313.40
+
+Payments
+Credit Card                  94.02
+Debit Card                  219.38
+
+     You earnt 31,340 points!     
+
+Reference 3795898:290110:02645
+
+           Stay healthy           
+----------------------------------

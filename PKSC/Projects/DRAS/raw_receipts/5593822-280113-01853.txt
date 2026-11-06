@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            13/01/2028            
+
+Terminal 002
+Cashier Kevin
+Customer Elijah
+
+Rescue training   2          64.50
+                            129.00
+Water bottle      2           9.30
+                             18.60
+Shampoo           3           6.70
+                             20.10
+
+Subtotal                    167.70
+
+* Promotions
+ Buy 2x Water bottle, save 5%
+                             -0.93
+
+GST Included                 15.16
+Total                       166.77
+
+Payments
+Credit Card                 166.77
+
+     You earnt 16,677 points!     
+
+Reference 5593822:280113:01853
+
+            Thank you             
+----------------------------------

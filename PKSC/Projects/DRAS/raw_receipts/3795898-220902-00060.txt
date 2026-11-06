@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            02/09/2022            
+
+Terminal 001
+Cashier Anthony
+Customer Michaela
+
+Razorblade        3          15.00
+                             45.00
+Cape grey         3          44.50
+                            133.50
+Classic brush     2          14.00
+                             28.00
+Classic brush     2          14.00
+                             28.00
+
+Subtotal                    234.50
+
+GST Included                 21.32
+Total                       234.50
+
+Payments
+Cash                        234.50
+
+     You earnt 23,450 points!     
+
+Reference 3795898:220902:00060
+
+              Cheers              
+----------------------------------

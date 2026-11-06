@@ -1,0 +1,38 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2028-04-26",
+    "month": 4,
+    "year": 2028,
+    "terminal": "003",
+    "cashier": "Donna",
+    "customer": "Scott",
+    "reference": "5593822:280426:01950",
+    "items": [
+        {
+            "product": "Shampoo",
+            "quantity": 3,
+            "unit_price": 6.7,
+            "total_price": 20.1
+        },
+        {
+            "product": "Aquaerobics",
+            "quantity": 3,
+            "unit_price": 15.8,
+            "total_price": 47.4
+        },
+        {
+            "product": "Water bottle",
+            "quantity": 1,
+            "unit_price": 9.3,
+            "total_price": 9.3
+        }
+    ],
+    "subtotal": "76.80",
+    "gst": "6.12",
+    "total": "67.32",
+    "payment": {
+        "EFTPOS": 60.59,
+        "Debit Card": 6.73
+    }
+}

@@ -1,0 +1,35 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            19/06/2024            
+
+Terminal 005
+Cashier Leslie
+Customer Robin
+
+Glazed donut      2           4.40
+                              8.80
+Glazed donut      3           4.40
+                             13.20
+Glazed donut      2           4.40
+                              8.80
+Salmon bagel      2          13.20
+                             26.40
+
+Subtotal                     57.20
+
+* Promotions
+ 5% off Salmon bagel
+                             -1.32
+
+GST Included                  5.08
+Total                        55.88
+
+Payments
+Loyalty Points               55.88
+
+Reference 2209696:240619:00959
+
+            Drive safe            
+----------------------------------

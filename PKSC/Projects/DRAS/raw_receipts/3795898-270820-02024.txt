@@ -1,0 +1,40 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            20/08/2027            
+
+Terminal 005
+Cashier Eric
+Customer Rebecca
+
+Pomade            3          15.80
+                             47.40
+Clippers kit      3          61.50
+                            184.50
+Soap 500mL        3           8.20
+                             24.60
+Cape white        3          56.00
+                            168.00
+
+Subtotal                    424.50
+
+* Promotions
+ Buy 3x Pomade, save 25%
+                            -11.85
+ Buy 2x Cape white, save 10%
+                            -11.20
+
+GST Included                 36.50
+Total                       401.45
+
+Payments
+Credit Card                 240.87
+Debit Card                  160.58
+
+     You earnt 40,145 points!     
+
+Reference 3795898:270820:02024
+
+              Cheers              
+----------------------------------

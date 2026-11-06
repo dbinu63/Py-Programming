@@ -1,0 +1,32 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            11/04/2026            
+
+Terminal 001
+Cashier Scott
+
+Mocha             3           4.40
+                             13.20
+Ham bagel         1          12.40
+
+Subtotal                     25.60
+
+* Promotions
+ 15% off Mocha
+                             -1.98
+ 25% off Ham bagel
+                             -3.10
+
+GST Included                  1.87
+Total                        20.52
+
+Payments
+Cash                         19.15
+BPAY                          1.37
+
+Reference 2209696:260411:01958
+
+              Cheers              
+----------------------------------

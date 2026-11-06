@@ -1,0 +1,38 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            01/01/2026            
+
+Terminal 004
+Cashier Amber
+Customer Danny
+
+Cheese bread      2           7.30
+                             14.60
+Chips             3           7.30
+                             21.90
+Soft drink 2L     3           5.50
+                             16.50
+
+Subtotal                     53.00
+
+* Promotions
+ 5% off Soft drink 2L
+                             -0.83
+ Buy 2x Chips, save 5%
+                             -0.73
+
+GST Included                  4.68
+Total                        51.45
+
+Payments
+Loyalty Points               27.60
+Credit Card                  23.84
+
+     You earnt 2,384 points!      
+
+Reference 9626510:260101:01817
+
+           See you soon           
+----------------------------------

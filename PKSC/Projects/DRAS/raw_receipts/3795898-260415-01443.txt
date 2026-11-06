@@ -1,0 +1,38 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            15/04/2026            
+
+Terminal 001
+Cashier Scott
+Customer Linda
+
+Cape white        3          54.00
+                            162.00
+Cape white        3          54.00
+                            162.00
+Broom             3          47.20
+                            141.60
+Pomade            3          15.20
+                             45.60
+
+Subtotal                    511.20
+
+* Promotions
+ 25% off Cape white
+                            -81.00
+
+GST Included                 39.11
+Total                       430.20
+
+Payments
+Gift Card                   301.14
+Credit Card                 129.06
+
+     You earnt 43,020 points!     
+
+Reference 3795898:260415:01443
+
+           Stay healthy           
+----------------------------------

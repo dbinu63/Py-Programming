@@ -1,0 +1,26 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2025-08-09",
+    "month": 8,
+    "year": 2025,
+    "terminal": "003",
+    "cashier": "Donna",
+    "customer": "Johnathan",
+    "reference": "5593822:250809:00974",
+    "items": [
+        {
+            "product": "Swim goggles",
+            "quantity": 1,
+            "unit_price": 22.8,
+            "total_price": 22.8
+        }
+    ],
+    "subtotal": "22.80",
+    "gst": "2.07",
+    "total": "22.80",
+    "payment": {
+        "Loyalty Points": 14.15,
+        "Debit Card": 8.65
+    }
+}

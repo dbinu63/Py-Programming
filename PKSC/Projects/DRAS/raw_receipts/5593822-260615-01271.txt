@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            15/06/2026            
+
+Terminal 001
+Cashier Kevin
+
+Water bottle      2           8.60
+                             17.20
+Rescue training   2          60.00
+                            120.00
+Waterpolo         3          14.60
+                             43.80
+
+Subtotal                    181.00
+
+* Promotions
+ Buy 3x Waterpolo, save 25%
+                            -10.95
+
+GST Included                 15.46
+Total                       170.05
+
+Payments
+Cash                        147.40
+Credit Card                  22.65
+
+Reference 5593822:260615:01271
+
+              Cheers              
+----------------------------------

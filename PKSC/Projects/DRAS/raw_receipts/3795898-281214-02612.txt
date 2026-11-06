@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            14/12/2028            
+
+Terminal 001
+Cashier Carlos
+Customer Lisa
+
+Cape white        2          58.50
+                            117.00
+Hairwax           3          16.60
+                             49.80
+Hairwax           1          16.60
+
+Subtotal                    183.40
+
+GST Included                 16.67
+Total                       183.40
+
+Payments
+Debit Card                  183.40
+
+     You earnt 18,340 points!     
+
+Reference 3795898:281214:02612
+
+            Thank you             
+----------------------------------

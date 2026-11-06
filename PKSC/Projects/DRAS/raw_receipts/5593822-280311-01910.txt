@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            11/03/2028            
+
+Terminal 004
+Cashier Donna
+
+Sync diving       1          25.80
+Water bottle      2           9.30
+                             18.60
+Shampoo           2           6.70
+                             13.40
+Shampoo           3           6.70
+                             20.10
+
+Subtotal                     77.90
+
+* Promotions
+ Buy 2x Water bottle, save 5%
+                             -0.93
+ 25% off Sync diving
+                             -6.45
+
+GST Included                  6.41
+Total                        70.52
+
+Payments
+Debit Card                   70.52
+
+Reference 5593822:280311:01910
+
+     Pleasure doing business      
+----------------------------------

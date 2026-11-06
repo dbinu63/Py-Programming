@@ -1,0 +1,38 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2026-04-16",
+    "month": 4,
+    "year": 2026,
+    "terminal": "005",
+    "cashier": "Mary",
+    "customer": "Ricardo",
+    "reference": "2209696:260416:01972",
+    "items": [
+        {
+            "product": "Ham bagel",
+            "quantity": 1,
+            "unit_price": 12.4,
+            "total_price": 12.4
+        },
+        {
+            "product": "Ham bagel",
+            "quantity": 2,
+            "unit_price": 12.4,
+            "total_price": 24.8
+        },
+        {
+            "product": "Flat white",
+            "quantity": 3,
+            "unit_price": 5.5,
+            "total_price": 16.5
+        }
+    ],
+    "subtotal": "53.70",
+    "gst": "3.74",
+    "total": "41.10",
+    "payment": {
+        "Cash": 24.65,
+        "EFTPOS": 16.45
+    }
+}

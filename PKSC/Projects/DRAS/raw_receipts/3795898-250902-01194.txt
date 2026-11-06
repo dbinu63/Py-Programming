@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            02/09/2025            
+
+Terminal 001
+Cashier Jonathon
+Customer Carrie
+
+Razorblade        1          17.20
+Soap 500mL        1           7.50
+Soap 500mL        1           7.50
+
+Subtotal                     32.20
+
+GST Included                  2.93
+Total                        32.20
+
+Payments
+Loyalty Points               29.65
+EFTPOS                        2.55
+
+      You earnt 255 points!       
+
+Reference 3795898:250902:01194
+
+           Stay healthy           
+----------------------------------

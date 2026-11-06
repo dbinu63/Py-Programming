@@ -1,0 +1,34 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            26/01/2029            
+
+Terminal 004
+Cashier Carlos
+Customer Lisa
+
+Spray bottle      3          26.80
+                             80.40
+Hair tonic        3          16.60
+                             49.80
+
+Subtotal                    130.20
+
+* Promotions
+ 25% off Spray bottle
+                            -20.10
+
+GST Included                 10.01
+Total                       110.10
+
+Payments
+Debit Card                   11.01
+EFTPOS                       99.09
+
+     You earnt 11,010 points!     
+
+Reference 3795898:290126:02667
+
+     Pleasure doing business      
+----------------------------------

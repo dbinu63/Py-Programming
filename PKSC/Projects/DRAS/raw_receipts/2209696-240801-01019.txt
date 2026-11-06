@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            01/08/2024            
+
+Terminal 002
+Cashier Scott
+Customer David
+
+Ham toastie       3           7.20
+                             21.60
+Glazed donut      3           4.40
+                             13.20
+Glazed donut      2           4.40
+                              8.80
+Salmon bagel      2          13.20
+                             26.40
+
+Subtotal                     70.00
+
+* Promotions
+ 5% off Salmon bagel
+                             -1.32
+
+GST Included                  6.24
+Total                        68.68
+
+Payments
+BPAY                         68.68
+
+     You earnt 6,868 points!      
+
+Reference 2209696:240801:01019
+
+     Pleasure doing business      
+----------------------------------

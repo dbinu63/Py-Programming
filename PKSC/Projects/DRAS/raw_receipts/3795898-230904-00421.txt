@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            04/09/2023            
+
+Terminal 004
+Cashier Anthony
+
+Cape grey         2          46.80
+                             93.60
+Spray bottle      3          20.60
+                             61.80
+Classic brush     1          14.80
+Classic brush     1          14.80
+
+Subtotal                    185.00
+
+* Promotions
+ Buy 2x Cape grey, save 15%
+                            -14.04
+
+GST Included                 15.54
+Total                       170.96
+
+Payments
+Debit Card                  153.86
+EFTPOS                       17.10
+
+Reference 3795898:230904:00421
+
+            Thank you             
+----------------------------------

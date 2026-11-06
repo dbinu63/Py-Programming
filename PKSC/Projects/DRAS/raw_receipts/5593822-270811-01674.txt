@@ -1,0 +1,27 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            11/08/2027            
+
+Terminal 005
+Cashier Kevin
+
+Water bottle      3           8.90
+                             26.70
+Rescue training   2          62.00
+                            124.00
+Hot chips         1           6.40
+
+Subtotal                    157.10
+
+GST Included                 14.28
+Total                       157.10
+
+Payments
+BPAY                        157.10
+
+Reference 5593822:270811:01674
+
+              Cheers              
+----------------------------------

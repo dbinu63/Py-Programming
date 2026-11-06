@@ -1,0 +1,44 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2025-06-24",
+    "month": 6,
+    "year": 2025,
+    "terminal": "003",
+    "cashier": "Scott",
+    "customer": "Paula",
+    "reference": "2209696:250624:01502",
+    "items": [
+        {
+            "product": "Mocha",
+            "quantity": 2,
+            "unit_price": 4.1,
+            "total_price": 8.2
+        },
+        {
+            "product": "Flat white",
+            "quantity": 2,
+            "unit_price": 5.2,
+            "total_price": 10.4
+        },
+        {
+            "product": "Brownie",
+            "quantity": 1,
+            "unit_price": 5.2,
+            "total_price": 5.2
+        },
+        {
+            "product": "Brownie",
+            "quantity": 2,
+            "unit_price": 5.2,
+            "total_price": 10.4
+        }
+    ],
+    "subtotal": "34.20",
+    "gst": "2.86",
+    "total": "31.41",
+    "payment": {
+        "BPAY": 21.99,
+        "EFTPOS": 9.42
+    }
+}

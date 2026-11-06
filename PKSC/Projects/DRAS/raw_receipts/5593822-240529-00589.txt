@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            29/05/2024            
+
+Terminal 003
+Cashier Donna
+Customer Cody
+
+Rescue training   2          55.00
+                            110.00
+Towel             2          16.60
+                             33.20
+
+Subtotal                    143.20
+
+* Promotions
+ Buy 2x Towel, save 15%
+                             -4.98
+ 20% off Rescue training
+                            -22.00
+
+GST Included                 10.57
+Total                       116.22
+
+Payments
+Gift Card                   116.22
+
+     You earnt 11,622 points!     
+
+Reference 5593822:240529:00589
+
+           Stay healthy           
+----------------------------------

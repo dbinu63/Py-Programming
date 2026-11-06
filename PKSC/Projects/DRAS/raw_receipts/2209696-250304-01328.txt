@@ -1,0 +1,40 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            04/03/2025            
+
+Terminal 003
+Cashier Scott
+Customer Sandra
+
+Mocha             2           4.10
+                              8.20
+Ham toastie       3           7.50
+                             22.50
+Ham bagel         2          11.60
+                             23.20
+Ham toastie       3           7.50
+                             22.50
+
+Subtotal                     76.40
+
+* Promotions
+ Buy 2x Mocha, save 15%
+                             -1.23
+ Buy 2x Ham bagel, save 15%
+                             -3.48
+
+GST Included                  6.52
+Total                        71.69
+
+Payments
+Credit Card                  35.84
+Debit Card                   35.84
+
+     You earnt 7,169 points!      
+
+Reference 2209696:250304:01328
+
+           Stay healthy           
+----------------------------------

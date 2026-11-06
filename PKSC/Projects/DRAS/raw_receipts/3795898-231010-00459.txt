@@ -1,0 +1,28 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/10/2023            
+
+Terminal 001
+Cashier Jonathon
+
+Spray bottle      1          20.60
+Hairwax           3          13.20
+                             39.60
+Cape grey         1          46.80
+Spray bottle      2          20.60
+                             41.20
+
+Subtotal                    148.20
+
+GST Included                 13.47
+Total                       148.20
+
+Payments
+EFTPOS                      148.20
+
+Reference 3795898:231010:00459
+
+              Cheers              
+----------------------------------

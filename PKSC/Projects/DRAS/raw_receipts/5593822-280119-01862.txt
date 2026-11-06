@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            19/01/2028            
+
+Terminal 005
+Cashier Kevin
+
+Aquaerobics       2          15.80
+                             31.60
+Water bottle      2           9.30
+                             18.60
+Shampoo           3           6.70
+                             20.10
+Rescue training   3          64.50
+                            193.50
+
+Subtotal                    263.80
+
+* Promotions
+ Buy 2x Water bottle, save 5%
+                             -0.93
+
+GST Included                 23.90
+Total                       262.87
+
+Payments
+BPAY                        105.15
+Gift Card                   157.72
+
+Reference 5593822:280119:01862
+
+              Cheers              
+----------------------------------

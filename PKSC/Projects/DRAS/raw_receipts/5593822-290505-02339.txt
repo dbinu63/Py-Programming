@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/05/2029            
+
+Terminal 001
+Cashier Patricia
+
+Sync diving       1          27.20
+Egg+Bac burger    3           7.10
+                             21.30
+
+Subtotal                     48.50
+
+* Promotions
+ Buy 3x Egg+Bac burger, save 5%
+                             -1.07
+
+GST Included                  4.31
+Total                        47.44
+
+Payments
+Cash                         47.45
+
+Reference 5593822:290505:02339
+
+              Cheers              
+----------------------------------

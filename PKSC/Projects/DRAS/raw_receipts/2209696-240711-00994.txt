@@ -1,0 +1,40 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            11/07/2024            
+
+Terminal 002
+Cashier Scott
+Customer Paula
+
+Ham bagel         2          11.20
+                             22.40
+English muffin    3           6.60
+                             19.80
+Salmon bagel      2          13.20
+                             26.40
+Ham bagel         2          11.20
+                             22.40
+
+Subtotal                     91.00
+
+* Promotions
+ 5% off Salmon bagel
+                             -1.32
+ Buy 2x English muffin, save 30%
+                             -3.96
+
+GST Included                  7.79
+Total                        85.72
+
+Payments
+Loyalty Points               32.95
+BPAY                         52.77
+
+     You earnt 5,277 points!      
+
+Reference 2209696:240711:00994
+
+              Cheers              
+----------------------------------

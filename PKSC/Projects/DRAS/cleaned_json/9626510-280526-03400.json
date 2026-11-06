@@ -1,0 +1,44 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2028-05-26",
+    "month": 5,
+    "year": 2028,
+    "terminal": "004",
+    "cashier": "Levi",
+    "customer": "Andrew",
+    "reference": "9626510:280526:03400",
+    "items": [
+        {
+            "product": "Chips",
+            "quantity": 2,
+            "unit_price": 7.9,
+            "total_price": 15.8
+        },
+        {
+            "product": "Chips",
+            "quantity": 3,
+            "unit_price": 7.9,
+            "total_price": 23.7
+        },
+        {
+            "product": "Garlic prawn",
+            "quantity": 1,
+            "unit_price": 20.8,
+            "total_price": 20.8
+        },
+        {
+            "product": "Garlic prawn",
+            "quantity": 1,
+            "unit_price": 20.8,
+            "total_price": 20.8
+        }
+    ],
+    "subtotal": "81.10",
+    "gst": "7.37",
+    "total": "81.10",
+    "payment": {
+        "Loyalty Points": 28.5,
+        "EFTPOS": 52.6
+    }
+}

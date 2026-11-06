@@ -1,0 +1,25 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2023-07-05",
+    "month": 7,
+    "year": 2023,
+    "terminal": "002",
+    "cashier": "Tara",
+    "customer": "Linda",
+    "reference": "9626510:230705:00473",
+    "items": [
+        {
+            "product": "Cheese bread",
+            "quantity": 1,
+            "unit_price": 6.3,
+            "total_price": 6.3
+        }
+    ],
+    "subtotal": "10.00",
+    "gst": "0.91",
+    "total": "10.00",
+    "payment": {
+        "BPAY": 10.0
+    }
+}

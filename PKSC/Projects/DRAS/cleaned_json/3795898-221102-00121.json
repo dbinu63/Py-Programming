@@ -1,0 +1,32 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2022-11-02",
+    "month": 11,
+    "year": 2022,
+    "terminal": "001",
+    "cashier": "Jonathon",
+    "customer": "David",
+    "reference": "3795898:221102:00121",
+    "items": [
+        {
+            "product": "Face wipes",
+            "quantity": 3,
+            "unit_price": 9.5,
+            "total_price": 28.5
+        },
+        {
+            "product": "Hairspray",
+            "quantity": 1,
+            "unit_price": 25.0,
+            "total_price": 25.0
+        }
+    ],
+    "subtotal": "86.00",
+    "gst": "7.82",
+    "total": "86.00",
+    "payment": {
+        "Gift Card": 77.4,
+        "EFTPOS": 8.6
+    }
+}

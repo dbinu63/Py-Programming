@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            09/03/2026            
+
+Terminal 001
+Cashier Kevin
+
+Aquaerobics       3          14.60
+                             43.80
+Waterpolo         2          14.60
+                             29.20
+Waterpolo         3          14.60
+                             43.80
+Aquaerobics       3          14.60
+                             43.80
+
+Subtotal                    160.60
+
+* Promotions
+ Buy 3x Waterpolo, save 25%
+                            -10.95
+
+GST Included                 13.60
+Total                       149.65
+
+Payments
+Cash                         84.45
+Debit Card                   65.20
+
+Reference 5593822:260309:01184
+
+           See you soon           
+----------------------------------

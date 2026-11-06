@@ -1,0 +1,38 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            08/11/2026            
+
+Terminal 001
+Cashier Diane
+Customer Isaac
+
+Long Black        2           4.40
+                              8.80
+Mocha             1           4.40
+Long Black        2           4.40
+                              8.80
+Cupcake           1           8.60
+
+Subtotal                     30.60
+
+* Promotions
+ 15% off Mocha
+                             -0.66
+ 10% off Cupcake
+                             -0.86
+
+GST Included                  2.64
+Total                        29.08
+
+Payments
+Loyalty Points                2.80
+BPAY                         26.28
+
+     You earnt 2,628 points!      
+
+Reference 2209696:261108:02291
+
+              Cheers              
+----------------------------------

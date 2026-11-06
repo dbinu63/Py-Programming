@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            24/06/2025            
+
+Terminal 005
+Cashier Donna
+Customer Sarah
+
+Waterpolo         3          13.80
+                             41.40
+Waterpolo         1          13.80
+
+Subtotal                     55.20
+
+* Promotions
+ 10% off Waterpolo
+                             -5.52
+
+GST Included                  4.52
+Total                        49.68
+
+Payments
+Debit Card                   49.68
+
+     You earnt 4,968 points!      
+
+Reference 5593822:250624:00929
+
+            Thank you             
+----------------------------------

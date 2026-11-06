@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            07/05/2026            
+
+Terminal 005
+Cashier Matthew
+
+Mocha             2           4.40
+                              8.80
+Flat white        3           5.50
+                             16.50
+English muffin    1           7.30
+Ham bagel         3          12.40
+                             37.20
+
+Subtotal                     69.80
+
+* Promotions
+ 15% off Mocha
+                             -1.32
+ 25% off Ham bagel
+                             -9.30
+ Buy 3x Flat white, save 20%
+                             -3.30
+
+GST Included                  5.08
+Total                        55.88
+
+Payments
+EFTPOS                       55.88
+
+Reference 2209696:260507:02005
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            02/06/2026            
+
+Terminal 004
+Cashier Kevin
+Customer Sean
+
+Shampoo           2           6.20
+                             12.40
+Water bottle      2           8.60
+                             17.20
+Shampoo           2           6.20
+                             12.40
+Shampoo           3           6.20
+                             18.60
+
+Subtotal                     60.60
+
+GST Included                  5.51
+Total                        60.60
+
+Payments
+Credit Card                   6.06
+Gift Card                    54.54
+
+     You earnt 6,060 points!      
+
+Reference 5593822:260602:01262
+
+     Pleasure doing business      
+----------------------------------

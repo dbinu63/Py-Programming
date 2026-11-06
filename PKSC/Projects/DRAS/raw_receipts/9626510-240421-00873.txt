@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            21/04/2024            
+
+Terminal 001
+Cashier Ronald
+Customer Jonathan
+
+Hawaiian          2          13.20
+                             26.40
+Chips             1           6.60
+Hawaiian          3          13.20
+                             39.60
+Soft drink 1L     2           3.90
+                              7.80
+
+Subtotal                     80.40
+
+GST Included                  7.31
+Total                        80.40
+
+Payments
+Credit Card                  40.20
+Debit Card                   40.20
+
+     You earnt 8,040 points!      
+
+Reference 9626510:240421:00873
+
+            Thank you             
+----------------------------------

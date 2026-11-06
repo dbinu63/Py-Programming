@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/07/2022            
+
+Terminal 005
+Cashier Jonathon
+
+Razorblade        2          15.00
+                             30.00
+Hairspray         2          25.00
+                             50.00
+Hairspray         3          25.00
+                             75.00
+
+Subtotal                    155.00
+
+GST Included                 14.09
+Total                       155.00
+
+Payments
+EFTPOS                       93.00
+Credit Card                  62.00
+
+Reference 3795898:220711:00011
+
+            Drive safe            
+----------------------------------

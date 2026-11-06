@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            13/06/2029            
+
+Terminal 002
+Cashier Jeffrey
+
+Aquaerobics       2          16.60
+                             33.20
+Sync diving       2          27.20
+                             54.40
+Rescue training   2          68.00
+                            136.00
+
+Subtotal                    223.60
+
+* Promotions
+ Buy 2x Aquaerobics, save 30%
+                             -9.96
+
+GST Included                 19.42
+Total                       213.64
+
+Payments
+BPAY                        213.64
+
+Reference 5593822:290613:02382
+
+     Pleasure doing business      
+----------------------------------

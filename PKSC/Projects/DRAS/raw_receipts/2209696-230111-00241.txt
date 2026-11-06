@@ -1,0 +1,35 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            11/01/2023            
+
+Terminal 004
+Cashier Scott
+Customer Scott
+
+Cappuccino        2           5.30
+                             10.60
+Ham toastie       3           6.90
+                             20.70
+
+Subtotal                     31.30
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -1.06
+ Buy 3x Ham toastie, save 10%
+                             -2.07
+
+GST Included                  2.56
+Total                        28.17
+
+Payments
+Debit Card                   28.17
+
+     You earnt 2,817 points!      
+
+Reference 2209696:230111:00241
+
+              Cheers              
+----------------------------------

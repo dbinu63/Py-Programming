@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/01/2029            
+
+Terminal 005
+Cashier Carlos
+
+Hairwax           1          17.60
+Spray bottle      3          26.80
+                             80.40
+Cape white        1          61.50
+Cape white        3          61.50
+                            184.50
+
+Subtotal                    344.00
+
+* Promotions
+ 25% off Spray bottle
+                            -20.10
+ 25% off Hairwax
+                             -4.40
+
+GST Included                 29.05
+Total                       319.50
+
+Payments
+Cash                        175.50
+BPAY                        144.00
+
+Reference 3795898:290111:02648
+
+              Cheers              
+----------------------------------

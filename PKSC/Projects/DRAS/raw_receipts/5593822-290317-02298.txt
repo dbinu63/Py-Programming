@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            17/03/2029            
+
+Terminal 002
+Cashier Angela
+
+Shampoo           3           7.10
+                             21.30
+Hot chips         3           7.10
+                             21.30
+
+Subtotal                     42.60
+
+* Promotions
+ Buy 2x Shampoo, save 20%
+                             -2.84
+
+GST Included                  3.61
+Total                        39.76
+
+Payments
+Cash                          6.25
+Credit Card                  33.51
+
+Reference 5593822:290317:02298
+
+           Stay healthy           
+----------------------------------

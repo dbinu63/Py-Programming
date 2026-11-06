@@ -1,0 +1,31 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-01-11",
+    "month": 1,
+    "year": 2023,
+    "terminal": "004",
+    "cashier": "Scott",
+    "customer": "Scott",
+    "reference": "2209696:230111:00241",
+    "items": [
+        {
+            "product": "Cappuccino",
+            "quantity": 2,
+            "unit_price": 5.3,
+            "total_price": 10.6
+        },
+        {
+            "product": "Ham toastie",
+            "quantity": 3,
+            "unit_price": 6.9,
+            "total_price": 20.7
+        }
+    ],
+    "subtotal": "31.30",
+    "gst": "2.56",
+    "total": "28.17",
+    "payment": {
+        "Debit Card": 28.17
+    }
+}

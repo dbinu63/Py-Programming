@@ -1,0 +1,26 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2022-08-27",
+    "month": 8,
+    "year": 2022,
+    "terminal": "005",
+    "cashier": "Joyce",
+    "customer": null,
+    "reference": "9626510:220827:00074",
+    "items": [
+        {
+            "product": "Pancakes",
+            "quantity": 1,
+            "unit_price": 7.0,
+            "total_price": 7.0
+        }
+    ],
+    "subtotal": "7.00",
+    "gst": "0.64",
+    "total": "7.00",
+    "payment": {
+        "BPAY": 4.9,
+        "Credit Card": 2.1
+    }
+}

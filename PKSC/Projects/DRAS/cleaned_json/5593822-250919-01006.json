@@ -1,0 +1,43 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2025-09-19",
+    "month": 9,
+    "year": 2025,
+    "terminal": "002",
+    "cashier": "Donna",
+    "customer": "Samantha",
+    "reference": "5593822:250919:01006",
+    "items": [
+        {
+            "product": "Shampoo",
+            "quantity": 3,
+            "unit_price": 5.8,
+            "total_price": 17.4
+        },
+        {
+            "product": "Hot chips",
+            "quantity": 3,
+            "unit_price": 5.8,
+            "total_price": 17.4
+        },
+        {
+            "product": "Swim goggles",
+            "quantity": 2,
+            "unit_price": 22.8,
+            "total_price": 45.6
+        },
+        {
+            "product": "Shampoo",
+            "quantity": 3,
+            "unit_price": 5.8,
+            "total_price": 17.4
+        }
+    ],
+    "subtotal": "97.80",
+    "gst": "8.89",
+    "total": "97.80",
+    "payment": {
+        "Loyalty Points": 97.8
+    }
+}

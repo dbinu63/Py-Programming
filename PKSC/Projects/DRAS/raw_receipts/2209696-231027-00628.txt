@@ -1,0 +1,35 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            27/10/2023            
+
+Terminal 004
+Cashier Leslie
+
+Latte             2           4.20
+                              8.40
+Ham bagel         2          10.60
+                             21.20
+English muffin    2           6.30
+                             12.60
+Ham bagel         1          10.60
+
+Subtotal                     52.80
+
+* Promotions
+ 10% off English muffin
+                             -1.26
+ Buy 2x Ham bagel, save 20%
+                             -4.24
+
+GST Included                  4.30
+Total                        47.30
+
+Payments
+EFTPOS                       47.30
+
+Reference 2209696:231027:00628
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,36 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            19/03/2026            
+
+Terminal 002
+Cashier Scott
+
+Mocha             2           4.40
+                              8.80
+Cupcake           3           8.60
+                             25.80
+Cupcake           2           8.60
+                             17.20
+Mocha             2           4.40
+                              8.80
+
+Subtotal                     60.60
+
+* Promotions
+ 15% off Mocha
+                             -2.64
+ 10% off Cupcake
+                             -4.30
+
+GST Included                  4.88
+Total                        53.66
+
+Payments
+Debit Card                   53.66
+
+Reference 2209696:260319:01920
+
+           Stay healthy           
+----------------------------------

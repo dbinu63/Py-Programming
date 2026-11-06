@@ -1,0 +1,27 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            02/02/2026            
+
+Terminal 001
+Cashier Kevin
+Customer Jennifer
+
+Aquaerobics       1          14.60
+Swim cap          1          12.40
+
+Subtotal                     27.00
+
+GST Included                  2.45
+Total                        27.00
+
+Payments
+Credit Card                  27.00
+
+     You earnt 2,700 points!      
+
+Reference 5593822:260202:01145
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            15/06/2023            
+
+Terminal 004
+Cashier Donna
+Customer Natalie
+
+Towel             1          15.80
+Towel             2          15.80
+                             31.60
+Egg+Bac burger    2           5.30
+                             10.60
+Sync diving       1          21.00
+
+Subtotal                     79.00
+
+GST Included                  7.18
+Total                        79.00
+
+Payments
+EFTPOS                       79.00
+
+     You earnt 7,900 points!      
+
+Reference 5593822:230615:00288
+
+              Cheers              
+----------------------------------

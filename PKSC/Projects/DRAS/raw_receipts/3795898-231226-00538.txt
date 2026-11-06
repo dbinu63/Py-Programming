@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            26/12/2023            
+
+Terminal 002
+Cashier Jonathon
+
+Cape grey         3          46.80
+                            140.40
+Hairwax           1          13.20
+Hairwax           3          13.20
+                             39.60
+Hairwax           1          13.20
+
+Subtotal                    206.40
+
+* Promotions
+ Buy 2x Cape grey, save 15%
+                            -14.04
+
+GST Included                 17.49
+Total                       192.36
+
+Payments
+EFTPOS                      192.36
+
+Reference 3795898:231226:00538
+
+            Drive safe            
+----------------------------------

@@ -1,0 +1,39 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            09/12/2026            
+
+Terminal 001
+Cashier Donna
+Customer Kenneth
+
+Hot chips         2           6.20
+                             12.40
+Hot chips         3           6.20
+                             18.60
+Hot chips         1           6.20
+Waterpolo         3          14.60
+                             43.80
+
+Subtotal                     81.00
+
+* Promotions
+ Buy 3x Hot chips, save 15%
+                             -5.58
+ Buy 3x Waterpolo, save 25%
+                            -10.95
+
+GST Included                  5.86
+Total                        64.47
+
+Payments
+Gift Card                    12.89
+Credit Card                  51.58
+
+     You earnt 6,447 points!      
+
+Reference 5593822:261209:01439
+
+           See you soon           
+----------------------------------

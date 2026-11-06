@@ -1,0 +1,30 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            20/03/2026            
+
+Terminal 003
+Cashier Kevin
+
+Shampoo           3           6.20
+                             18.60
+Shampoo           2           6.20
+                             12.40
+Shampoo           2           6.20
+                             12.40
+Shampoo           2           6.20
+                             12.40
+
+Subtotal                     55.80
+
+GST Included                  5.07
+Total                        55.80
+
+Payments
+Debit Card                   55.80
+
+Reference 5593822:260320:01199
+
+            Thank you             
+----------------------------------

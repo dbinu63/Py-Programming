@@ -1,0 +1,44 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2023-05-11",
+    "month": 5,
+    "year": 2023,
+    "terminal": "004",
+    "cashier": "Joyce",
+    "customer": "Danny",
+    "reference": "9626510:230511:00393",
+    "items": [
+        {
+            "product": "Three meat",
+            "quantity": 3,
+            "unit_price": 16.8,
+            "total_price": 50.4
+        },
+        {
+            "product": "Just Cheese",
+            "quantity": 3,
+            "unit_price": 12.6,
+            "total_price": 37.8
+        },
+        {
+            "product": "Garlic bread",
+            "quantity": 1,
+            "unit_price": 6.3,
+            "total_price": 6.3
+        },
+        {
+            "product": "Just Cheese",
+            "quantity": 3,
+            "unit_price": 12.6,
+            "total_price": 37.8
+        }
+    ],
+    "subtotal": "132.30",
+    "gst": "9.97",
+    "total": "109.62",
+    "payment": {
+        "Gift Card": 54.81,
+        "BPAY": 54.81
+    }
+}

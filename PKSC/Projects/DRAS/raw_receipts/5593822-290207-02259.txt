@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            07/02/2029            
+
+Terminal 001
+Cashier Kevin
+Customer Johnathan
+
+Egg+Bac burger    2           7.10
+                             14.20
+Sync diving       3          27.20
+                             81.60
+Hot chips         1           7.10
+
+Subtotal                    102.90
+
+GST Included                  9.35
+Total                       102.90
+
+Payments
+BPAY                         92.61
+Credit Card                  10.29
+
+     You earnt 10,290 points!     
+
+Reference 5593822:290207:02259
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            16/11/2022            
+
+Terminal 001
+Cashier Theresa
+Customer Derek
+
+Aquaerobics       2          12.00
+                             24.00
+Casual access     1           6.00
+Water bottle      3           7.00
+                             21.00
+Water bottle      2           7.00
+                             14.00
+
+Subtotal                     65.00
+
+GST Included                  5.91
+Total                        65.00
+
+Payments
+Loyalty Points               39.70
+Debit Card                   25.30
+
+     You earnt 2,530 points!      
+
+Reference 5593822:221116:00098
+
+     Pleasure doing business      
+----------------------------------

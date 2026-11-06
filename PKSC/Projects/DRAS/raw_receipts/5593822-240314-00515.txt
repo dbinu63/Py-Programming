@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            14/03/2024            
+
+Terminal 002
+Cashier Jennifer
+
+Towel             1          16.60
+Rescue training   1          55.00
+Towel             1          16.60
+Sync diving       1          22.00
+
+Subtotal                    110.20
+
+* Promotions
+ Buy 2x Towel, save 15%
+                             -4.98
+ 20% off Rescue training
+                            -11.00
+
+GST Included                  8.57
+Total                        94.22
+
+Payments
+Cash                         94.20
+
+Reference 5593822:240314:00515
+
+            Drive safe            
+----------------------------------

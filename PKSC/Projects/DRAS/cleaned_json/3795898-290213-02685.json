@@ -1,0 +1,44 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2029-02-13",
+    "month": 2,
+    "year": 2029,
+    "terminal": "001",
+    "cashier": "Carlos",
+    "customer": null,
+    "reference": "3795898:290213:02685",
+    "items": [
+        {
+            "product": "Hairwax",
+            "quantity": 3,
+            "unit_price": 17.6,
+            "total_price": 52.8
+        },
+        {
+            "product": "Hair tonic",
+            "quantity": 2,
+            "unit_price": 16.6,
+            "total_price": 33.2
+        },
+        {
+            "product": "Hairwax",
+            "quantity": 3,
+            "unit_price": 17.6,
+            "total_price": 52.8
+        },
+        {
+            "product": "Shaving cream",
+            "quantity": 2,
+            "unit_price": 16.6,
+            "total_price": 33.2
+        }
+    ],
+    "subtotal": "172.00",
+    "gst": "13.24",
+    "total": "145.60",
+    "payment": {
+        "Debit Card": 131.04,
+        "Gift Card": 14.56
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2023-02-07",
+    "month": 2,
+    "year": 2023,
+    "terminal": "004",
+    "cashier": "Anthony",
+    "customer": null,
+    "reference": "3795898:230207:00213",
+    "items": [
+        {
+            "product": "Cape white",
+            "quantity": 1,
+            "unit_price": 46.8,
+            "total_price": 46.8
+        },
+        {
+            "product": "Cape white",
+            "quantity": 3,
+            "unit_price": 46.8,
+            "total_price": 140.4
+        },
+        {
+            "product": "Cape white",
+            "quantity": 1,
+            "unit_price": 46.8,
+            "total_price": 46.8
+        },
+        {
+            "product": "Classic brush",
+            "quantity": 3,
+            "unit_price": 14.8,
+            "total_price": 44.4
+        }
+    ],
+    "subtotal": "278.40",
+    "gst": "24.10",
+    "total": "265.08",
+    "payment": {
+        "Credit Card": 79.52,
+        "Gift Card": 185.56
+    }
+}

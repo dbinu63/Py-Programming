@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2022-12-07",
+    "month": 12,
+    "year": 2022,
+    "terminal": "005",
+    "cashier": "Scott",
+    "customer": "James",
+    "reference": "2209696:221207:00197",
+    "items": [
+        {
+            "product": "English muffin",
+            "quantity": 1,
+            "unit_price": 6.0,
+            "total_price": 6.0
+        }
+    ],
+    "subtotal": "6.00",
+    "gst": "0.55",
+    "total": "6.00",
+    "payment": {
+        "Loyalty Points": 3.3,
+        "BPAY": 2.7
+    }
+}

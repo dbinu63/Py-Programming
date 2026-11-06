@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            08/02/2025            
+
+Terminal 001
+Cashier Kevin
+Customer Natalie
+
+Swim cap          1          11.60
+Rescue training   2          57.00
+                            114.00
+Casual access     1           6.90
+Egg+Bac burger    3           5.80
+                             17.40
+
+Subtotal                    149.90
+
+GST Included                 13.63
+Total                       149.90
+
+Payments
+Cash                         48.25
+Loyalty Points              101.65
+
+     You earnt 4,825 points!      
+
+Reference 5593822:250208:00806
+
+            Drive safe            
+----------------------------------

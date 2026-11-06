@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            22/01/2026            
+
+Terminal 005
+Cashier Amber
+
+Soft drink 2L     1           5.50
+Chips             3           7.30
+                             21.90
+Soft drink 2L     1           5.50
+
+Subtotal                     32.90
+
+* Promotions
+ 5% off Soft drink 2L
+                             -0.55
+ Buy 2x Chips, save 5%
+                             -0.73
+
+GST Included                  2.87
+Total                        31.62
+
+Payments
+EFTPOS                       18.97
+BPAY                         12.65
+
+Reference 9626510:260122:01858
+
+           See you soon           
+----------------------------------

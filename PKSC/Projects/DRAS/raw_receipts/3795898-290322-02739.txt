@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            22/03/2029            
+
+Terminal 002
+Cashier Carlos
+
+Hair tonic        3          16.60
+                             49.80
+Spray bottle      2          26.80
+                             53.60
+Cape white        3          61.50
+                            184.50
+
+Subtotal                    287.90
+
+* Promotions
+ 25% off Spray bottle
+                            -13.40
+
+GST Included                 24.95
+Total                       274.50
+
+Payments
+BPAY                        274.50
+
+Reference 3795898:290322:02739
+
+           Stay healthy           
+----------------------------------

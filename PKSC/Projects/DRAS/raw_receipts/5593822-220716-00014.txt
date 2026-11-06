@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            16/07/2022            
+
+Terminal 002
+Cashier Theresa
+
+Shampoo           2           5.00
+                             10.00
+Casual access     3           6.00
+                             18.00
+Sync diving       1          20.00
+Sync diving       1          20.00
+
+Subtotal                     68.00
+
+GST Included                  6.18
+Total                        68.00
+
+Payments
+Credit Card                   6.80
+EFTPOS                       61.20
+
+Reference 5593822:220716:00014
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,43 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2026-11-15",
+    "month": 11,
+    "year": 2026,
+    "terminal": "005",
+    "cashier": "Ronald",
+    "customer": "Mary",
+    "reference": "9626510:261115:02353",
+    "items": [
+        {
+            "product": "Vego",
+            "quantity": 3,
+            "unit_price": 14.6,
+            "total_price": 43.8
+        },
+        {
+            "product": "Chips",
+            "quantity": 1,
+            "unit_price": 7.3,
+            "total_price": 7.3
+        },
+        {
+            "product": "Hawaiian",
+            "quantity": 3,
+            "unit_price": 14.6,
+            "total_price": 43.8
+        },
+        {
+            "product": "Garlic prawn",
+            "quantity": 3,
+            "unit_price": 19.4,
+            "total_price": 58.2
+        }
+    ],
+    "subtotal": "153.10",
+    "gst": "13.92",
+    "total": "153.10",
+    "payment": {
+        "BPAY": 153.1
+    }
+}

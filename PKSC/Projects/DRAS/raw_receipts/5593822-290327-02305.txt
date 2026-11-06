@@ -1,0 +1,39 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            27/03/2029            
+
+Terminal 003
+Cashier Derek
+Customer Johnathan
+
+Hot chips         2           7.10
+                             14.20
+Towel             2          20.60
+                             41.20
+Shampoo           2           7.10
+                             14.20
+Shampoo           1           7.10
+
+Subtotal                     76.70
+
+* Promotions
+ Buy 2x Shampoo, save 20%
+                             -2.84
+ Buy 2x Towel, save 15%
+                             -6.18
+
+GST Included                  6.15
+Total                        67.68
+
+Payments
+Loyalty Points               46.60
+EFTPOS                       21.08
+
+     You earnt 2,108 points!      
+
+Reference 5593822:290327:02305
+
+              Cheers              
+----------------------------------

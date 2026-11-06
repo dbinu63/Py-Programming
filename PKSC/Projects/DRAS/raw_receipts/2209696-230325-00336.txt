@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            25/03/2023            
+
+Terminal 004
+Cashier Scott
+Customer Justin
+
+Cappuccino        1           5.30
+Ham bagel         2          10.60
+                             21.20
+Cappuccino        3           5.30
+                             15.90
+
+Subtotal                     42.40
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -2.12
+ Buy 2x Ham bagel, save 20%
+                             -4.24
+
+GST Included                  3.28
+Total                        36.04
+
+Payments
+BPAY                         21.62
+Credit Card                  14.42
+
+     You earnt 3,604 points!      
+
+Reference 2209696:230325:00336
+
+            Drive safe            
+----------------------------------

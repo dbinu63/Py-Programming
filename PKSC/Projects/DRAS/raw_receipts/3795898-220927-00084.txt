@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            27/09/2022            
+
+Terminal 003
+Cashier Anthony
+
+Hairspray         1          25.00
+Razorblade        3          15.00
+                             45.00
+Razorblade        2          15.00
+                             30.00
+Face wipes        2           9.50
+                             19.00
+
+Subtotal                    119.00
+
+GST Included                 10.82
+Total                       119.00
+
+Payments
+BPAY                         11.90
+EFTPOS                      107.10
+
+Reference 3795898:220927:00084
+
+           Stay healthy           
+----------------------------------

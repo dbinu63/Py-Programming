@@ -1,0 +1,37 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2024-02-26",
+    "month": 2,
+    "year": 2024,
+    "terminal": "004",
+    "cashier": "Jonathon",
+    "customer": "Jacob",
+    "reference": "3795898:240226:00603",
+    "items": [
+        {
+            "product": "Face wipes",
+            "quantity": 3,
+            "unit_price": 10.6,
+            "total_price": 31.8
+        },
+        {
+            "product": "Scissors",
+            "quantity": 1,
+            "unit_price": 38.4,
+            "total_price": 38.4
+        },
+        {
+            "product": "Razorblade",
+            "quantity": 3,
+            "unit_price": 16.6,
+            "total_price": 49.8
+        }
+    ],
+    "subtotal": "127.20",
+    "gst": "11.26",
+    "total": "123.88",
+    "payment": {
+        "EFTPOS": 123.88
+    }
+}

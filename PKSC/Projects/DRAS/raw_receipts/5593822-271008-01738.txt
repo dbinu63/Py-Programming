@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            08/10/2027            
+
+Terminal 005
+Cashier Donna
+
+Egg+Bac burger    3           6.40
+                             19.20
+Aquaerobics       3          15.20
+                             45.60
+Egg+Bac burger    3           6.40
+                             19.20
+Aquaerobics       1          15.20
+
+Subtotal                     99.20
+
+* Promotions
+ Buy 3x Egg+Bac burger, save 15%
+                             -5.76
+
+GST Included                  8.49
+Total                        93.44
+
+Payments
+BPAY                         93.44
+
+Reference 5593822:271008:01738
+
+           Stay healthy           
+----------------------------------

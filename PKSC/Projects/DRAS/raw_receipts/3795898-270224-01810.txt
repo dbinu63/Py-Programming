@@ -1,0 +1,28 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            24/02/2027            
+
+Terminal 002
+Cashier Eric
+Customer Francisco
+
+Cape white        1          56.00
+Scissors          2          43.20
+                             86.40
+
+Subtotal                    142.40
+
+GST Included                 12.95
+Total                       142.40
+
+Payments
+BPAY                        142.40
+
+     You earnt 14,240 points!     
+
+Reference 3795898:270224:01810
+
+            Thank you             
+----------------------------------

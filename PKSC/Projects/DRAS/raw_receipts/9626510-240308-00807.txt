@@ -1,0 +1,27 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            08/03/2024            
+
+Terminal 001
+Cashier Tara
+
+Soft drink 2L     1           5.00
+Ham and Cheese    2          13.20
+                             26.40
+Soft drink 2L     1           5.00
+Chips             1           6.60
+
+Subtotal                     43.00
+
+GST Included                  3.91
+Total                        43.00
+
+Payments
+Debit Card                   43.00
+
+Reference 9626510:240308:00807
+
+     Pleasure doing business      
+----------------------------------

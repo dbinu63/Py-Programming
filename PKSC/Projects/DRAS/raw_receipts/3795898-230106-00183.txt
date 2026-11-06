@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            06/01/2023            
+
+Terminal 004
+Cashier Jonathon
+
+Cape grey         2          46.80
+                             93.60
+Cape grey         1          46.80
+Cape white        3          46.80
+                            140.40
+Soap 500mL        2           6.90
+                             13.80
+
+Subtotal                    294.60
+
+* Promotions
+ Buy 2x Cape grey, save 15%
+                            -14.04
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+
+GST Included                 25.38
+Total                       279.18
+
+Payments
+EFTPOS                      111.67
+BPAY                        167.51
+
+Reference 3795898:230106:00183
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,38 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-06-08",
+    "month": 6,
+    "year": 2029,
+    "terminal": "001",
+    "cashier": "Patricia",
+    "customer": null,
+    "reference": "2209696:290608:03986",
+    "items": [
+        {
+            "product": "Ham toastie",
+            "quantity": 3,
+            "unit_price": 9.1,
+            "total_price": 27.3
+        },
+        {
+            "product": "Long Black",
+            "quantity": 1,
+            "unit_price": 5.1,
+            "total_price": 5.1
+        },
+        {
+            "product": "Long Black",
+            "quantity": 3,
+            "unit_price": 5.1,
+            "total_price": 15.3
+        }
+    ],
+    "subtotal": "47.70",
+    "gst": "3.72",
+    "total": "40.88",
+    "payment": {
+        "Cash": 37.15,
+        "BPAY": 3.73
+    }
+}

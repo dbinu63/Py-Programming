@@ -1,0 +1,25 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2027-12-26",
+    "month": 12,
+    "year": 2027,
+    "terminal": "003",
+    "cashier": "Scott",
+    "customer": "Isaac",
+    "reference": "2209696:271226:03008",
+    "items": [
+        {
+            "product": "Salmon bagel",
+            "quantity": 1,
+            "unit_price": 15.2,
+            "total_price": 15.2
+        }
+    ],
+    "subtotal": "15.20",
+    "gst": "1.38",
+    "total": "15.20",
+    "payment": {
+        "Loyalty Points": 15.2
+    }
+}

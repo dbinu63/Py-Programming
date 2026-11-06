@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            22/05/2024            
+
+Terminal 005
+Cashier Jonathon
+Customer David
+
+Face wipes        1          10.60
+Scissors          1          38.40
+Cape grey         2          48.80
+                             97.60
+
+Subtotal                    146.60
+
+* Promotions
+ 10% off Cape grey
+                             -9.76
+
+GST Included                 12.44
+Total                       136.84
+
+Payments
+BPAY                        136.84
+
+     You earnt 13,684 points!     
+
+Reference 3795898:240522:00692
+
+           See you soon           
+----------------------------------

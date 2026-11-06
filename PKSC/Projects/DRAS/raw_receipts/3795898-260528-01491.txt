@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/05/2026            
+
+Terminal 005
+Cashier Scott
+
+Cape white        3          54.00
+                            162.00
+Broom             1          47.20
+Soap 500mL        3           7.90
+                             23.70
+
+Subtotal                    232.90
+
+* Promotions
+ 25% off Cape white
+                            -40.50
+
+GST Included                 17.49
+Total                       192.40
+
+Payments
+Debit Card                  192.40
+
+Reference 3795898:260528:01491
+
+              Cheers              
+----------------------------------

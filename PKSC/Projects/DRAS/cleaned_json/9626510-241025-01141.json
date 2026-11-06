@@ -1,0 +1,37 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2024-10-25",
+    "month": 10,
+    "year": 2024,
+    "terminal": "004",
+    "cashier": "Tara",
+    "customer": "Mary",
+    "reference": "9626510:241025:01141",
+    "items": [
+        {
+            "product": "Ham and Cheese",
+            "quantity": 2,
+            "unit_price": 13.2,
+            "total_price": 26.4
+        },
+        {
+            "product": "Ham and Cheese",
+            "quantity": 1,
+            "unit_price": 13.2,
+            "total_price": 13.2
+        },
+        {
+            "product": "Garlic prawn",
+            "quantity": 3,
+            "unit_price": 17.6,
+            "total_price": 52.8
+        }
+    ],
+    "subtotal": "92.40",
+    "gst": "8.22",
+    "total": "90.42",
+    "payment": {
+        "BPAY": 90.42
+    }
+}

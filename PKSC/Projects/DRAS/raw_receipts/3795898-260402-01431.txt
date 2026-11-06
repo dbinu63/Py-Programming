@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            02/04/2026            
+
+Terminal 003
+Cashier Eric
+
+Cape grey         2          54.00
+                            108.00
+Scissors          2          42.00
+                             84.00
+Broom             2          47.20
+                             94.40
+
+Subtotal                    286.40
+
+* Promotions
+ 5% off Scissors
+                             -4.20
+
+GST Included                 25.65
+Total                       282.20
+
+Payments
+Credit Card                  84.66
+EFTPOS                      197.54
+
+Reference 3795898:260402:01431
+
+     Pleasure doing business      
+----------------------------------

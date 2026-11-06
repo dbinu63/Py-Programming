@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            09/07/2024            
+
+Terminal 004
+Cashier Kathryn
+Customer William
+
+Hairspray         2          27.40
+                             54.80
+Broom             1          43.20
+Hairspray         3          27.40
+                             82.20
+
+Subtotal                    180.20
+
+GST Included                 16.38
+Total                       180.20
+
+Payments
+Loyalty Points               48.65
+Credit Card                 131.55
+
+     You earnt 13,155 points!     
+
+Reference 3795898:240709:00746
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,31 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2026-11-06",
+    "month": 11,
+    "year": 2026,
+    "terminal": "001",
+    "cashier": "Diane",
+    "customer": "Robin",
+    "reference": "2209696:261106:02287",
+    "items": [
+        {
+            "product": "Long Black",
+            "quantity": 1,
+            "unit_price": 4.4,
+            "total_price": 4.4
+        },
+        {
+            "product": "Macarons",
+            "quantity": 1,
+            "unit_price": 4.9,
+            "total_price": 4.9
+        }
+    ],
+    "subtotal": "9.30",
+    "gst": "0.85",
+    "total": "9.30",
+    "payment": {
+        "Cash": 9.3
+    }
+}

@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            21/08/2023            
+
+Terminal 004
+Cashier Anthony
+Customer Sherry
+
+Hairwax           3          13.20
+                             39.60
+Hairwax           3          13.20
+                             39.60
+Spray bottle      2          20.60
+                             41.20
+
+Subtotal                    120.40
+
+GST Included                 10.95
+Total                       120.40
+
+Payments
+EFTPOS                      120.40
+
+     You earnt 12,040 points!     
+
+Reference 3795898:230821:00406
+
+           Stay healthy           
+----------------------------------

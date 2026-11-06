@@ -1,0 +1,27 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            12/11/2026            
+
+Terminal 001
+Cashier Donna
+Customer Scott
+
+Shampoo           2           6.20
+                             12.40
+Shampoo           3           6.20
+                             18.60
+
+Subtotal                     31.00
+
+GST Included                  2.82
+Total                        31.00
+
+Payments
+Loyalty Points               31.00
+
+Reference 5593822:261112:01406
+
+              Cheers              
+----------------------------------

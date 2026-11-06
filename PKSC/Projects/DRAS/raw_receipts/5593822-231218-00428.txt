@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            18/12/2023            
+
+Terminal 004
+Cashier Kevin
+Customer Johnathan
+
+Egg+Bac burger    1           5.30
+Rescue training   1          52.50
+Aquaerobics       2          12.60
+                             25.20
+
+Subtotal                     83.00
+
+* Promotions
+ 15% off Rescue training
+                             -7.88
+
+GST Included                  6.83
+Total                        75.12
+
+Payments
+EFTPOS                       75.12
+
+     You earnt 7,512 points!      
+
+Reference 5593822:231218:00428
+
+            Thank you             
+----------------------------------

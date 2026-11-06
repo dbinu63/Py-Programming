@@ -1,0 +1,35 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            25/05/2023            
+
+Terminal 001
+Cashier Scott
+Customer Scott
+
+Cappuccino        2           5.30
+                             10.60
+Salmon bagel      3          12.60
+                             37.80
+English muffin    3           6.30
+                             18.90
+
+Subtotal                     67.30
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -1.06
+ 10% off English muffin
+                             -1.89
+
+GST Included                  5.85
+Total                        64.35
+
+Payments
+Loyalty Points               64.35
+
+Reference 2209696:230525:00420
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            24/02/2026            
+
+Terminal 002
+Cashier Kevin
+Customer Elijah
+
+Aquaerobics       2          14.60
+                             29.20
+Waterpolo         3          14.60
+                             43.80
+Rescue training   1          60.00
+Shampoo           1           6.20
+
+Subtotal                    139.20
+
+* Promotions
+ Buy 3x Waterpolo, save 25%
+                            -10.95
+
+GST Included                 11.66
+Total                       128.25
+
+Payments
+Debit Card                  128.25
+
+     You earnt 12,825 points!     
+
+Reference 5593822:260224:01171
+
+     Pleasure doing business      
+----------------------------------

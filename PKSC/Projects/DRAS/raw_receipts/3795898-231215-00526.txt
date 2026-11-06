@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            15/12/2023            
+
+Terminal 004
+Cashier Jonathon
+
+Classic brush     3          14.80
+                             44.40
+Spray bottle      3          20.60
+                             61.80
+Hairwax           3          13.20
+                             39.60
+
+Subtotal                    145.80
+
+* Promotions
+ Buy 3x Classic brush, save 30%
+                            -13.32
+
+GST Included                 12.04
+Total                       132.48
+
+Payments
+BPAY                         26.50
+Credit Card                 105.98
+
+Reference 3795898:231215:00526
+
+           See you soon           
+----------------------------------

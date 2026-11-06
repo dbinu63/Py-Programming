@@ -1,0 +1,38 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            11/07/2024            
+
+Terminal 001
+Cashier Leslie
+Customer Ashley
+
+Salmon bagel      1          13.20
+English muffin    3           6.60
+                             19.80
+Ham toastie       3           7.20
+                             21.60
+English muffin    3           6.60
+                             19.80
+
+Subtotal                     74.40
+
+* Promotions
+ 5% off Salmon bagel
+                             -0.66
+ Buy 2x English muffin, save 30%
+                            -11.88
+
+GST Included                  5.62
+Total                        61.86
+
+Payments
+Debit Card                   61.86
+
+     You earnt 6,186 points!      
+
+Reference 2209696:240711:00992
+
+              Cheers              
+----------------------------------

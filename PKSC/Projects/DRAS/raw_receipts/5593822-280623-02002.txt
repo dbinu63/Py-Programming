@@ -1,0 +1,30 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            23/06/2028            
+
+Terminal 003
+Cashier Kevin
+Customer Tammy
+
+Shampoo           2           6.70
+                             13.40
+Egg+Bac burger    3           6.70
+                             20.10
+Hot chips         1           6.70
+
+Subtotal                     40.20
+
+GST Included                  3.65
+Total                        40.20
+
+Payments
+EFTPOS                       40.20
+
+     You earnt 4,020 points!      
+
+Reference 5593822:280623:02002
+
+              Cheers              
+----------------------------------

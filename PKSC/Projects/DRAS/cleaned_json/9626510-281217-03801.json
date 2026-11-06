@@ -1,0 +1,32 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2028-12-17",
+    "month": 12,
+    "year": 2028,
+    "terminal": "003",
+    "cashier": "Levi",
+    "customer": "Luke",
+    "reference": "9626510:281217:03801",
+    "items": [
+        {
+            "product": "Chips",
+            "quantity": 3,
+            "unit_price": 7.9,
+            "total_price": 23.7
+        },
+        {
+            "product": "Pancakes",
+            "quantity": 3,
+            "unit_price": 9.3,
+            "total_price": 27.9
+        }
+    ],
+    "subtotal": "51.60",
+    "gst": "4.69",
+    "total": "51.60",
+    "payment": {
+        "Cash": 29.2,
+        "Loyalty Points": 22.4
+    }
+}

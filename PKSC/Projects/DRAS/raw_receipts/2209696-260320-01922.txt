@@ -1,0 +1,39 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            20/03/2026            
+
+Terminal 002
+Cashier Mary
+Customer Isaac
+
+Cupcake           1           8.60
+Flat white        3           5.50
+                             16.50
+Mocha             1           4.40
+Flat white        3           5.50
+                             16.50
+
+Subtotal                     46.00
+
+* Promotions
+ 15% off Mocha
+                             -0.66
+ 10% off Cupcake
+                             -0.86
+ Buy 3x Flat white, save 20%
+                             -6.60
+
+GST Included                  3.44
+Total                        37.88
+
+Payments
+EFTPOS                       37.88
+
+     You earnt 3,788 points!      
+
+Reference 2209696:260320:01922
+
+            Drive safe            
+----------------------------------

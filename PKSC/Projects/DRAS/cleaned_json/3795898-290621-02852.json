@@ -1,0 +1,43 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2029-06-21",
+    "month": 6,
+    "year": 2029,
+    "terminal": "005",
+    "cashier": "Kathleen",
+    "customer": "Manuel",
+    "reference": "3795898:290621:02852",
+    "items": [
+        {
+            "product": "Hair tonic",
+            "quantity": 1,
+            "unit_price": 16.6,
+            "total_price": 16.6
+        },
+        {
+            "product": "Razorblade",
+            "quantity": 2,
+            "unit_price": 20.6,
+            "total_price": 41.2
+        },
+        {
+            "product": "Broom",
+            "quantity": 2,
+            "unit_price": 53.0,
+            "total_price": 106.0
+        },
+        {
+            "product": "Broom",
+            "quantity": 1,
+            "unit_price": 53.0,
+            "total_price": 53.0
+        }
+    ],
+    "subtotal": "216.80",
+    "gst": "19.71",
+    "total": "216.80",
+    "payment": {
+        "BPAY": 216.8
+    }
+}

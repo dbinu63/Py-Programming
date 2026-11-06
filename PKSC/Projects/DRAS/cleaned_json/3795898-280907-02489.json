@@ -1,0 +1,25 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2028-09-07",
+    "month": 9,
+    "year": 2028,
+    "terminal": "004",
+    "cashier": "Michael",
+    "customer": "Ashlee",
+    "reference": "3795898:280907:02489",
+    "items": [
+        {
+            "product": "Spray bottle",
+            "quantity": 3,
+            "unit_price": 25.4,
+            "total_price": 76.2
+        }
+    ],
+    "subtotal": "102.00",
+    "gst": "9.27",
+    "total": "102.00",
+    "payment": {
+        "Loyalty Points": 102.0
+    }
+}

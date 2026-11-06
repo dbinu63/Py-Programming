@@ -1,0 +1,25 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2026-07-24",
+    "month": 7,
+    "year": 2026,
+    "terminal": "005",
+    "cashier": "Donna",
+    "customer": null,
+    "reference": "5593822:260724:01302",
+    "items": [
+        {
+            "product": "Hot chips",
+            "quantity": 2,
+            "unit_price": 6.2,
+            "total_price": 12.4
+        }
+    ],
+    "subtotal": "12.40",
+    "gst": "1.13",
+    "total": "12.40",
+    "payment": {
+        "Gift Card": 12.4
+    }
+}

@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            03/02/2028            
+
+Terminal 003
+Cashier Donna
+
+Rescue training   2          64.50
+                            129.00
+Sync diving       1          25.80
+Egg+Bac burger    3           6.70
+                             20.10
+Water bottle      3           9.30
+                             27.90
+
+Subtotal                    202.80
+
+* Promotions
+ Buy 2x Water bottle, save 5%
+                             -0.93
+ 25% off Sync diving
+                             -6.45
+
+GST Included                 17.77
+Total                       195.42
+
+Payments
+Gift Card                   117.25
+BPAY                         78.17
+
+Reference 5593822:280203:01877
+
+              Cheers              
+----------------------------------

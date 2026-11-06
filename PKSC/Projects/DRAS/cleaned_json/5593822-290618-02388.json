@@ -1,0 +1,44 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2029-06-18",
+    "month": 6,
+    "year": 2029,
+    "terminal": "003",
+    "cashier": "Jeffrey",
+    "customer": "Derek",
+    "reference": "5593822:290618:02388",
+    "items": [
+        {
+            "product": "Shampoo",
+            "quantity": 2,
+            "unit_price": 7.1,
+            "total_price": 14.2
+        },
+        {
+            "product": "Aquaerobics",
+            "quantity": 2,
+            "unit_price": 16.6,
+            "total_price": 33.2
+        },
+        {
+            "product": "Shampoo",
+            "quantity": 3,
+            "unit_price": 7.1,
+            "total_price": 21.3
+        },
+        {
+            "product": "Sync diving",
+            "quantity": 3,
+            "unit_price": 27.2,
+            "total_price": 81.6
+        }
+    ],
+    "subtotal": "150.30",
+    "gst": "12.24",
+    "total": "134.66",
+    "payment": {
+        "Loyalty Points": 55.9,
+        "EFTPOS": 78.76
+    }
+}

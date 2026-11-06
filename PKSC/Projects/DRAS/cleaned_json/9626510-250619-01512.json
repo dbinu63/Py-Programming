@@ -1,0 +1,44 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2025-06-19",
+    "month": 6,
+    "year": 2025,
+    "terminal": "005",
+    "cashier": "Amber",
+    "customer": "Gary",
+    "reference": "9626510:250619:01512",
+    "items": [
+        {
+            "product": "Hawaiian",
+            "quantity": 3,
+            "unit_price": 13.8,
+            "total_price": 41.4
+        },
+        {
+            "product": "Hawaiian",
+            "quantity": 1,
+            "unit_price": 13.8,
+            "total_price": 13.8
+        },
+        {
+            "product": "Garlic bread",
+            "quantity": 3,
+            "unit_price": 6.9,
+            "total_price": 20.7
+        },
+        {
+            "product": "Garlic bread",
+            "quantity": 1,
+            "unit_price": 6.9,
+            "total_price": 6.9
+        }
+    ],
+    "subtotal": "82.80",
+    "gst": "5.46",
+    "total": "60.03",
+    "payment": {
+        "Debit Card": 12.01,
+        "Credit Card": 48.02
+    }
+}

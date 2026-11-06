@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            17/11/2022            
+
+Terminal 001
+Cashier Anthony
+
+Classic brush     3          14.00
+                             42.00
+Classic brush     2          14.00
+                             28.00
+
+Subtotal                     70.00
+
+GST Included                  6.36
+Total                        70.00
+
+Payments
+Cash                         10.40
+Debit Card                   59.60
+
+Reference 3795898:221117:00132
+
+            Drive safe            
+----------------------------------

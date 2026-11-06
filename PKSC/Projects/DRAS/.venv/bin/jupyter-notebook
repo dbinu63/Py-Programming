@@ -1,0 +1,6 @@
+#!/media/dbinu63/f3ebf4f6-e4fd-437f-a364-e06974fbb3cb/Code/Python/PKSC/projects/DRAS/.venv/bin/python3
+import sys
+from notebook.app import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())

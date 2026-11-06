@@ -1,0 +1,39 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            18/01/2025            
+
+Terminal 005
+Cashier Amber
+
+Chips             2           6.90
+                             13.80
+Chips             3           6.90
+                             20.70
+Garlic bread      3           6.90
+                             20.70
+Hawaiian          2          13.80
+                             27.60
+
+Subtotal                     82.80
+
+* Promotions
+ Buy 3x Garlic bread, save 30%
+                             -6.21
+ Buy 2x Hawaiian, save 30%
+                             -8.28
+ Buy 3x Chips, save 30%
+                             -6.21
+
+GST Included                  5.65
+Total                        62.10
+
+Payments
+Cash                         21.50
+Gift Card                    40.60
+
+Reference 9626510:250118:01268
+
+              Cheers              
+----------------------------------

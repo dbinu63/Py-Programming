@@ -1,0 +1,30 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            10/05/2024            
+
+Terminal 003
+Cashier Ronald
+Customer Steven
+
+Soft drink 1L     2           3.90
+                              7.80
+Soft drink 2L     1           5.00
+Soft drink 1L     2           3.90
+                              7.80
+
+Subtotal                     20.60
+
+GST Included                  1.87
+Total                        20.60
+
+Payments
+BPAY                         20.60
+
+     You earnt 2,060 points!      
+
+Reference 9626510:240510:00896
+
+              Cheers              
+----------------------------------

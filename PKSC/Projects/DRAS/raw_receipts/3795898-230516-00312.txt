@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            16/05/2023            
+
+Terminal 003
+Cashier Anthony
+Customer Darren
+
+Cape white        2          46.80
+                             93.60
+Razorblade        3          15.80
+                             47.40
+Razorblade        1          15.80
+Razorblade        1          15.80
+
+Subtotal                    172.60
+
+* Promotions
+ Buy 2x Razorblade, save 20%
+                            -12.64
+
+GST Included                 14.54
+Total                       159.96
+
+Payments
+Gift Card                   159.96
+
+     You earnt 15,996 points!     
+
+Reference 3795898:230516:00312
+
+           Stay healthy           
+----------------------------------

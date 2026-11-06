@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            04/02/2023            
+
+Terminal 003
+Cashier Tara
+Customer Scott
+
+Cheese bread      2           6.30
+                             12.60
+Pancakes          2           7.40
+                             14.80
+Chips             1           6.30
+Cheese bread      1           6.30
+
+Subtotal                     40.00
+
+* Promotions
+ Buy 2x Pancakes, save 25%
+                             -3.70
+
+GST Included                  3.30
+Total                        36.30
+
+Payments
+Loyalty Points               36.30
+
+Reference 9626510:230204:00268
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,34 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            16/02/2023            
+
+Terminal 004
+Cashier Scott
+
+Cappuccino        3           5.30
+                             15.90
+English muffin    3           6.30
+                             18.90
+Mocha             2           3.70
+                              7.40
+
+Subtotal                     42.20
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -1.06
+ 10% off English muffin
+                             -1.89
+
+GST Included                  3.57
+Total                        39.25
+
+Payments
+BPAY                         39.25
+
+Reference 2209696:230216:00288
+
+     Pleasure doing business      
+----------------------------------

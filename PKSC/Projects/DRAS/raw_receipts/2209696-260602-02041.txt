@@ -1,0 +1,35 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            02/06/2026            
+
+Terminal 004
+Cashier Diane
+
+Long Black        2           4.40
+                              8.80
+Long Black        3           4.40
+                             13.20
+Cupcake           1           8.60
+Mocha             2           4.40
+                              8.80
+
+Subtotal                     39.40
+
+* Promotions
+ 15% off Mocha
+                             -1.32
+ 10% off Cupcake
+                             -0.86
+
+GST Included                  3.38
+Total                        37.22
+
+Payments
+EFTPOS                       37.22
+
+Reference 2209696:260602:02041
+
+              Cheers              
+----------------------------------

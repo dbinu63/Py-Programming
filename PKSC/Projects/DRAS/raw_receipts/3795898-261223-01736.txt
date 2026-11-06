@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            23/12/2026            
+
+Terminal 003
+Cashier Eric
+
+Cape white        2          54.00
+                            108.00
+Cape white        2          54.00
+                            108.00
+Razorblade        1          18.20
+
+Subtotal                    234.20
+
+* Promotions
+ 25% off Cape white
+                            -54.00
+
+GST Included                 16.38
+Total                       180.20
+
+Payments
+Cash                        180.15
+
+Reference 3795898:261223:01736
+
+           See you soon           
+----------------------------------

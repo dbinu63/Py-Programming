@@ -1,0 +1,31 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            12/02/2023            
+
+Terminal 002
+Cashier Joyce
+
+Cheese bread      1           6.30
+Three meat        3          16.80
+                             50.40
+Chips             2           6.30
+                             12.60
+
+Subtotal                     69.30
+
+* Promotions
+ 5% off Three meat
+                             -2.52
+
+GST Included                  6.07
+Total                        66.78
+
+Payments
+BPAY                         66.78
+
+Reference 9626510:230212:00280
+
+            Drive safe            
+----------------------------------

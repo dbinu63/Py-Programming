@@ -1,0 +1,36 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            24/10/2023            
+
+Terminal 003
+Cashier Leslie
+
+Ham toastie       3           6.90
+                             20.70
+Latte             3           4.20
+                             12.60
+Mocha             2           3.70
+                              7.40
+Ham bagel         3          10.60
+                             31.80
+
+Subtotal                     72.50
+
+* Promotions
+ Buy 2x Ham bagel, save 20%
+                             -4.24
+ Buy 3x Ham toastie, save 10%
+                             -2.07
+
+GST Included                  6.02
+Total                        66.19
+
+Payments
+Debit Card                   66.19
+
+Reference 2209696:231024:00625
+
+              Cheers              
+----------------------------------

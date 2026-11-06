@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            02/12/2028            
+
+Terminal 001
+Cashier Levi
+Customer Luke
+
+Garlic bread      1           7.90
+Chips             3           7.90
+                             23.70
+Pepperoni         3          17.20
+                             51.60
+Pepperoni         2          17.20
+                             34.40
+
+Subtotal                    117.60
+
+GST Included                 10.69
+Total                       117.60
+
+Payments
+Cash                         67.00
+Credit Card                  50.60
+
+     You earnt 11,760 points!     
+
+Reference 9626510:281202:03768
+
+            Drive safe            
+----------------------------------

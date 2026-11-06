@@ -1,0 +1,38 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            18/05/2029            
+
+Terminal 004
+Cashier Cheryl
+Customer Ashlee
+
+Shaving cream     3          16.60
+                             49.80
+Cape white        3          61.50
+                            184.50
+Pomade            3          17.60
+                             52.80
+Pomade            3          17.60
+                             52.80
+
+Subtotal                    339.90
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                            -10.56
+
+GST Included                 29.94
+Total                       329.34
+
+Payments
+EFTPOS                      164.67
+Credit Card                 164.67
+
+     You earnt 32,934 points!     
+
+Reference 3795898:290518:02815
+
+           Stay healthy           
+----------------------------------

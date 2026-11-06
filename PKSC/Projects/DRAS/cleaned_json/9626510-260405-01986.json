@@ -1,0 +1,26 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2026-04-05",
+    "month": 4,
+    "year": 2026,
+    "terminal": "003",
+    "cashier": "Amber",
+    "customer": "Aaron",
+    "reference": "9626510:260405:01986",
+    "items": [
+        {
+            "product": "Garlic bread",
+            "quantity": 3,
+            "unit_price": 7.3,
+            "total_price": 21.9
+        }
+    ],
+    "subtotal": "43.90",
+    "gst": "3.89",
+    "total": "42.80",
+    "payment": {
+        "BPAY": 17.12,
+        "Gift Card": 25.68
+    }
+}

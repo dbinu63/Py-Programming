@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            19/09/2025            
+
+Terminal 002
+Cashier Donna
+Customer Samantha
+
+Shampoo           3           5.80
+                             17.40
+Hot chips         3           5.80
+                             17.40
+Swim goggles      2          22.80
+                             45.60
+Shampoo           3           5.80
+                             17.40
+
+Subtotal                     97.80
+
+GST Included                  8.89
+Total                        97.80
+
+Payments
+Loyalty Points               97.80
+
+Reference 5593822:250919:01006
+
+           Stay healthy           
+----------------------------------

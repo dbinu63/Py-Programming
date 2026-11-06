@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            28/07/2027            
+
+Terminal 001
+Cashier Kevin
+
+Infant lesson     1          18.80
+Egg+Bac burger    2           6.40
+                             12.80
+Egg+Bac burger    3           6.40
+                             19.20
+Rescue training   3          62.00
+                            186.00
+
+Subtotal                    236.80
+
+* Promotions
+ Buy 3x Egg+Bac burger, save 15%
+                             -2.88
+
+GST Included                 21.27
+Total                       233.92
+
+Payments
+Gift Card                   233.92
+
+Reference 5593822:270728:01660
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,36 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            04/01/2023            
+
+Terminal 001
+Cashier Ronald
+Customer Gary
+
+Just Cheese       1          12.60
+Pancakes          1           7.40
+Cheese bread      3           6.30
+                             18.90
+Pancakes          2           7.40
+                             14.80
+
+Subtotal                     53.70
+
+* Promotions
+ Buy 2x Pancakes, save 25%
+                             -3.70
+
+GST Included                  4.55
+Total                        50.00
+
+Payments
+Loyalty Points               29.05
+EFTPOS                       20.95
+
+     You earnt 2,095 points!      
+
+Reference 9626510:230104:00225
+
+            Thank you             
+----------------------------------

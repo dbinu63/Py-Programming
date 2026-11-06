@@ -1,0 +1,38 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            22/05/2024            
+
+Terminal 004
+Cashier Eric
+Customer Jonathan
+
+Soap 500mL        2           7.20
+                             14.40
+Cape grey         2          48.80
+                             97.60
+Spray bottle      2          21.60
+                             43.20
+
+Subtotal                    155.20
+
+* Promotions
+ 25% off Spray bottle
+                            -10.80
+ 10% off Cape grey
+                             -9.76
+
+GST Included                 12.24
+Total                       134.64
+
+Payments
+Cash                        124.90
+Gift Card                     9.74
+
+     You earnt 13,464 points!     
+
+Reference 3795898:240522:00690
+
+            Drive safe            
+----------------------------------

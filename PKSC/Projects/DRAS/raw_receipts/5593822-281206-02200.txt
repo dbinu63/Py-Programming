@@ -1,0 +1,37 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            06/12/2028            
+
+Terminal 002
+Cashier Donna
+Customer Samantha
+
+Infant lesson     2          19.60
+                             39.20
+Sync diving       1          25.80
+Infant lesson     2          19.60
+                             39.20
+Infant lesson     2          19.60
+                             39.20
+
+Subtotal                    143.40
+
+* Promotions
+ 25% off Sync diving
+                             -6.45
+
+GST Included                 12.45
+Total                       136.95
+
+Payments
+Cash                         14.20
+Gift Card                   122.75
+
+     You earnt 13,695 points!     
+
+Reference 5593822:281206:02200
+
+            Drive safe            
+----------------------------------

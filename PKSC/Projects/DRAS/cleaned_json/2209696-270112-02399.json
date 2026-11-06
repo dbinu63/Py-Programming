@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2027-01-12",
+    "month": 1,
+    "year": 2027,
+    "terminal": "003",
+    "cashier": "Diane",
+    "customer": "Justin",
+    "reference": "2209696:270112:02399",
+    "items": [
+        {
+            "product": "Cappuccino",
+            "quantity": 1,
+            "unit_price": 6.4,
+            "total_price": 6.4
+        }
+    ],
+    "subtotal": "6.40",
+    "gst": "0.58",
+    "total": "6.40",
+    "payment": {
+        "Cash": 0.95,
+        "Credit Card": 5.45
+    }
+}

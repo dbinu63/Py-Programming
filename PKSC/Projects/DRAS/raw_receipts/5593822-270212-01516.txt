@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            12/02/2027            
+
+Terminal 004
+Cashier Kevin
+Customer Scott
+
+Water bottle      1           8.90
+Hot chips         2           6.40
+                             12.80
+
+Subtotal                     21.70
+
+* Promotions
+ Buy 2x Hot chips, save 25%
+                             -3.20
+
+GST Included                  1.68
+Total                        18.50
+
+Payments
+Debit Card                   18.50
+
+     You earnt 1,850 points!      
+
+Reference 5593822:270212:01516
+
+           Stay healthy           
+----------------------------------

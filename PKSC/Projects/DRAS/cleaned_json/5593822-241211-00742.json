@@ -1,0 +1,26 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2024-12-11",
+    "month": 12,
+    "year": 2024,
+    "terminal": "005",
+    "cashier": "Jennifer",
+    "customer": "Steven",
+    "reference": "5593822:241211:00742",
+    "items": [
+        {
+            "product": "Swim cap",
+            "quantity": 3,
+            "unit_price": 11.2,
+            "total_price": 33.6
+        }
+    ],
+    "subtotal": "33.60",
+    "gst": "3.05",
+    "total": "33.60",
+    "payment": {
+        "Loyalty Points": 23.2,
+        "EFTPOS": 10.4
+    }
+}

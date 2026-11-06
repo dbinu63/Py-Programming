@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            04/11/2024            
+
+Terminal 003
+Cashier Eric
+Customer Carrie
+
+Scissors          3          38.40
+                            115.20
+Broom             1          43.20
+Hairspray         2          27.40
+                             54.80
+Broom             2          43.20
+                             86.40
+
+Subtotal                    299.60
+
+GST Included                 27.24
+Total                       299.60
+
+Payments
+Gift Card                   299.60
+
+     You earnt 29,960 points!     
+
+Reference 3795898:241104:00864
+
+     Pleasure doing business      
+----------------------------------

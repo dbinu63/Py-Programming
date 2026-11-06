@@ -1,0 +1,32 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2027-07-12",
+    "month": 7,
+    "year": 2027,
+    "terminal": "004",
+    "cashier": "Kevin",
+    "customer": "Jennifer",
+    "reference": "5593822:270712:01646",
+    "items": [
+        {
+            "product": "Infant lesson",
+            "quantity": 1,
+            "unit_price": 18.8,
+            "total_price": 18.8
+        },
+        {
+            "product": "Infant lesson",
+            "quantity": 3,
+            "unit_price": 18.8,
+            "total_price": 56.4
+        }
+    ],
+    "subtotal": "75.20",
+    "gst": "6.84",
+    "total": "75.20",
+    "payment": {
+        "Loyalty Points": 14.1,
+        "Credit Card": 61.1
+    }
+}

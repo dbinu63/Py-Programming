@@ -1,0 +1,39 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/04/2023            
+
+Terminal 005
+Cashier Anthony
+Customer Jessica
+
+Razorblade        3          15.80
+                             47.40
+Cape white        3          46.80
+                            140.40
+Soap 500mL        3           6.90
+                             20.70
+Classic brush     1          14.80
+
+Subtotal                    223.30
+
+* Promotions
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+ Buy 2x Razorblade, save 20%
+                             -6.32
+
+GST Included                 19.60
+Total                       215.60
+
+Payments
+Credit Card                 129.36
+EFTPOS                       86.24
+
+     You earnt 21,560 points!     
+
+Reference 3795898:230428:00295
+
+              Cheers              
+----------------------------------

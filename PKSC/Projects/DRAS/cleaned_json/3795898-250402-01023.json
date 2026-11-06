@@ -1,0 +1,44 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2025-04-02",
+    "month": 4,
+    "year": 2025,
+    "terminal": "005",
+    "cashier": "Eric",
+    "customer": "William",
+    "reference": "3795898:250402:01023",
+    "items": [
+        {
+            "product": "Clippers kit",
+            "quantity": 1,
+            "unit_price": 56.5,
+            "total_price": 56.5
+        },
+        {
+            "product": "Cape grey",
+            "quantity": 1,
+            "unit_price": 51.0,
+            "total_price": 51.0
+        },
+        {
+            "product": "Razorblade",
+            "quantity": 2,
+            "unit_price": 17.2,
+            "total_price": 34.4
+        },
+        {
+            "product": "Broom",
+            "quantity": 1,
+            "unit_price": 44.8,
+            "total_price": 44.8
+        }
+    ],
+    "subtotal": "186.70",
+    "gst": "16.82",
+    "total": "184.98",
+    "payment": {
+        "Debit Card": 55.49,
+        "Gift Card": 129.49
+    }
+}

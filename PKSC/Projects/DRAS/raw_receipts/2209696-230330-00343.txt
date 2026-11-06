@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            30/03/2023            
+
+Terminal 002
+Cashier Leslie
+
+Ham bagel         3          10.60
+                             31.80
+Ham bagel         3          10.60
+                             31.80
+Salmon bagel      3          12.60
+                             37.80
+Cappuccino        3           5.30
+                             15.90
+
+Subtotal                    117.30
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -1.06
+ Buy 2x Ham bagel, save 20%
+                            -12.72
+
+GST Included                  9.41
+Total                       103.52
+
+Payments
+Credit Card                  93.17
+Gift Card                    10.35
+
+Reference 2209696:230330:00343
+
+           Stay healthy           
+----------------------------------

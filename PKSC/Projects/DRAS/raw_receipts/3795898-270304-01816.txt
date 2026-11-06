@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            04/03/2027            
+
+Terminal 001
+Cashier Scott
+Customer Samantha
+
+Cape white        1          56.00
+Razorblade        3          18.80
+                             56.40
+Soap 500mL        3           8.20
+                             24.60
+
+Subtotal                    137.00
+
+GST Included                 12.45
+Total                       137.00
+
+Payments
+BPAY                        137.00
+
+     You earnt 13,700 points!     
+
+Reference 3795898:270304:01816
+
+           See you soon           
+----------------------------------

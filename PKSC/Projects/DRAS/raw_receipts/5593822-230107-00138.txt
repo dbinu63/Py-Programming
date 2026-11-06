@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            07/01/2023            
+
+Terminal 005
+Cashier Jennifer
+Customer William
+
+Shampoo           2           5.30
+                             10.60
+Sync diving       1          21.00
+Water bottle      3           7.40
+                             22.20
+Water bottle      3           7.40
+                             22.20
+
+Subtotal                     76.00
+
+* Promotions
+ 10% off Shampoo
+                             -1.06
+
+GST Included                  6.81
+Total                        74.94
+
+Payments
+BPAY                         74.94
+
+     You earnt 7,494 points!      
+
+Reference 5593822:230107:00138
+
+            Thank you             
+----------------------------------

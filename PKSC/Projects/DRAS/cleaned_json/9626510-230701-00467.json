@@ -1,0 +1,31 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2023-07-01",
+    "month": 7,
+    "year": 2023,
+    "terminal": "002",
+    "cashier": "Joyce",
+    "customer": "Jonathan",
+    "reference": "9626510:230701:00467",
+    "items": [
+        {
+            "product": "Chips",
+            "quantity": 3,
+            "unit_price": 6.3,
+            "total_price": 18.9
+        },
+        {
+            "product": "Chips",
+            "quantity": 1,
+            "unit_price": 6.3,
+            "total_price": 6.3
+        }
+    ],
+    "subtotal": "36.30",
+    "gst": "3.21",
+    "total": "35.36",
+    "payment": {
+        "Gift Card": 35.36
+    }
+}

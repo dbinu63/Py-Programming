@@ -1,0 +1,25 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2029-01-21",
+    "month": 1,
+    "year": 2029,
+    "terminal": "003",
+    "cashier": "Levi",
+    "customer": "Steven",
+    "reference": "9626510:290121:03879",
+    "items": [
+        {
+            "product": "Pepperoni",
+            "quantity": 1,
+            "unit_price": 18.2,
+            "total_price": 18.2
+        }
+    ],
+    "subtotal": "23.30",
+    "gst": "1.70",
+    "total": "18.75",
+    "payment": {
+        "Loyalty Points": 18.75
+    }
+}

@@ -1,0 +1,39 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            13/03/2025            
+
+Terminal 005
+Cashier Jonathon
+Customer Michaela
+
+Cape grey         1          51.00
+Broom             2          44.80
+                             89.60
+Scissors          2          39.80
+                             79.60
+Clippers kit      2          56.50
+                            113.00
+
+Subtotal                    333.20
+
+* Promotions
+ Buy 2x Scissors, save 20%
+                            -15.92
+ Buy 2x Clippers kit, save 15%
+                            -16.95
+
+GST Included                 27.30
+Total                       300.33
+
+Payments
+Loyalty Points              281.55
+Credit Card                  18.78
+
+     You earnt 1,878 points!      
+
+Reference 3795898:250313:01006
+
+     Pleasure doing business      
+----------------------------------

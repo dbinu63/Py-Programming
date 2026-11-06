@@ -1,0 +1,37 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2028-03-04",
+    "month": 3,
+    "year": 2028,
+    "terminal": "001",
+    "cashier": "Kevin",
+    "customer": "Scott",
+    "reference": "5593822:280304:01905",
+    "items": [
+        {
+            "product": "Sync diving",
+            "quantity": 3,
+            "unit_price": 25.8,
+            "total_price": 77.4
+        },
+        {
+            "product": "Sync diving",
+            "quantity": 2,
+            "unit_price": 25.8,
+            "total_price": 51.6
+        },
+        {
+            "product": "Water bottle",
+            "quantity": 2,
+            "unit_price": 9.3,
+            "total_price": 18.6
+        }
+    ],
+    "subtotal": "161.00",
+    "gst": "11.62",
+    "total": "127.82",
+    "payment": {
+        "Loyalty Points": 127.82
+    }
+}

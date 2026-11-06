@@ -1,0 +1,38 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            10/03/2026            
+
+Terminal 005
+Cashier Diane
+Customer Leslie
+
+Cupcake           2           8.60
+                             17.20
+Cupcake           1           8.60
+Cupcake           3           8.60
+                             25.80
+Ham bagel         2          12.40
+                             24.80
+
+Subtotal                     76.40
+
+* Promotions
+ 25% off Ham bagel
+                             -6.20
+ 10% off Cupcake
+                             -5.16
+
+GST Included                  5.91
+Total                        65.04
+
+Payments
+EFTPOS                       65.04
+
+     You earnt 6,504 points!      
+
+Reference 2209696:260310:01901
+
+     Pleasure doing business      
+----------------------------------

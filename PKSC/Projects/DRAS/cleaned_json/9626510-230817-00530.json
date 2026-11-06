@@ -1,0 +1,26 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2023-08-17",
+    "month": 8,
+    "year": 2023,
+    "terminal": "005",
+    "cashier": "Tara",
+    "customer": "Linda",
+    "reference": "9626510:230817:00530",
+    "items": [
+        {
+            "product": "Chips",
+            "quantity": 1,
+            "unit_price": 6.3,
+            "total_price": 6.3
+        }
+    ],
+    "subtotal": "6.30",
+    "gst": "0.57",
+    "total": "6.30",
+    "payment": {
+        "Loyalty Points": 2.7,
+        "EFTPOS": 3.6
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2023-11-01",
+    "month": 11,
+    "year": 2023,
+    "terminal": "003",
+    "cashier": "Eric",
+    "customer": "Brianna",
+    "reference": "3795898:231101:00480",
+    "items": [],
+    "subtotal": "13.80",
+    "gst": "1.13",
+    "total": "12.42",
+    "payment": {
+        "Cash": 0.8,
+        "Credit Card": 11.62
+    }
+}

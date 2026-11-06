@@ -1,0 +1,33 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            11/01/2028            
+
+Terminal 003
+Cashier Scott
+Customer Marvin
+
+Mocha             1           4.80
+Mocha             2           4.80
+                              9.60
+Cupcake           3           9.30
+                             27.90
+Ham toastie       2           8.60
+                             17.20
+
+Subtotal                     59.50
+
+GST Included                  5.41
+Total                        59.50
+
+Payments
+Loyalty Points               59.30
+Debit Card                    0.20
+
+       You earnt 20 points!       
+
+Reference 2209696:280111:03038
+
+           Stay healthy           
+----------------------------------

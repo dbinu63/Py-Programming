@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            21/02/2023            
+
+Terminal 001
+Cashier Anthony
+Customer Brianna
+
+Cape grey         1          46.80
+Hairspray         3          26.20
+                             78.60
+
+Subtotal                    125.40
+
+* Promotions
+ Buy 2x Hairspray, save 25%
+                            -13.10
+
+GST Included                 10.21
+Total                       112.30
+
+Payments
+Cash                        112.30
+
+     You earnt 11,230 points!     
+
+Reference 3795898:230221:00229
+
+            Drive safe            
+----------------------------------

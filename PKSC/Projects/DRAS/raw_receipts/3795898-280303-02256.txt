@@ -1,0 +1,29 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            03/03/2028            
+
+Terminal 005
+Cashier Scott
+
+Razorblade        3          19.60
+                             58.80
+Shaving cream     1          15.80
+
+Subtotal                     74.60
+
+* Promotions
+ Buy 3x Razorblade, save 20%
+                            -11.76
+
+GST Included                  5.71
+Total                        62.84
+
+Payments
+EFTPOS                       62.84
+
+Reference 3795898:280303:02256
+
+            Thank you             
+----------------------------------

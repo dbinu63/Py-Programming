@@ -1,0 +1,40 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            07/03/2023            
+
+Terminal 003
+Cashier Scott
+Customer Gregory
+
+Salmon bagel      3          12.60
+                             37.80
+Ham bagel         3          10.60
+                             31.80
+English muffin    3           6.30
+                             18.90
+Salmon bagel      3          12.60
+                             37.80
+
+Subtotal                    126.30
+
+* Promotions
+ 10% off English muffin
+                             -1.89
+ Buy 2x Ham bagel, save 20%
+                             -4.24
+
+GST Included                 10.92
+Total                       120.17
+
+Payments
+Loyalty Points              120.10
+Credit Card                   0.07
+
+       You earnt 7 points!        
+
+Reference 2209696:230307:00308
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,29 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            02/07/2027            
+
+Terminal 002
+Cashier Amber
+
+Three meat        2          20.00
+                             40.00
+Three meat        3          20.00
+                             60.00
+Three meat        3          20.00
+                             60.00
+Pancakes          1           8.90
+
+Subtotal                    168.90
+
+GST Included                 15.35
+Total                       168.90
+
+Payments
+Cash                        168.90
+
+Reference 9626510:270702:02776
+
+              Cheers              
+----------------------------------

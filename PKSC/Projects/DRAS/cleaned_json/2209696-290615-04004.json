@@ -1,0 +1,43 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-06-15",
+    "month": 6,
+    "year": 2029,
+    "terminal": "001",
+    "cashier": "Patricia",
+    "customer": null,
+    "reference": "2209696:290615:04004",
+    "items": [
+        {
+            "product": "Almond croissant",
+            "quantity": 3,
+            "unit_price": 9.1,
+            "total_price": 27.3
+        },
+        {
+            "product": "Ham toastie",
+            "quantity": 1,
+            "unit_price": 9.1,
+            "total_price": 9.1
+        },
+        {
+            "product": "Almond croissant",
+            "quantity": 1,
+            "unit_price": 9.1,
+            "total_price": 9.1
+        },
+        {
+            "product": "Ham toastie",
+            "quantity": 1,
+            "unit_price": 9.1,
+            "total_price": 9.1
+        }
+    ],
+    "subtotal": "54.60",
+    "gst": "4.96",
+    "total": "54.60",
+    "payment": {
+        "Debit Card": 54.6
+    }
+}

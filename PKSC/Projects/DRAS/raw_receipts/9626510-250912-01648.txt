@@ -1,0 +1,40 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            12/09/2025            
+
+Terminal 005
+Cashier Amber
+Customer Danny
+
+Chips             3           6.90
+                             20.70
+Garlic bread      3           6.90
+                             20.70
+Ham and Cheese    3          13.80
+                             41.40
+Ham and Cheese    3          13.80
+                             41.40
+
+Subtotal                    124.20
+
+* Promotions
+ Buy 3x Garlic bread, save 30%
+                             -6.21
+ Buy 3x Chips, save 30%
+                             -6.21
+
+GST Included                 10.16
+Total                       111.78
+
+Payments
+Loyalty Points              102.55
+Debit Card                    9.23
+
+      You earnt 923 points!       
+
+Reference 9626510:250912:01648
+
+           Stay healthy           
+----------------------------------

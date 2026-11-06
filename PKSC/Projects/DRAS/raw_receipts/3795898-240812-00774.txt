@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            12/08/2024            
+
+Terminal 001
+Cashier Kathryn
+
+Scissors          3          38.40
+                            115.20
+Scissors          2          38.40
+                             76.80
+Razorblade        1          16.60
+Cape grey         1          48.80
+
+Subtotal                    257.40
+
+* Promotions
+ 10% off Cape grey
+                             -4.88
+
+GST Included                 22.96
+Total                       252.52
+
+Payments
+BPAY                        252.52
+
+Reference 3795898:240812:00774
+
+           See you soon           
+----------------------------------

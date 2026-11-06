@@ -1,0 +1,36 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            06/11/2024            
+
+Terminal 005
+Cashier Ronald
+Customer Steven
+
+Hawaiian          3          13.20
+                             39.60
+Garlic prawn      3          17.60
+                             52.80
+Ham and Cheese    1          13.20
+Ham and Cheese    2          13.20
+                             26.40
+
+Subtotal                    132.00
+
+* Promotions
+ Buy 3x Ham and Cheese, save 5%
+                             -1.98
+
+GST Included                 11.82
+Total                       130.02
+
+Payments
+Credit Card                 130.02
+
+     You earnt 13,002 points!     
+
+Reference 9626510:241106:01160
+
+     Pleasure doing business      
+----------------------------------

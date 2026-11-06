@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            20/03/2029            
+
+Terminal 004
+Cashier Derek
+
+Sync diving       3          27.20
+                             81.60
+Egg+Bac burger    2           7.10
+                             14.20
+Hot chips         3           7.10
+                             21.30
+Egg+Bac burger    3           7.10
+                             21.30
+
+Subtotal                    138.40
+
+* Promotions
+ Buy 3x Egg+Bac burger, save 5%
+                             -1.07
+
+GST Included                 12.49
+Total                       137.34
+
+Payments
+Credit Card                 137.34
+
+Reference 5593822:290320:02300
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,23 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            05/11/2024            
+
+Terminal 001
+Cashier Kathryn
+
+Broom             1          43.20
+
+Subtotal                     43.20
+
+GST Included                  3.93
+Total                        43.20
+
+Payments
+BPAY                         43.20
+
+Reference 3795898:241105:00865
+
+            Thank you             
+----------------------------------

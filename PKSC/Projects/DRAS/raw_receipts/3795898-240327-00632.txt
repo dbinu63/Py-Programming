@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            27/03/2024            
+
+Terminal 005
+Cashier Jonathon
+
+Spray bottle      1          21.60
+Face wipes        2          10.60
+                             21.20
+Razorblade        2          16.60
+                             33.20
+
+Subtotal                     76.00
+
+* Promotions
+ 25% off Spray bottle
+                             -5.40
+ Buy 2x Razorblade, save 10%
+                             -3.32
+
+GST Included                  6.12
+Total                        67.28
+
+Payments
+Cash                         67.30
+
+Reference 3795898:240327:00632
+
+           See you soon           
+----------------------------------

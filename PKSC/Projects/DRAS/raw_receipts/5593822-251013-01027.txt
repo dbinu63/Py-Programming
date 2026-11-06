@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            13/10/2025            
+
+Terminal 004
+Cashier Kevin
+
+Shampoo           2           5.80
+                             11.60
+Swim goggles      2          22.80
+                             45.60
+Rescue training   1          57.00
+Waterpolo         3          13.80
+                             41.40
+
+Subtotal                    155.60
+
+* Promotions
+ 10% off Waterpolo
+                             -4.14
+
+GST Included                 13.77
+Total                       151.46
+
+Payments
+Debit Card                  151.46
+
+Reference 5593822:251013:01027
+
+           See you soon           
+----------------------------------

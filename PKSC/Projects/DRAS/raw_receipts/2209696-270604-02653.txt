@@ -1,0 +1,36 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            04/06/2027            
+
+Terminal 001
+Cashier Diane
+Customer Justin
+
+Salmon bagel      1          15.20
+Ham bagel         3          12.80
+                             38.40
+Ham toastie       2           8.20
+                             16.40
+Ham bagel         3          12.80
+                             38.40
+
+Subtotal                    108.40
+
+* Promotions
+ Buy 3x Ham bagel, save 10%
+                             -7.68
+
+GST Included                  9.16
+Total                       100.72
+
+Payments
+BPAY                        100.72
+
+     You earnt 10,072 points!     
+
+Reference 2209696:270604:02653
+
+              Cheers              
+----------------------------------

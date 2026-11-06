@@ -1,0 +1,38 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2024-12-09",
+    "month": 12,
+    "year": 2024,
+    "terminal": "001",
+    "cashier": "Jennifer",
+    "customer": null,
+    "reference": "5593822:241209:00740",
+    "items": [
+        {
+            "product": "Sync diving",
+            "quantity": 3,
+            "unit_price": 22.0,
+            "total_price": 66.0
+        },
+        {
+            "product": "Swim cap",
+            "quantity": 1,
+            "unit_price": 11.2,
+            "total_price": 11.2
+        },
+        {
+            "product": "Water bottle",
+            "quantity": 3,
+            "unit_price": 7.8,
+            "total_price": 23.4
+        }
+    ],
+    "subtotal": "106.20",
+    "gst": "7.92",
+    "total": "87.15",
+    "payment": {
+        "Cash": 41.35,
+        "Credit Card": 45.8
+    }
+}

@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            01/01/2029            
+
+Terminal 004
+Cashier Donna
+Customer Natalie
+
+Hot chips         3           7.10
+                             21.30
+Hot chips         1           7.10
+Shampoo           2           7.10
+                             14.20
+Towel             1          20.60
+
+Subtotal                     63.20
+
+* Promotions
+ Buy 2x Shampoo, save 20%
+                             -2.84
+
+GST Included                  5.49
+Total                        60.36
+
+Payments
+Credit Card                  60.36
+
+     You earnt 6,036 points!      
+
+Reference 5593822:290101:02225
+
+           See you soon           
+----------------------------------

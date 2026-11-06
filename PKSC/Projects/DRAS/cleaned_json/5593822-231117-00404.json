@@ -1,0 +1,25 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2023-11-17",
+    "month": 11,
+    "year": 2023,
+    "terminal": "003",
+    "cashier": "Kevin",
+    "customer": "Natalie",
+    "reference": "5593822:231117:00404",
+    "items": [
+        {
+            "product": "Sync diving",
+            "quantity": 3,
+            "unit_price": 21.0,
+            "total_price": 63.0
+        }
+    ],
+    "subtotal": "63.00",
+    "gst": "5.73",
+    "total": "63.00",
+    "payment": {
+        "Gift Card": 63.0
+    }
+}

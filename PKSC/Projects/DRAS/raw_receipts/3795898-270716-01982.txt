@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            16/07/2027            
+
+Terminal 001
+Cashier Scott
+Customer Lindsey
+
+Pomade            2          15.80
+                             31.60
+Clippers kit      3          61.50
+                            184.50
+Shaving cream     3          15.20
+                             45.60
+
+Subtotal                    261.70
+
+GST Included                 23.79
+Total                       261.70
+
+Payments
+Credit Card                 157.02
+Gift Card                   104.68
+
+     You earnt 26,170 points!     
+
+Reference 3795898:270716:01982
+
+              Cheers              
+----------------------------------

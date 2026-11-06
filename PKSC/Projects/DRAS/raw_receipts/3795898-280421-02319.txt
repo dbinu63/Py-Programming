@@ -1,0 +1,34 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            21/04/2028            
+
+Terminal 003
+Cashier Olivia
+Customer Carol
+
+Razorblade        3          19.60
+                             58.80
+Pomade            3          16.60
+                             49.80
+
+Subtotal                    108.60
+
+* Promotions
+ Buy 3x Razorblade, save 20%
+                            -11.76
+
+GST Included                  8.80
+Total                        96.84
+
+Payments
+Cash                          1.85
+Loyalty Points               94.99
+
+      You earnt 185 points!       
+
+Reference 3795898:280421:02319
+
+           Stay healthy           
+----------------------------------

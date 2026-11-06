@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            06/05/2023            
+
+Terminal 003
+Cashier Ronald
+
+Cheese bread      3           6.30
+                             18.90
+Garlic bread      2           6.30
+                             12.60
+Garlic bread      2           6.30
+                             12.60
+Cheese bread      1           6.30
+
+Subtotal                     50.40
+
+* Promotions
+ 20% off Garlic bread
+                             -5.04
+
+GST Included                  4.12
+Total                        45.36
+
+Payments
+Debit Card                   45.36
+
+Reference 9626510:230506:00386
+
+           Stay healthy           
+----------------------------------

@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            25/06/2029            
+
+Terminal 004
+Cashier Thomas
+
+Hair tonic        3          16.60
+                             49.80
+Spray bottle      3          26.80
+                             80.40
+Razorblade        1          20.60
+Pomade            3          17.60
+                             52.80
+
+Subtotal                    203.60
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -3.52
+ 25% off Spray bottle
+                            -20.10
+
+GST Included                 16.36
+Total                       179.98
+
+Payments
+BPAY                        179.98
+
+Reference 3795898:290625:02857
+
+           Stay healthy           
+----------------------------------

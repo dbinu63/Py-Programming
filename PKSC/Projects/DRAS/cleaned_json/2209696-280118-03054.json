@@ -1,0 +1,25 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2028-01-18",
+    "month": 1,
+    "year": 2028,
+    "terminal": "003",
+    "cashier": "Scott",
+    "customer": "Robert",
+    "reference": "2209696:280118:03054",
+    "items": [
+        {
+            "product": "Almond croissant",
+            "quantity": 1,
+            "unit_price": 8.6,
+            "total_price": 8.6
+        }
+    ],
+    "subtotal": "8.60",
+    "gst": "0.78",
+    "total": "8.60",
+    "payment": {
+        "BPAY": 8.6
+    }
+}

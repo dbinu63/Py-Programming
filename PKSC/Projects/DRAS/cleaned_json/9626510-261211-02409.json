@@ -1,0 +1,38 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2026-12-11",
+    "month": 12,
+    "year": 2026,
+    "terminal": "002",
+    "cashier": "Ronald",
+    "customer": "Steven",
+    "reference": "9626510:261211:02409",
+    "items": [
+        {
+            "product": "Garlic bread",
+            "quantity": 3,
+            "unit_price": 7.3,
+            "total_price": 21.9
+        },
+        {
+            "product": "Garlic prawn",
+            "quantity": 3,
+            "unit_price": 19.4,
+            "total_price": 58.2
+        },
+        {
+            "product": "Garlic bread",
+            "quantity": 1,
+            "unit_price": 7.3,
+            "total_price": 7.3
+        }
+    ],
+    "subtotal": "87.40",
+    "gst": "7.95",
+    "total": "87.40",
+    "payment": {
+        "EFTPOS": 52.44,
+        "Credit Card": 34.96
+    }
+}

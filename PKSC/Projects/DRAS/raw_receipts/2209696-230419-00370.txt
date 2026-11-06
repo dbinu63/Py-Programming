@@ -1,0 +1,36 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            19/04/2023            
+
+Terminal 001
+Cashier Scott
+Customer Justin
+
+Salmon bagel      1          12.60
+Cappuccino        2           5.30
+                             10.60
+Salmon bagel      1          12.60
+Salmon bagel      3          12.60
+                             37.80
+
+Subtotal                     73.60
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -1.06
+
+GST Included                  6.59
+Total                        72.54
+
+Payments
+Loyalty Points               26.85
+EFTPOS                       45.69
+
+     You earnt 4,569 points!      
+
+Reference 2209696:230419:00370
+
+            Drive safe            
+----------------------------------

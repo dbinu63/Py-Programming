@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            19/12/2022            
+
+Terminal 004
+Cashier Kevin
+
+Sync diving       1          20.00
+Water bottle      3           7.00
+                             21.00
+Shampoo           2           5.00
+                             10.00
+Shampoo           1           5.00
+
+Subtotal                     56.00
+
+GST Included                  5.09
+Total                        56.00
+
+Payments
+Gift Card                    44.80
+Credit Card                  11.20
+
+Reference 5593822:221219:00126
+
+           Stay healthy           
+----------------------------------

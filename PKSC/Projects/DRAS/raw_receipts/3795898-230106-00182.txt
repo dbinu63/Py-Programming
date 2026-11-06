@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            06/01/2023            
+
+Terminal 003
+Cashier Anthony
+Customer David
+
+Classic brush     3          14.80
+                             44.40
+
+Subtotal                     44.40
+
+* Promotions
+ Buy 3x Classic brush, save 30%
+                            -13.32
+
+GST Included                  2.83
+Total                        31.08
+
+Payments
+Loyalty Points               14.20
+EFTPOS                       16.88
+
+     You earnt 1,688 points!      
+
+Reference 3795898:230106:00182
+
+            Drive safe            
+----------------------------------

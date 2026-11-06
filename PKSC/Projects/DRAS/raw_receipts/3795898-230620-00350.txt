@@ -1,0 +1,38 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            20/06/2023            
+
+Terminal 002
+Cashier Anthony
+
+Spray bottle      2          20.60
+                             41.20
+Soap 500mL        2           6.90
+                             13.80
+Razorblade        2          15.80
+                             31.60
+Classic brush     3          14.80
+                             44.40
+
+Subtotal                    131.00
+
+* Promotions
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+ Buy 3x Classic brush, save 30%
+                            -13.32
+ Buy 2x Razorblade, save 20%
+                             -6.32
+
+GST Included                 10.00
+Total                       109.98
+
+Payments
+Debit Card                  109.98
+
+Reference 3795898:230620:00350
+
+           Stay healthy           
+----------------------------------

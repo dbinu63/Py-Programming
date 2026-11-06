@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            29/05/2029            
+
+Terminal 003
+Cashier Mary
+Customer Heather
+
+Aquaerobics       2          16.60
+                             33.20
+Sync diving       2          27.20
+                             54.40
+
+Subtotal                     87.60
+
+* Promotions
+ Buy 2x Aquaerobics, save 30%
+                             -9.96
+
+GST Included                  7.06
+Total                        77.64
+
+Payments
+BPAY                         77.64
+
+     You earnt 7,764 points!      
+
+Reference 5593822:290529:02364
+
+     Pleasure doing business      
+----------------------------------

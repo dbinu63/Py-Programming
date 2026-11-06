@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            07/07/2023            
+
+Terminal 004
+Cashier Donna
+
+Water bottle      3           7.40
+                             22.20
+Water bottle      3           7.40
+                             22.20
+Egg+Bac burger    3           5.30
+                             15.90
+
+Subtotal                     60.30
+
+GST Included                  5.48
+Total                        60.30
+
+Payments
+Cash                         39.90
+Debit Card                   20.40
+
+Reference 5593822:230707:00305
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/05/2023            
+
+Terminal 003
+Cashier Theresa
+Customer Charles
+
+Water bottle      1           7.40
+Shampoo           3           5.30
+                             15.90
+Towel             1          15.80
+
+Subtotal                     39.10
+
+* Promotions
+ 10% off Shampoo
+                             -1.59
+
+GST Included                  3.41
+Total                        37.51
+
+Payments
+Loyalty Points               28.20
+EFTPOS                        9.31
+
+      You earnt 931 points!       
+
+Reference 5593822:230505:00255
+
+              Cheers              
+----------------------------------

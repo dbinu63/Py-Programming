@@ -1,0 +1,38 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2025-08-26",
+    "month": 8,
+    "year": 2025,
+    "terminal": "003",
+    "cashier": "Jonathon",
+    "customer": "Mariah",
+    "reference": "3795898:250826:01184",
+    "items": [
+        {
+            "product": "Razorblade",
+            "quantity": 2,
+            "unit_price": 17.2,
+            "total_price": 34.4
+        },
+        {
+            "product": "Cape grey",
+            "quantity": 3,
+            "unit_price": 51.0,
+            "total_price": 153.0
+        },
+        {
+            "product": "Cape grey",
+            "quantity": 1,
+            "unit_price": 51.0,
+            "total_price": 51.0
+        }
+    ],
+    "subtotal": "238.40",
+    "gst": "15.95",
+    "total": "175.48",
+    "payment": {
+        "Debit Card": 52.64,
+        "EFTPOS": 122.84
+    }
+}

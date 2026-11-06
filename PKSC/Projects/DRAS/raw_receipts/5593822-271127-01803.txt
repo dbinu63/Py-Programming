@@ -1,0 +1,30 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            27/11/2027            
+
+Terminal 001
+Cashier Donna
+Customer Tammy
+
+Water bottle      1           8.90
+Rescue training   2          62.00
+                            124.00
+Rescue training   3          62.00
+                            186.00
+
+Subtotal                    318.90
+
+GST Included                 28.99
+Total                       318.90
+
+Payments
+Cash                        318.90
+
+     You earnt 31,890 points!     
+
+Reference 5593822:271127:01803
+
+            Thank you             
+----------------------------------

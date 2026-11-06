@@ -1,0 +1,38 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/04/2023            
+
+Terminal 004
+Cashier Jonathon
+Customer William
+
+Cape white        3          46.80
+                            140.40
+Classic brush     1          14.80
+Razorblade        2          15.80
+                             31.60
+Hairspray         2          26.20
+                             52.40
+
+Subtotal                    239.20
+
+* Promotions
+ Buy 2x Razorblade, save 20%
+                             -6.32
+ Buy 2x Hairspray, save 25%
+                            -13.10
+
+GST Included                 19.98
+Total                       219.78
+
+Payments
+Cash                        219.80
+
+     You earnt 21,980 points!     
+
+Reference 3795898:230428:00293
+
+            Drive safe            
+----------------------------------

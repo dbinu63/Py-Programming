@@ -1,0 +1,37 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            21/05/2023            
+
+Terminal 001
+Cashier Tara
+
+Garlic bread      2           6.30
+                             12.60
+Garlic bread      2           6.30
+                             12.60
+Three meat        3          16.80
+                             50.40
+Three meat        3          16.80
+                             50.40
+
+Subtotal                    126.00
+
+* Promotions
+ 20% off Garlic bread
+                             -5.04
+ 5% off Three meat
+                             -5.04
+
+GST Included                 10.54
+Total                       115.92
+
+Payments
+Credit Card                  34.78
+Gift Card                    81.14
+
+Reference 9626510:230521:00409
+
+              Cheers              
+----------------------------------

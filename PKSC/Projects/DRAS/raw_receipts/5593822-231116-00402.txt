@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            16/11/2023            
+
+Terminal 004
+Cashier Kevin
+
+Aquaerobics       2          12.60
+                             25.20
+Towel             2          15.80
+                             31.60
+Aquaerobics       2          12.60
+                             25.20
+Towel             1          15.80
+
+Subtotal                     97.80
+
+GST Included                  8.89
+Total                        97.80
+
+Payments
+Gift Card                    97.80
+
+Reference 5593822:231116:00402
+
+              Cheers              
+----------------------------------

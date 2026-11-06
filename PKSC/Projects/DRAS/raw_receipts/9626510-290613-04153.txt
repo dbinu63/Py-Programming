@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            13/06/2029            
+
+Terminal 002
+Cashier Levi
+
+Hawaiian          3          16.60
+                             49.80
+Pepperoni         1          18.20
+Pancakes          3           9.80
+                             29.40
+Pepperoni         2          18.20
+                             36.40
+
+Subtotal                    133.80
+
+* Promotions
+ 25% off Pepperoni
+                            -13.65
+
+GST Included                 10.92
+Total                       120.15
+
+Payments
+Gift Card                   120.15
+
+Reference 9626510:290613:04153
+
+           Stay healthy           
+----------------------------------

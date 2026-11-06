@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            11/03/2023            
+
+Terminal 005
+Cashier Kevin
+
+Shampoo           3           5.30
+                             15.90
+Rescue training   2          52.50
+                            105.00
+Shampoo           1           5.30
+Shampoo           2           5.30
+                             10.60
+
+Subtotal                    136.80
+
+* Promotions
+ 10% off Shampoo
+                             -3.18
+ 15% off Rescue training
+                            -15.75
+
+GST Included                 10.72
+Total                       117.87
+
+Payments
+Cash                         72.85
+Credit Card                  45.02
+
+Reference 5593822:230311:00198
+
+            Drive safe            
+----------------------------------

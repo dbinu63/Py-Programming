@@ -1,0 +1,26 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2024-03-05",
+    "month": 3,
+    "year": 2024,
+    "terminal": "005",
+    "cashier": "Jennifer",
+    "customer": null,
+    "reference": "5593822:240305:00507",
+    "items": [
+        {
+            "product": "Adult class",
+            "quantity": 1,
+            "unit_price": 18.8,
+            "total_price": 18.8
+        }
+    ],
+    "subtotal": "35.60",
+    "gst": "3.24",
+    "total": "35.60",
+    "payment": {
+        "Cash": 30.3,
+        "Gift Card": 5.3
+    }
+}

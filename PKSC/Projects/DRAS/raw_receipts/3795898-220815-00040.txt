@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            15/08/2022            
+
+Terminal 001
+Cashier Anthony
+Customer Kelly
+
+Hairspray         2          25.00
+                             50.00
+
+Subtotal                     50.00
+
+GST Included                  4.55
+Total                        50.00
+
+Payments
+EFTPOS                       50.00
+
+     You earnt 5,000 points!      
+
+Reference 3795898:220815:00040
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            16/12/2028            
+
+Terminal 004
+Cashier Donna
+
+Aquaerobics       2          15.80
+                             31.60
+Sync diving       1          25.80
+Hot chips         1           6.70
+Infant lesson     1          19.60
+
+Subtotal                     83.70
+
+* Promotions
+ 25% off Sync diving
+                             -6.45
+
+GST Included                  7.02
+Total                        77.25
+
+Payments
+BPAY                         77.25
+
+Reference 5593822:281216:02208
+
+            Thank you             
+----------------------------------

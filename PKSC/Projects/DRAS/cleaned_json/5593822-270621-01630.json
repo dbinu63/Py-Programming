@@ -1,0 +1,37 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2027-06-21",
+    "month": 6,
+    "year": 2027,
+    "terminal": "002",
+    "cashier": "Kevin",
+    "customer": "Roger",
+    "reference": "5593822:270621:01630",
+    "items": [
+        {
+            "product": "Water bottle",
+            "quantity": 1,
+            "unit_price": 8.9,
+            "total_price": 8.9
+        },
+        {
+            "product": "Hot chips",
+            "quantity": 2,
+            "unit_price": 6.4,
+            "total_price": 12.8
+        },
+        {
+            "product": "Water bottle",
+            "quantity": 2,
+            "unit_price": 8.9,
+            "total_price": 17.8
+        }
+    ],
+    "subtotal": "45.90",
+    "gst": "3.88",
+    "total": "42.70",
+    "payment": {
+        "Loyalty Points": 42.7
+    }
+}

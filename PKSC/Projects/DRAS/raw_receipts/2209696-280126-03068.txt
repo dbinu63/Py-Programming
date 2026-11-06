@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            26/01/2028            
+
+Terminal 003
+Cashier Diane
+Customer Gregory
+
+Mocha             3           4.80
+                             14.40
+Long Black        1           4.80
+Ham toastie       2           8.60
+                             17.20
+Long Black        2           4.80
+                              9.60
+
+Subtotal                     46.00
+
+* Promotions
+ 30% off Long Black
+                             -4.32
+
+GST Included                  3.79
+Total                        41.68
+
+Payments
+Loyalty Points               35.45
+EFTPOS                        6.23
+
+      You earnt 623 points!       
+
+Reference 2209696:280126:03068
+
+            Thank you             
+----------------------------------

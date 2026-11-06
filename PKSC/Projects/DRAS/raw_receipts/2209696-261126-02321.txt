@@ -1,0 +1,39 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            26/11/2026            
+
+Terminal 005
+Cashier Scott
+Customer Scott
+
+Ham toastie       3           7.90
+                             23.70
+Mocha             1           4.40
+Long Black        2           4.40
+                              8.80
+Cupcake           2           8.60
+                             17.20
+
+Subtotal                     54.10
+
+* Promotions
+ 15% off Mocha
+                             -0.66
+ 10% off Cupcake
+                             -1.72
+
+GST Included                  4.70
+Total                        51.72
+
+Payments
+Loyalty Points               31.45
+Debit Card                   20.27
+
+     You earnt 2,027 points!      
+
+Reference 2209696:261126:02321
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            20/09/2027            
+
+Terminal 001
+Cashier Scott
+Customer Ashlee
+
+Clippers kit      1          61.50
+Soap 500mL        2           8.20
+                             16.40
+Clippers kit      2          61.50
+                            123.00
+Soap 500mL        3           8.20
+                             24.60
+
+Subtotal                    225.50
+
+GST Included                 20.50
+Total                       225.50
+
+Payments
+EFTPOS                      225.50
+
+     You earnt 22,550 points!     
+
+Reference 3795898:270920:02057
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,33 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            12/03/2024            
+
+Terminal 003
+Cashier Scott
+Customer Gregory
+
+Eggs benny        2          19.80
+                             39.60
+Salmon bagel      3          13.20
+                             39.60
+Latte             3           4.40
+                             13.20
+
+Subtotal                     92.40
+
+* Promotions
+ 5% off Salmon bagel
+                             -1.98
+
+GST Included                  8.22
+Total                        90.42
+
+Payments
+Loyalty Points               90.42
+
+Reference 2209696:240312:00812
+
+              Cheers              
+----------------------------------

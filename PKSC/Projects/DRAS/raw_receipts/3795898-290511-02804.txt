@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/05/2029            
+
+Terminal 005
+Cashier Thomas
+
+Cape white        2          61.50
+                            123.00
+Cape white        2          61.50
+                            123.00
+Shaving cream     1          16.60
+Spray bottle      2          26.80
+                             53.60
+
+Subtotal                    316.20
+
+* Promotions
+ 25% off Spray bottle
+                            -13.40
+
+GST Included                 27.53
+Total                       302.80
+
+Payments
+Debit Card                  302.80
+
+Reference 3795898:290511:02804
+
+           Stay healthy           
+----------------------------------

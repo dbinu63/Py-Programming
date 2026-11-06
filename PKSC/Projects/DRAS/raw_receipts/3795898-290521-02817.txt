@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            21/05/2029            
+
+Terminal 004
+Cashier Ebony
+
+Shaving cream     1          16.60
+Hairwax           2          17.60
+                             35.20
+Hairwax           2          17.60
+                             35.20
+Hairwax           1          17.60
+
+Subtotal                    104.60
+
+* Promotions
+ 25% off Hairwax
+                            -22.00
+
+GST Included                  7.51
+Total                        82.60
+
+Payments
+EFTPOS                       41.30
+Credit Card                  41.30
+
+Reference 3795898:290521:02817
+
+            Drive safe            
+----------------------------------

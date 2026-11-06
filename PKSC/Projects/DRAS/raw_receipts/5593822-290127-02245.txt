@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            27/01/2029            
+
+Terminal 003
+Cashier Kevin
+Customer Jennifer
+
+Egg+Bac burger    1           7.10
+Aquaerobics       3          16.60
+                             49.80
+Sync diving       3          27.20
+                             81.60
+Towel             1          20.60
+
+Subtotal                    159.10
+
+* Promotions
+ Buy 2x Aquaerobics, save 30%
+                             -9.96
+
+GST Included                 13.56
+Total                       149.14
+
+Payments
+BPAY                         44.74
+Debit Card                  104.40
+
+     You earnt 14,914 points!     
+
+Reference 5593822:290127:02245
+
+              Cheers              
+----------------------------------

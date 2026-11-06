@@ -1,0 +1,31 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2026-10-14",
+    "month": 10,
+    "year": 2026,
+    "terminal": "001",
+    "cashier": "Eric",
+    "customer": "Valerie",
+    "reference": "3795898:261014:01647",
+    "items": [
+        {
+            "product": "Cape white",
+            "quantity": 2,
+            "unit_price": 54.0,
+            "total_price": 108.0
+        },
+        {
+            "product": "Cape white",
+            "quantity": 2,
+            "unit_price": 54.0,
+            "total_price": 108.0
+        }
+    ],
+    "subtotal": "216.00",
+    "gst": "14.73",
+    "total": "162.00",
+    "payment": {
+        "BPAY": 162.0
+    }
+}

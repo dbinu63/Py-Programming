@@ -1,0 +1,37 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-02-25",
+    "month": 2,
+    "year": 2029,
+    "terminal": "001",
+    "cashier": "Kelly",
+    "customer": "Leslie",
+    "reference": "2209696:290225:03803",
+    "items": [
+        {
+            "product": "Cupcake",
+            "quantity": 2,
+            "unit_price": 9.8,
+            "total_price": 19.6
+        },
+        {
+            "product": "Ham toastie",
+            "quantity": 1,
+            "unit_price": 9.1,
+            "total_price": 9.1
+        },
+        {
+            "product": "Mocha",
+            "quantity": 1,
+            "unit_price": 5.1,
+            "total_price": 5.1
+        }
+    ],
+    "subtotal": "33.80",
+    "gst": "2.63",
+    "total": "28.90",
+    "payment": {
+        "Loyalty Points": 28.9
+    }
+}

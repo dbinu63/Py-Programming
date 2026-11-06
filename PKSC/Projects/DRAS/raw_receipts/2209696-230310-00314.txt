@@ -1,0 +1,40 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            10/03/2023            
+
+Terminal 003
+Cashier Scott
+Customer Dorothy
+
+Ham toastie       3           6.90
+                             20.70
+Mocha             3           3.70
+                             11.10
+Ham toastie       3           6.90
+                             20.70
+English muffin    3           6.30
+                             18.90
+
+Subtotal                     71.40
+
+* Promotions
+ 10% off English muffin
+                             -1.89
+ Buy 3x Ham toastie, save 10%
+                             -4.14
+
+GST Included                  5.94
+Total                        65.37
+
+Payments
+Loyalty Points               34.90
+Debit Card                   30.47
+
+     You earnt 3,047 points!      
+
+Reference 2209696:230310:00314
+
+              Cheers              
+----------------------------------

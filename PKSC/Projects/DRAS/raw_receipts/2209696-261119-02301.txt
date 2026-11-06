@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            19/11/2026            
+
+Terminal 001
+Cashier Diane
+
+Macarons          3           4.90
+                             14.70
+Cupcake           2           8.60
+                             17.20
+Mocha             3           4.40
+                             13.20
+Cupcake           3           8.60
+                             25.80
+
+Subtotal                     70.90
+
+* Promotions
+ 15% off Mocha
+                             -1.98
+ 10% off Cupcake
+                             -4.30
+
+GST Included                  5.87
+Total                        64.62
+
+Payments
+EFTPOS                       32.31
+Debit Card                   32.31
+
+Reference 2209696:261119:02301
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,25 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            01/11/2022            
+
+Terminal 005
+Cashier Kevin
+
+Infant lesson     2          15.00
+                             30.00
+
+Subtotal                     30.00
+
+GST Included                  2.73
+Total                        30.00
+
+Payments
+BPAY                          9.00
+EFTPOS                       21.00
+
+Reference 5593822:221101:00088
+
+              Cheers              
+----------------------------------

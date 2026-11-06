@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            18/05/2028            
+
+Terminal 001
+Cashier Michael
+
+Razorblade        2          19.60
+                             39.20
+Razorblade        1          19.60
+Pomade            3          16.60
+                             49.80
+
+Subtotal                    108.60
+
+* Promotions
+ Buy 3x Razorblade, save 20%
+                            -11.76
+
+GST Included                  8.80
+Total                        96.84
+
+Payments
+EFTPOS                       96.84
+
+Reference 3795898:280518:02352
+
+           Stay healthy           
+----------------------------------

@@ -1,0 +1,31 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2029-02-15",
+    "month": 2,
+    "year": 2029,
+    "terminal": "001",
+    "cashier": "Derek",
+    "customer": null,
+    "reference": "5593822:290215:02269",
+    "items": [
+        {
+            "product": "Sync diving",
+            "quantity": 2,
+            "unit_price": 27.2,
+            "total_price": 54.4
+        },
+        {
+            "product": "Towel",
+            "quantity": 2,
+            "unit_price": 20.6,
+            "total_price": 41.2
+        }
+    ],
+    "subtotal": "95.60",
+    "gst": "8.13",
+    "total": "89.42",
+    "payment": {
+        "Debit Card": 89.42
+    }
+}

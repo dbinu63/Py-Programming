@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/10/2024            
+
+Terminal 004
+Cashier Jennifer
+
+Waterpolo         3          13.20
+                             39.60
+Rescue training   2          55.00
+                            110.00
+Water bottle      2           7.80
+                             15.60
+Water bottle      1           7.80
+
+Subtotal                    173.00
+
+* Promotions
+ 20% off Rescue training
+                            -22.00
+ 25% off Water bottle
+                             -5.85
+
+GST Included                 13.20
+Total                       145.15
+
+Payments
+Credit Card                  43.55
+EFTPOS                      101.61
+
+Reference 5593822:241005:00685
+
+     Pleasure doing business      
+----------------------------------

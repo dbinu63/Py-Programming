@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            14/06/2025            
+
+Terminal 003
+Cashier Leslie
+Customer Marvin
+
+Mocha             3           4.10
+                             12.30
+Flat white        2           5.20
+                             10.40
+Ham bagel         1          11.60
+
+Subtotal                     34.30
+
+* Promotions
+ Buy 2x Mocha, save 15%
+                             -1.23
+ Buy 2x Flat white, save 15%
+                             -1.56
+
+GST Included                  2.86
+Total                        31.51
+
+Payments
+BPAY                         12.60
+Credit Card                  18.91
+
+     You earnt 3,151 points!      
+
+Reference 2209696:250614:01491
+
+            Thank you             
+----------------------------------

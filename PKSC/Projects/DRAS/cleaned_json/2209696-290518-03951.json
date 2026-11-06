@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-05-18",
+    "month": 5,
+    "year": 2029,
+    "terminal": "005",
+    "cashier": "Lauren",
+    "customer": "James",
+    "reference": "2209696:290518:03951",
+    "items": [
+        {
+            "product": "English muffin",
+            "quantity": 3,
+            "unit_price": 8.3,
+            "total_price": 24.9
+        }
+    ],
+    "subtotal": "24.90",
+    "gst": "2.26",
+    "total": "24.90",
+    "payment": {
+        "Credit Card": 7.47,
+        "EFTPOS": 17.43
+    }
+}

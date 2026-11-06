@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            18/04/2023            
+
+Terminal 001
+Cashier Theresa
+Customer Meghan
+
+Aquaerobics       2          12.60
+                             25.20
+Rescue training   3          52.50
+                            157.50
+Towel             3          15.80
+                             47.40
+Water bottle      1           7.40
+
+Subtotal                    237.50
+
+* Promotions
+ 15% off Rescue training
+                            -23.62
+
+GST Included                 19.44
+Total                       213.88
+
+Payments
+Gift Card                   213.88
+
+     You earnt 21,388 points!     
+
+Reference 5593822:230418:00232
+
+     Pleasure doing business      
+----------------------------------

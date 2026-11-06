@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            05/06/2028            
+
+Terminal 001
+Cashier Kevin
+Customer Cody
+
+Shampoo           2           6.70
+                             13.40
+Aquaerobics       2          15.80
+                             31.60
+
+Subtotal                     45.00
+
+GST Included                  4.09
+Total                        45.00
+
+Payments
+Cash                         45.00
+
+     You earnt 4,500 points!      
+
+Reference 5593822:280605:01985
+
+            Thank you             
+----------------------------------

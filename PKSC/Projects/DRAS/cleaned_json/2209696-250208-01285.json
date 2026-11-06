@@ -1,0 +1,37 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2025-02-08",
+    "month": 2,
+    "year": 2025,
+    "terminal": "004",
+    "cashier": "Scott",
+    "customer": "Leslie",
+    "reference": "2209696:250208:01285",
+    "items": [
+        {
+            "product": "Mocha",
+            "quantity": 3,
+            "unit_price": 4.1,
+            "total_price": 12.3
+        },
+        {
+            "product": "Glazed donut",
+            "quantity": 2,
+            "unit_price": 4.6,
+            "total_price": 9.2
+        },
+        {
+            "product": "Salmon bagel",
+            "quantity": 2,
+            "unit_price": 13.8,
+            "total_price": 27.6
+        }
+    ],
+    "subtotal": "49.10",
+    "gst": "4.35",
+    "total": "47.87",
+    "payment": {
+        "Loyalty Points": 47.87
+    }
+}

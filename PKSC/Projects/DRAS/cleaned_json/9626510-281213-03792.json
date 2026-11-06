@@ -1,0 +1,26 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2028-12-13",
+    "month": 12,
+    "year": 2028,
+    "terminal": "005",
+    "cashier": "Levi",
+    "customer": "Luke",
+    "reference": "9626510:281213:03792",
+    "items": [
+        {
+            "product": "Vego",
+            "quantity": 2,
+            "unit_price": 15.8,
+            "total_price": 31.6
+        }
+    ],
+    "subtotal": "31.60",
+    "gst": "2.87",
+    "total": "31.60",
+    "payment": {
+        "Loyalty Points": 10.8,
+        "BPAY": 20.8
+    }
+}

@@ -1,0 +1,35 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            17/02/2024            
+
+Terminal 001
+Cashier Tara
+Customer Luke
+
+Soft drink 1L     2           3.90
+                              7.80
+Soft drink 2L     3           5.00
+                             15.00
+Hawaiian          3          13.20
+                             39.60
+
+Subtotal                     62.40
+
+* Promotions
+ Buy 3x Soft drink 2L, save 15%
+                             -2.25
+
+GST Included                  5.47
+Total                        60.15
+
+Payments
+BPAY                         60.15
+
+     You earnt 6,015 points!      
+
+Reference 9626510:240217:00776
+
+           Stay healthy           
+----------------------------------

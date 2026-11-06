@@ -1,0 +1,37 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2026-05-13",
+    "month": 5,
+    "year": 2026,
+    "terminal": "004",
+    "cashier": "Diane",
+    "customer": "Isaac",
+    "reference": "2209696:260513:02013",
+    "items": [
+        {
+            "product": "Flat white",
+            "quantity": 2,
+            "unit_price": 5.5,
+            "total_price": 11.0
+        },
+        {
+            "product": "English muffin",
+            "quantity": 1,
+            "unit_price": 7.3,
+            "total_price": 7.3
+        },
+        {
+            "product": "Cupcake",
+            "quantity": 3,
+            "unit_price": 8.6,
+            "total_price": 25.8
+        }
+    ],
+    "subtotal": "44.10",
+    "gst": "3.77",
+    "total": "41.52",
+    "payment": {
+        "EFTPOS": 41.52
+    }
+}

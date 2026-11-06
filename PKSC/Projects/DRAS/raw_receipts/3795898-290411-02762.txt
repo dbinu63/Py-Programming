@@ -1,0 +1,34 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/04/2029            
+
+Terminal 001
+Cashier Justin
+Customer Rebecca
+
+Cape white        2          61.50
+                            123.00
+Spray bottle      2          26.80
+                             53.60
+Cape white        3          61.50
+                            184.50
+Spray bottle      1          26.80
+
+Subtotal                    387.90
+
+* Promotions
+ 25% off Spray bottle
+                            -20.10
+
+GST Included                 33.44
+Total                       367.80
+
+Payments
+Loyalty Points              367.80
+
+Reference 3795898:290411:02762
+
+           See you soon           
+----------------------------------

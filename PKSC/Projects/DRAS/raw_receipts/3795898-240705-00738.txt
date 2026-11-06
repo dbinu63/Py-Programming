@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            05/07/2024            
+
+Terminal 001
+Cashier Eric
+
+Cape grey         2          48.80
+                             97.60
+Hairspray         1          27.40
+Razorblade        1          16.60
+Cape grey         3          48.80
+                            146.40
+
+Subtotal                    288.00
+
+* Promotions
+ 10% off Cape grey
+                            -24.40
+
+GST Included                 23.96
+Total                       263.60
+
+Payments
+Debit Card                  263.60
+
+Reference 3795898:240705:00738
+
+            Drive safe            
+----------------------------------

@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            24/02/2026            
+
+Terminal 005
+Cashier Donna
+Customer Samantha
+
+Aquaerobics       2          14.60
+                             29.20
+Waterpolo         1          14.60
+Hot chips         2           6.20
+                             12.40
+Aquaerobics       1          14.60
+
+Subtotal                     70.80
+
+GST Included                  6.44
+Total                        70.80
+
+Payments
+Loyalty Points               70.80
+
+Reference 5593822:260224:01170
+
+           See you soon           
+----------------------------------

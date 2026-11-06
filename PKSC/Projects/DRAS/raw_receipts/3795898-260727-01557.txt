@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            27/07/2026            
+
+Terminal 005
+Cashier Michael
+
+Soap 500mL        2           7.90
+                             15.80
+Pomade            2          15.20
+                             30.40
+Pomade            3          15.20
+                             45.60
+Razorblade        2          18.20
+                             36.40
+
+Subtotal                    128.20
+
+GST Included                 11.65
+Total                       128.20
+
+Payments
+BPAY                        128.20
+
+Reference 3795898:260727:01557
+
+            Drive safe            
+----------------------------------

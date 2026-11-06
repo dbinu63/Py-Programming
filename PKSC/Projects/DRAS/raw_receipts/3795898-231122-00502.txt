@@ -1,0 +1,26 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            22/11/2023            
+
+Terminal 002
+Cashier Jonathon
+
+Hairwax           2          13.20
+                             26.40
+Razorblade        1          15.80
+
+Subtotal                     42.20
+
+GST Included                  3.84
+Total                        42.20
+
+Payments
+Debit Card                   29.54
+EFTPOS                       12.66
+
+Reference 3795898:231122:00502
+
+           See you soon           
+----------------------------------

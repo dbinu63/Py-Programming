@@ -1,0 +1,39 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            09/04/2023            
+
+Terminal 002
+Cashier Tara
+Customer Andrew
+
+Just Cheese       3          12.60
+                             37.80
+Chips             2           6.30
+                             12.60
+Just Cheese       3          12.60
+                             37.80
+Garlic bread      2           6.30
+                             12.60
+
+Subtotal                    100.80
+
+* Promotions
+ 20% off Garlic bread
+                             -2.52
+ Buy 2x Just Cheese, save 25%
+                            -18.90
+
+GST Included                  7.22
+Total                        79.38
+
+Payments
+EFTPOS                       79.38
+
+     You earnt 7,938 points!      
+
+Reference 9626510:230409:00351
+
+              Cheers              
+----------------------------------

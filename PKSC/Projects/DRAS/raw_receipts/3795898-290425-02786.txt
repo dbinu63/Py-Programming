@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            25/04/2029            
+
+Terminal 003
+Cashier Justin
+Customer Sherry
+
+Hair tonic        2          16.60
+                             33.20
+Shaving cream     3          16.60
+                             49.80
+Cape white        3          61.50
+                            184.50
+Cape white        3          61.50
+                            184.50
+
+Subtotal                    452.00
+
+GST Included                 41.09
+Total                       452.00
+
+Payments
+BPAY                        452.00
+
+     You earnt 45,200 points!     
+
+Reference 3795898:290425:02786
+
+           Stay healthy           
+----------------------------------

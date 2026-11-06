@@ -1,0 +1,28 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            01/11/2022            
+
+Terminal 001
+Cashier Jonathon
+
+Soap 500mL        3           6.50
+                             19.50
+Cape grey         3          44.50
+                            133.50
+Razorblade        3          15.00
+                             45.00
+
+Subtotal                    198.00
+
+GST Included                 18.00
+Total                       198.00
+
+Payments
+Cash                        198.00
+
+Reference 3795898:221101:00118
+
+     Pleasure doing business      
+----------------------------------

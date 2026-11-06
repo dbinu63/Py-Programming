@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2026-10-01",
+    "month": 10,
+    "year": 2026,
+    "terminal": "005",
+    "cashier": "Scott",
+    "customer": "Isaac",
+    "reference": "2209696:261001:02232",
+    "items": [
+        {
+            "product": "Macarons",
+            "quantity": 3,
+            "unit_price": 4.9,
+            "total_price": 14.7
+        }
+    ],
+    "subtotal": "14.70",
+    "gst": "1.34",
+    "total": "14.70",
+    "payment": {
+        "Debit Card": 13.23,
+        "Credit Card": 1.47
+    }
+}

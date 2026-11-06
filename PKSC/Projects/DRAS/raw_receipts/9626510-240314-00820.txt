@@ -1,0 +1,34 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            14/03/2024            
+
+Terminal 005
+Cashier Tara
+
+Hawaiian          3          13.20
+                             39.60
+Cheese bread      2           6.60
+                             13.20
+Ham and Cheese    3          13.20
+                             39.60
+
+Subtotal                     92.40
+
+* Promotions
+ Buy 2x Cheese bread, save 5%
+                             -0.66
+ Buy 3x Ham and Cheese, save 5%
+                             -1.98
+
+GST Included                  8.16
+Total                        89.76
+
+Payments
+EFTPOS                       89.76
+
+Reference 9626510:240314:00820
+
+              Cheers              
+----------------------------------

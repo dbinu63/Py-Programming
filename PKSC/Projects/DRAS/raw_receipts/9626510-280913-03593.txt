@@ -1,0 +1,34 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            13/09/2028            
+
+Terminal 002
+Cashier Levi
+Customer Robert
+
+Chips             3           7.90
+                             23.70
+Pancakes          2           9.30
+                             18.60
+Pepperoni         3          17.20
+                             51.60
+Pancakes          3           9.30
+                             27.90
+
+Subtotal                    121.80
+
+GST Included                 11.07
+Total                       121.80
+
+Payments
+Loyalty Points              107.30
+EFTPOS                       14.50
+
+     You earnt 1,450 points!      
+
+Reference 9626510:280913:03593
+
+              Cheers              
+----------------------------------

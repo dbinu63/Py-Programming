@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            03/11/2027            
+
+Terminal 005
+Cashier Scott
+Customer Scott
+
+Ham bagel         2          12.80
+                             25.60
+Ham toastie       2           8.20
+                             16.40
+Ham bagel         1          12.80
+Cappuccino        2           6.40
+                             12.80
+
+Subtotal                     67.60
+
+* Promotions
+ Buy 3x Ham bagel, save 10%
+                             -3.84
+
+GST Included                  5.80
+Total                        63.76
+
+Payments
+Loyalty Points               32.50
+Credit Card                  31.26
+
+     You earnt 3,126 points!      
+
+Reference 2209696:271103:02908
+
+            Thank you             
+----------------------------------

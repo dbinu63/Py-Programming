@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            24/04/2025            
+
+Terminal 003
+Cashier Donna
+Customer Scott
+
+Egg+Bac burger    2           5.80
+                             11.60
+Waterpolo         1          13.80
+Egg+Bac burger    2           5.80
+                             11.60
+Rescue training   2          57.00
+                            114.00
+
+Subtotal                    151.00
+
+* Promotions
+ 10% off Waterpolo
+                             -1.38
+
+GST Included                 13.60
+Total                       149.62
+
+Payments
+Credit Card                 149.62
+
+     You earnt 14,962 points!     
+
+Reference 5593822:250424:00884
+
+            Thank you             
+----------------------------------

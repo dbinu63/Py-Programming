@@ -1,0 +1,34 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/05/2023            
+
+Terminal 002
+Cashier Anthony
+Customer Ashley
+
+Classic brush     1          14.80
+Hairspray         3          26.20
+                             78.60
+Hairspray         2          26.20
+                             52.40
+
+Subtotal                    145.80
+
+* Promotions
+ Buy 2x Hairspray, save 25%
+                            -26.20
+
+GST Included                 10.87
+Total                       119.60
+
+Payments
+Gift Card                   119.60
+
+     You earnt 11,960 points!     
+
+Reference 3795898:230510:00303
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,26 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            05/09/2028            
+
+Terminal 002
+Cashier Michael
+
+Soap 500mL        3           8.60
+                             25.80
+Hairwax           2          16.60
+                             33.20
+
+Subtotal                     59.00
+
+GST Included                  5.36
+Total                        59.00
+
+Payments
+Debit Card                   59.00
+
+Reference 3795898:280905:02483
+
+              Cheers              
+----------------------------------

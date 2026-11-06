@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            19/04/2029            
+
+Terminal 003
+Cashier Justin
+Customer Shelley
+
+Hair tonic        2          16.60
+                             33.20
+Hair tonic        1          16.60
+Pomade            3          17.60
+                             52.80
+Shaving cream     1          16.60
+
+Subtotal                    119.20
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -3.52
+
+GST Included                 10.52
+Total                       115.68
+
+Payments
+Credit Card                 104.11
+Gift Card                    11.57
+
+     You earnt 11,568 points!     
+
+Reference 3795898:290419:02775
+
+           See you soon           
+----------------------------------

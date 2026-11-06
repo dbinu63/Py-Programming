@@ -1,0 +1,37 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            16/11/2024            
+
+Terminal 003
+Cashier Jennifer
+Customer Derek
+
+Water bottle      3           7.80
+                             23.40
+Waterpolo         3          13.20
+                             39.60
+Egg+Bac burger    3           5.60
+                             16.80
+Waterpolo         1          13.20
+
+Subtotal                     93.00
+
+* Promotions
+ 25% off Water bottle
+                             -5.85
+
+GST Included                  7.92
+Total                        87.15
+
+Payments
+Credit Card                  61.01
+BPAY                         26.14
+
+     You earnt 8,715 points!      
+
+Reference 5593822:241116:00721
+
+           See you soon           
+----------------------------------

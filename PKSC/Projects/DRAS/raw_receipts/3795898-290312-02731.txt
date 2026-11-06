@@ -1,0 +1,37 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            12/03/2029            
+
+Terminal 005
+Cashier Carlos
+Customer Jessica
+
+Cape white        2          61.50
+                            123.00
+Hairwax           1          17.60
+Pomade            2          17.60
+                             35.20
+
+Subtotal                    175.80
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -3.52
+ 25% off Hairwax
+                             -4.40
+
+GST Included                 15.26
+Total                       167.88
+
+Payments
+Gift Card                    50.36
+BPAY                        117.52
+
+     You earnt 16,788 points!     
+
+Reference 3795898:290312:02731
+
+              Cheers              
+----------------------------------

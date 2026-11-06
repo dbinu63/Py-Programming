@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            28/05/2026            
+
+Terminal 001
+Cashier Kevin
+
+Waterpolo         1          14.60
+Hot chips         3           6.20
+                             18.60
+Waterpolo         3          14.60
+                             43.80
+Hot chips         3           6.20
+                             18.60
+
+Subtotal                     95.60
+
+* Promotions
+ Buy 3x Hot chips, save 15%
+                             -5.58
+ Buy 3x Waterpolo, save 25%
+                            -10.95
+
+GST Included                  7.19
+Total                        79.07
+
+Payments
+Cash                         54.10
+Credit Card                  24.97
+
+Reference 5593822:260528:01256
+
+              Cheers              
+----------------------------------

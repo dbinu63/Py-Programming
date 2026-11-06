@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            05/05/2026            
+
+Terminal 001
+Cashier Michael
+
+Cape white        1          54.00
+Broom             3          47.20
+                            141.60
+Cape grey         2          54.00
+                            108.00
+
+Subtotal                    303.60
+
+* Promotions
+ 25% off Cape white
+                            -13.50
+
+GST Included                 26.37
+Total                       290.10
+
+Payments
+EFTPOS                      232.08
+Credit Card                  58.02
+
+Reference 3795898:260505:01468
+
+           See you soon           
+----------------------------------

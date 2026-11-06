@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            29/05/2026            
+
+Terminal 005
+Cashier Michael
+Customer Linda
+
+Cape white        3          54.00
+                            162.00
+Scissors          3          42.00
+                            126.00
+
+Subtotal                    288.00
+
+* Promotions
+ 5% off Scissors
+                             -6.30
+ 25% off Cape white
+                            -40.50
+
+GST Included                 21.93
+Total                       241.20
+
+Payments
+Cash                        241.15
+
+     You earnt 24,115 points!     
+
+Reference 3795898:260529:01492
+
+           Stay healthy           
+----------------------------------

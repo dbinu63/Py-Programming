@@ -1,0 +1,25 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2028-02-14",
+    "month": 2,
+    "year": 2028,
+    "terminal": "001",
+    "cashier": "Eric",
+    "customer": "Lisa",
+    "reference": "3795898:280214:02233",
+    "items": [
+        {
+            "product": "Razorblade",
+            "quantity": 1,
+            "unit_price": 19.6,
+            "total_price": 19.6
+        }
+    ],
+    "subtotal": "19.60",
+    "gst": "1.78",
+    "total": "19.60",
+    "payment": {
+        "Loyalty Points": 19.6
+    }
+}

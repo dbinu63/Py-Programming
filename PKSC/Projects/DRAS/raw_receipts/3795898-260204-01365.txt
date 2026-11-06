@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            04/02/2026            
+
+Terminal 004
+Cashier Scott
+
+Scissors          3          42.00
+                            126.00
+Pomade            2          15.20
+                             30.40
+Cape grey         2          54.00
+                            108.00
+Pomade            3          15.20
+                             45.60
+
+Subtotal                    310.00
+
+* Promotions
+ 5% off Scissors
+                             -6.30
+
+GST Included                 27.61
+Total                       303.70
+
+Payments
+BPAY                         91.11
+EFTPOS                      212.59
+
+Reference 3795898:260204:01365
+
+            Drive safe            
+----------------------------------

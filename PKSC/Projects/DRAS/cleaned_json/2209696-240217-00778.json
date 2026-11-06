@@ -1,0 +1,44 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2024-02-17",
+    "month": 2,
+    "year": 2024,
+    "terminal": "005",
+    "cashier": "Leslie",
+    "customer": "Leslie",
+    "reference": "2209696:240217:00778",
+    "items": [
+        {
+            "product": "Ham bagel",
+            "quantity": 2,
+            "unit_price": 11.2,
+            "total_price": 22.4
+        },
+        {
+            "product": "Ham bagel",
+            "quantity": 2,
+            "unit_price": 11.2,
+            "total_price": 22.4
+        },
+        {
+            "product": "English muffin",
+            "quantity": 3,
+            "unit_price": 6.6,
+            "total_price": 19.8
+        },
+        {
+            "product": "Latte",
+            "quantity": 3,
+            "unit_price": 4.4,
+            "total_price": 13.2
+        }
+    ],
+    "subtotal": "77.80",
+    "gst": "6.71",
+    "total": "73.84",
+    "payment": {
+        "Cash": 52.7,
+        "Credit Card": 21.14
+    }
+}

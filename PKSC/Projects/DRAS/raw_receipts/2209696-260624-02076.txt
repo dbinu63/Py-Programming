@@ -1,0 +1,40 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            24/06/2026            
+
+Terminal 005
+Cashier Matthew
+Customer Michael
+
+Ham toastie       2           7.90
+                             15.80
+Mocha             2           4.40
+                              8.80
+Cupcake           3           8.60
+                             25.80
+Macarons          2           4.90
+                              9.80
+
+Subtotal                     60.20
+
+* Promotions
+ 15% off Mocha
+                             -1.32
+ 10% off Cupcake
+                             -2.58
+
+GST Included                  5.12
+Total                        56.30
+
+Payments
+Loyalty Points               40.10
+Gift Card                    16.20
+
+     You earnt 1,620 points!      
+
+Reference 2209696:260624:02076
+
+     Pleasure doing business      
+----------------------------------

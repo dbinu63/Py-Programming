@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            29/04/2027            
+
+Terminal 002
+Cashier Scott
+
+Pomade            2          15.80
+                             31.60
+Razorblade        1          18.80
+Spray bottle      2          24.40
+                             48.80
+
+Subtotal                     99.20
+
+GST Included                  9.02
+Total                        99.20
+
+Payments
+Debit Card                   99.20
+
+Reference 3795898:270429:01886
+
+            Drive safe            
+----------------------------------

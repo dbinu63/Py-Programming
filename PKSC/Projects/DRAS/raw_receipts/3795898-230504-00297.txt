@@ -1,0 +1,37 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            04/05/2023            
+
+Terminal 001
+Cashier Anthony
+Customer William
+
+Classic brush     2          14.80
+                             29.60
+Soap 500mL        3           6.90
+                             20.70
+Hairspray         2          26.20
+                             52.40
+
+Subtotal                    102.70
+
+* Promotions
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+ Buy 2x Hairspray, save 25%
+                            -13.10
+
+GST Included                  8.02
+Total                        88.22
+
+Payments
+BPAY                         88.22
+
+     You earnt 8,822 points!      
+
+Reference 3795898:230504:00297
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            17/01/2029            
+
+Terminal 001
+Cashier Jennifer
+
+Spicy chicken     3          18.20
+                             54.60
+Pepperoni         2          18.20
+                             36.40
+Vego              1          16.60
+
+Subtotal                    107.60
+
+* Promotions
+ 25% off Pepperoni
+                             -9.10
+ Buy 3x Spicy chicken, save 5%
+                             -2.73
+
+GST Included                  8.71
+Total                        95.77
+
+Payments
+BPAY                         95.77
+
+Reference 9626510:290117:03865
+
+            Thank you             
+----------------------------------

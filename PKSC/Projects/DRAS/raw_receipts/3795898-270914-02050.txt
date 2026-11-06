@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            14/09/2027            
+
+Terminal 001
+Cashier Scott
+Customer Sherry
+
+Clippers kit      1          61.50
+Pomade            2          15.80
+                             31.60
+Pomade            1          15.80
+Spray bottle      3          24.40
+                             73.20
+
+Subtotal                    182.10
+
+* Promotions
+ Buy 3x Pomade, save 25%
+                            -11.85
+
+GST Included                 15.48
+Total                       170.25
+
+Payments
+Debit Card                   51.07
+BPAY                        119.17
+
+     You earnt 17,025 points!     
+
+Reference 3795898:270914:02050
+
+           Stay healthy           
+----------------------------------

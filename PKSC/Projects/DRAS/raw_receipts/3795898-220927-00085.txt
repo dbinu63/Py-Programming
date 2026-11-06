@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            27/09/2022            
+
+Terminal 002
+Cashier Anthony
+Customer Carrie
+
+Hairspray         2          25.00
+                             50.00
+Classic brush     1          14.00
+Soap 500mL        3           6.50
+                             19.50
+Cape grey         1          44.50
+
+Subtotal                    128.00
+
+GST Included                 11.64
+Total                       128.00
+
+Payments
+EFTPOS                      128.00
+
+     You earnt 12,800 points!     
+
+Reference 3795898:220927:00085
+
+           Stay healthy           
+----------------------------------

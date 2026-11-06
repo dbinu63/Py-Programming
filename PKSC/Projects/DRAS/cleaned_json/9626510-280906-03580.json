@@ -1,0 +1,31 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2028-09-06",
+    "month": 9,
+    "year": 2028,
+    "terminal": "005",
+    "cashier": "Levi",
+    "customer": "Linda",
+    "reference": "9626510:280906:03580",
+    "items": [
+        {
+            "product": "Pepperoni",
+            "quantity": 2,
+            "unit_price": 17.2,
+            "total_price": 34.4
+        },
+        {
+            "product": "Pancakes",
+            "quantity": 2,
+            "unit_price": 9.3,
+            "total_price": 18.6
+        }
+    ],
+    "subtotal": "53.00",
+    "gst": "4.82",
+    "total": "53.00",
+    "payment": {
+        "Credit Card": 53.0
+    }
+}

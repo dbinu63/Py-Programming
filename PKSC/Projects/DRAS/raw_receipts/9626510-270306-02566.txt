@@ -1,0 +1,38 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            06/03/2027            
+
+Terminal 004
+Cashier Steven
+Customer Steven
+
+Garlic bread      1           7.60
+Garlic prawn      2          20.00
+                             40.00
+Chips             1           7.60
+Garlic bread      2           7.60
+                             15.20
+
+Subtotal                     70.40
+
+* Promotions
+ Buy 3x Garlic bread, save 25%
+                             -5.70
+ Buy 2x Garlic prawn, save 15%
+                             -6.00
+
+GST Included                  5.34
+Total                        58.70
+
+Payments
+BPAY                         11.74
+Gift Card                    46.96
+
+     You earnt 5,870 points!      
+
+Reference 9626510:270306:02566
+
+           Stay healthy           
+----------------------------------

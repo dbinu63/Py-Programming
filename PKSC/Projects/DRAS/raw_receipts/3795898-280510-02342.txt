@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/05/2028            
+
+Terminal 001
+Cashier Michael
+Customer Earl
+
+Pomade            1          16.60
+Cape white        3          58.50
+                            175.50
+Razorblade        1          19.60
+Shaving cream     1          15.80
+
+Subtotal                    227.50
+
+GST Included                 20.68
+Total                       227.50
+
+Payments
+Credit Card                  22.75
+Gift Card                   204.75
+
+     You earnt 22,750 points!     
+
+Reference 3795898:280510:02342
+
+              Cheers              
+----------------------------------

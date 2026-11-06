@@ -1,0 +1,44 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2029-06-15",
+    "month": 6,
+    "year": 2029,
+    "terminal": "005",
+    "cashier": "Grant",
+    "customer": "Ricardo",
+    "reference": "2209696:290615:04002",
+    "items": [
+        {
+            "product": "Almond croissant",
+            "quantity": 2,
+            "unit_price": 9.1,
+            "total_price": 18.2
+        },
+        {
+            "product": "Glazed donut",
+            "quantity": 1,
+            "unit_price": 5.6,
+            "total_price": 5.6
+        },
+        {
+            "product": "Long Black",
+            "quantity": 1,
+            "unit_price": 5.1,
+            "total_price": 5.1
+        },
+        {
+            "product": "Long Black",
+            "quantity": 2,
+            "unit_price": 5.1,
+            "total_price": 10.2
+        }
+    ],
+    "subtotal": "39.10",
+    "gst": "3.55",
+    "total": "39.10",
+    "payment": {
+        "BPAY": 27.37,
+        "Gift Card": 11.73
+    }
+}

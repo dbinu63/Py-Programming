@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/11/2027            
+
+Terminal 003
+Cashier Scott
+
+Pomade            2          15.80
+                             31.60
+Shaving cream     3          15.20
+                             45.60
+
+Subtotal                     77.20
+
+GST Included                  7.02
+Total                        77.20
+
+Payments
+Credit Card                  69.48
+Gift Card                     7.72
+
+Reference 3795898:271110:02120
+
+            Thank you             
+----------------------------------

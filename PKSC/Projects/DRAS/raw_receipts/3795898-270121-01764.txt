@@ -1,0 +1,27 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            21/01/2027            
+
+Terminal 001
+Cashier Michael
+
+Scissors          3          43.20
+                            129.60
+Razorblade        1          18.80
+Razorblade        2          18.80
+                             37.60
+
+Subtotal                    186.00
+
+GST Included                 16.91
+Total                       186.00
+
+Payments
+Gift Card                   186.00
+
+Reference 3795898:270121:01764
+
+              Cheers              
+----------------------------------

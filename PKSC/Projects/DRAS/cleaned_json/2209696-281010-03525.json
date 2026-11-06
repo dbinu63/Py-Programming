@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2028-10-10",
+    "month": 10,
+    "year": 2028,
+    "terminal": "004",
+    "cashier": "Diane",
+    "customer": "Paula",
+    "reference": "2209696:281010:03525",
+    "items": [
+        {
+            "product": "Flat white",
+            "quantity": 1,
+            "unit_price": 6.0,
+            "total_price": 6.0
+        }
+    ],
+    "subtotal": "6.00",
+    "gst": "0.55",
+    "total": "6.00",
+    "payment": {
+        "Credit Card": 0.6,
+        "Debit Card": 5.4
+    }
+}

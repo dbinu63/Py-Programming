@@ -1,0 +1,38 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            05/06/2024            
+
+Terminal 002
+Cashier Scott
+Customer Leslie
+
+Salmon bagel      2          13.20
+                             26.40
+English muffin    3           6.60
+                             19.80
+Glazed donut      2           4.40
+                              8.80
+
+Subtotal                     55.00
+
+* Promotions
+ 5% off Salmon bagel
+                             -1.32
+ Buy 2x English muffin, save 30%
+                             -3.96
+
+GST Included                  4.52
+Total                        49.72
+
+Payments
+BPAY                          4.97
+Gift Card                    44.75
+
+     You earnt 4,972 points!      
+
+Reference 2209696:240605:00938
+
+           Stay healthy           
+----------------------------------

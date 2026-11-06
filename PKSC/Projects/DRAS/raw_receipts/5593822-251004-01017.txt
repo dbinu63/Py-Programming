@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            04/10/2025            
+
+Terminal 004
+Cashier Kevin
+Customer Johnathan
+
+Swim goggles      3          22.80
+                             68.40
+Swim goggles      1          22.80
+Rescue training   3          57.00
+                            171.00
+Shampoo           3           5.80
+                             17.40
+
+Subtotal                    279.60
+
+GST Included                 25.42
+Total                       279.60
+
+Payments
+EFTPOS                      279.60
+
+     You earnt 27,960 points!     
+
+Reference 5593822:251004:01017
+
+            Thank you             
+----------------------------------

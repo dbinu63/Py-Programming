@@ -1,0 +1,38 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            12/01/2029            
+
+Terminal 005
+Cashier Barbara
+
+Hair tonic        1          16.60
+Spray bottle      2          26.80
+                             53.60
+Pomade            2          17.60
+                             35.20
+Hairwax           2          17.60
+                             35.20
+
+Subtotal                    140.60
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -3.52
+ 25% off Spray bottle
+                            -13.40
+ 25% off Hairwax
+                             -8.80
+
+GST Included                 10.44
+Total                       114.88
+
+Payments
+Gift Card                    45.95
+BPAY                         68.93
+
+Reference 3795898:290112:02653
+
+              Cheers              
+----------------------------------

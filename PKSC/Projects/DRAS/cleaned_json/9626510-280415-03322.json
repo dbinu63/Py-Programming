@@ -1,0 +1,26 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2028-04-15",
+    "month": 4,
+    "year": 2028,
+    "terminal": "004",
+    "cashier": "Jennifer",
+    "customer": null,
+    "reference": "9626510:280415:03322",
+    "items": [
+        {
+            "product": "Garlic prawn",
+            "quantity": 3,
+            "unit_price": 20.8,
+            "total_price": 62.4
+        }
+    ],
+    "subtotal": "62.40",
+    "gst": "5.67",
+    "total": "62.40",
+    "payment": {
+        "Credit Card": 37.44,
+        "BPAY": 24.96
+    }
+}

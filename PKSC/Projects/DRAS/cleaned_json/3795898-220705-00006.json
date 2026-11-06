@@ -1,0 +1,26 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2022-07-05",
+    "month": 7,
+    "year": 2022,
+    "terminal": "005",
+    "cashier": "Jonathon",
+    "customer": null,
+    "reference": "3795898:220705:00006",
+    "items": [
+        {
+            "product": "Classic brush",
+            "quantity": 1,
+            "unit_price": 14.0,
+            "total_price": 14.0
+        }
+    ],
+    "subtotal": "14.00",
+    "gst": "1.27",
+    "total": "14.00",
+    "payment": {
+        "EFTPOS": 2.8,
+        "BPAY": 11.2
+    }
+}

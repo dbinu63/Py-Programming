@@ -1,0 +1,32 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2022-10-04",
+    "month": 10,
+    "year": 2022,
+    "terminal": "002",
+    "cashier": "Jonathon",
+    "customer": "Jacob",
+    "reference": "3795898:221004:00091",
+    "items": [
+        {
+            "product": "Hairspray",
+            "quantity": 2,
+            "unit_price": 25.0,
+            "total_price": 50.0
+        },
+        {
+            "product": "Classic brush",
+            "quantity": 3,
+            "unit_price": 14.0,
+            "total_price": 42.0
+        }
+    ],
+    "subtotal": "92.00",
+    "gst": "8.36",
+    "total": "92.00",
+    "payment": {
+        "Loyalty Points": 46.95,
+        "Gift Card": 45.05
+    }
+}

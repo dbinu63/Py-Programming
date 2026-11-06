@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            30/01/2026            
+
+Terminal 001
+Cashier Jonathon
+Customer Catherine
+
+Pomade            1          15.20
+Broom             3          47.20
+                            141.60
+Cape grey         3          54.00
+                            162.00
+
+Subtotal                    318.80
+
+GST Included                 28.98
+Total                       318.80
+
+Payments
+BPAY                        318.80
+
+     You earnt 31,880 points!     
+
+Reference 3795898:260130:01358
+
+           See you soon           
+----------------------------------

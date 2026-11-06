@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            14/10/2022            
+
+Terminal 002
+Cashier Donna
+
+Casual access     1           6.00
+Infant lesson     2          15.00
+                             30.00
+Aquaerobics       3          12.00
+                             36.00
+Sync diving       3          20.00
+                             60.00
+
+Subtotal                    132.00
+
+GST Included                 12.00
+Total                       132.00
+
+Payments
+BPAY                        132.00
+
+Reference 5593822:221014:00079
+
+     Pleasure doing business      
+----------------------------------

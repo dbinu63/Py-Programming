@@ -1,0 +1,37 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2025-07-24",
+    "month": 7,
+    "year": 2025,
+    "terminal": "003",
+    "cashier": "Amber",
+    "customer": "Robert",
+    "reference": "9626510:250724:01570",
+    "items": [
+        {
+            "product": "Ham and Cheese",
+            "quantity": 3,
+            "unit_price": 13.8,
+            "total_price": 41.4
+        },
+        {
+            "product": "Spicy chicken",
+            "quantity": 1,
+            "unit_price": 15.0,
+            "total_price": 15.0
+        },
+        {
+            "product": "Spicy chicken",
+            "quantity": 2,
+            "unit_price": 15.0,
+            "total_price": 30.0
+        }
+    ],
+    "subtotal": "91.60",
+    "gst": "8.33",
+    "total": "91.60",
+    "payment": {
+        "Gift Card": 91.6
+    }
+}

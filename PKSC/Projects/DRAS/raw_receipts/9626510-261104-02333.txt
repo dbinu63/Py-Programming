@@ -1,0 +1,37 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            04/11/2026            
+
+Terminal 003
+Cashier Ronald
+Customer Gary
+
+Hawaiian          2          14.60
+                             29.20
+Garlic prawn      1          19.40
+Spicy chicken     2          15.80
+                             31.60
+Chips             3           7.30
+                             21.90
+
+Subtotal                    102.10
+
+* Promotions
+ Buy 2x Chips, save 5%
+                             -0.73
+
+GST Included                  9.22
+Total                       101.37
+
+Payments
+Cash                         71.35
+BPAY                         30.02
+
+     You earnt 10,137 points!     
+
+Reference 9626510:261104:02333
+
+     Pleasure doing business      
+----------------------------------

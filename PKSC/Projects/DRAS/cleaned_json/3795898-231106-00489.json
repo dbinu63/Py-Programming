@@ -1,0 +1,32 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2023-11-06",
+    "month": 11,
+    "year": 2023,
+    "terminal": "002",
+    "cashier": "Kathryn",
+    "customer": "Samantha",
+    "reference": "3795898:231106:00489",
+    "items": [
+        {
+            "product": "Hairwax",
+            "quantity": 2,
+            "unit_price": 13.2,
+            "total_price": 26.4
+        },
+        {
+            "product": "Classic brush",
+            "quantity": 2,
+            "unit_price": 14.8,
+            "total_price": 29.6
+        }
+    ],
+    "subtotal": "56.00",
+    "gst": "5.09",
+    "total": "56.00",
+    "payment": {
+        "Gift Card": 5.6,
+        "BPAY": 50.4
+    }
+}

@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            21/03/2024            
+
+Terminal 001
+Cashier Jennifer
+Customer Meghan
+
+Rescue training   2          55.00
+                            110.00
+Egg+Bac burger    1           5.60
+Towel             2          16.60
+                             33.20
+
+Subtotal                    148.80
+
+* Promotions
+ Buy 2x Towel, save 15%
+                             -4.98
+ 20% off Rescue training
+                            -22.00
+
+GST Included                 11.07
+Total                       121.82
+
+Payments
+Loyalty Points              121.82
+
+Reference 5593822:240321:00522
+
+            Drive safe            
+----------------------------------

@@ -1,0 +1,38 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2029-06-11",
+    "month": 6,
+    "year": 2029,
+    "terminal": "001",
+    "cashier": "Kathleen",
+    "customer": null,
+    "reference": "3795898:290611:02840",
+    "items": [
+        {
+            "product": "Hair tonic",
+            "quantity": 2,
+            "unit_price": 16.6,
+            "total_price": 33.2
+        },
+        {
+            "product": "Hair tonic",
+            "quantity": 3,
+            "unit_price": 16.6,
+            "total_price": 49.8
+        },
+        {
+            "product": "Shaving cream",
+            "quantity": 1,
+            "unit_price": 16.6,
+            "total_price": 16.6
+        }
+    ],
+    "subtotal": "99.60",
+    "gst": "9.05",
+    "total": "99.60",
+    "payment": {
+        "Cash": 39.1,
+        "BPAY": 60.5
+    }
+}

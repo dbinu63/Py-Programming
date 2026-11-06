@@ -1,0 +1,25 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            29/12/2022            
+
+Terminal 001
+Cashier Jonathon
+Customer Shelley
+
+Classic brush     3          14.00
+                             42.00
+
+Subtotal                     42.00
+
+GST Included                  3.82
+Total                        42.00
+
+Payments
+Loyalty Points               42.00
+
+Reference 3795898:221229:00172
+
+           See you soon           
+----------------------------------

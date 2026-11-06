@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            04/10/2024            
+
+Terminal 003
+Cashier Donna
+Customer Elizabeth
+
+Sync diving       3          22.00
+                             66.00
+Waterpolo         1          13.20
+Swim cap          2          11.20
+                             22.40
+
+Subtotal                    101.60
+
+* Promotions
+ Buy 2x Sync diving, save 30%
+                            -13.20
+
+GST Included                  8.04
+Total                        88.40
+
+Payments
+Cash                         54.45
+Loyalty Points               33.95
+
+     You earnt 5,445 points!      
+
+Reference 5593822:241004:00683
+
+     Pleasure doing business      
+----------------------------------

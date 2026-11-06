@@ -1,0 +1,44 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2028-05-15",
+    "month": 5,
+    "year": 2028,
+    "terminal": "004",
+    "cashier": "Michael",
+    "customer": "Linda",
+    "reference": "3795898:280515:02347",
+    "items": [
+        {
+            "product": "Spray bottle",
+            "quantity": 2,
+            "unit_price": 25.4,
+            "total_price": 50.8
+        },
+        {
+            "product": "Cape grey",
+            "quantity": 3,
+            "unit_price": 58.5,
+            "total_price": 175.5
+        },
+        {
+            "product": "Spray bottle",
+            "quantity": 1,
+            "unit_price": 25.4,
+            "total_price": 25.4
+        },
+        {
+            "product": "Cape grey",
+            "quantity": 1,
+            "unit_price": 58.5,
+            "total_price": 58.5
+        }
+    ],
+    "subtotal": "310.20",
+    "gst": "23.95",
+    "total": "263.40",
+    "payment": {
+        "Cash": 68.95,
+        "Credit Card": 194.45
+    }
+}

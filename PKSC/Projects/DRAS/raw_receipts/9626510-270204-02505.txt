@@ -1,0 +1,34 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            04/02/2027            
+
+Terminal 001
+Cashier Steven
+
+Chips             2           7.60
+                             15.20
+Garlic bread      3           7.60
+                             22.80
+Three meat        3          20.00
+                             60.00
+Chips             2           7.60
+                             15.20
+
+Subtotal                    113.20
+
+* Promotions
+ Buy 3x Garlic bread, save 25%
+                             -5.70
+
+GST Included                  9.77
+Total                       107.50
+
+Payments
+BPAY                        107.50
+
+Reference 9626510:270204:02505
+
+           Stay healthy           
+----------------------------------

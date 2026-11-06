@@ -1,0 +1,30 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            04/08/2028            
+
+Terminal 001
+Cashier Natasha
+Customer William
+
+Cape white        2          58.50
+                            117.00
+Cape white        2          58.50
+                            117.00
+
+Subtotal                    234.00
+
+GST Included                 21.27
+Total                       234.00
+
+Payments
+Loyalty Points              233.60
+BPAY                          0.40
+
+       You earnt 40 points!       
+
+Reference 3795898:280804:02448
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,18 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2023-06-09",
+    "month": 6,
+    "year": 2023,
+    "terminal": "002",
+    "cashier": "Kevin",
+    "customer": "Patricia",
+    "reference": "5593822:230609:00284",
+    "items": [],
+    "subtotal": "15.90",
+    "gst": "1.45",
+    "total": "15.90",
+    "payment": {
+        "BPAY": 15.9
+    }
+}

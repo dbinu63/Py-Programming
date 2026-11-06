@@ -1,0 +1,37 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            08/10/2027            
+
+Terminal 001
+Cashier Michael
+Customer Linda
+
+Soap 500mL        3           8.20
+                             24.60
+Soap 500mL        2           8.20
+                             16.40
+Spray bottle      3          24.40
+                             73.20
+Cape white        2          56.00
+                            112.00
+
+Subtotal                    226.20
+
+* Promotions
+ Buy 2x Cape white, save 10%
+                            -11.20
+
+GST Included                 19.55
+Total                       215.00
+
+Payments
+Gift Card                   215.00
+
+     You earnt 21,500 points!     
+
+Reference 3795898:271008:02079
+
+     Pleasure doing business      
+----------------------------------

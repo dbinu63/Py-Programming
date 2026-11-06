@@ -1,0 +1,44 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2023-01-12",
+    "month": 1,
+    "year": 2023,
+    "terminal": "002",
+    "cashier": "Tara",
+    "customer": "Linda",
+    "reference": "9626510:230112:00235",
+    "items": [
+        {
+            "product": "Cheese bread",
+            "quantity": 3,
+            "unit_price": 6.3,
+            "total_price": 18.9
+        },
+        {
+            "product": "Chips",
+            "quantity": 3,
+            "unit_price": 6.3,
+            "total_price": 18.9
+        },
+        {
+            "product": "Garlic bread",
+            "quantity": 1,
+            "unit_price": 6.3,
+            "total_price": 6.3
+        },
+        {
+            "product": "Garlic bread",
+            "quantity": 3,
+            "unit_price": 6.3,
+            "total_price": 18.9
+        }
+    ],
+    "subtotal": "63.00",
+    "gst": "5.18",
+    "total": "57.02",
+    "payment": {
+        "Loyalty Points": 2.7,
+        "Debit Card": 54.32
+    }
+}

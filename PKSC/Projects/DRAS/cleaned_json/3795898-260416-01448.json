@@ -1,0 +1,37 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2026-04-16",
+    "month": 4,
+    "year": 2026,
+    "terminal": "003",
+    "cashier": "Eric",
+    "customer": "Kelly",
+    "reference": "3795898:260416:01448",
+    "items": [
+        {
+            "product": "Pomade",
+            "quantity": 1,
+            "unit_price": 15.2,
+            "total_price": 15.2
+        },
+        {
+            "product": "Cape grey",
+            "quantity": 2,
+            "unit_price": 54.0,
+            "total_price": 108.0
+        },
+        {
+            "product": "Pomade",
+            "quantity": 2,
+            "unit_price": 15.2,
+            "total_price": 30.4
+        }
+    ],
+    "subtotal": "153.60",
+    "gst": "13.96",
+    "total": "153.60",
+    "payment": {
+        "EFTPOS": 153.6
+    }
+}

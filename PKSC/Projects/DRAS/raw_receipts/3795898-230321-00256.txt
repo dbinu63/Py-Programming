@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            21/03/2023            
+
+Terminal 003
+Cashier Jonathon
+
+Classic brush     3          14.80
+                             44.40
+Cape white        2          46.80
+                             93.60
+Soap 500mL        2           6.90
+                             13.80
+Cape white        1          46.80
+
+Subtotal                    198.60
+
+* Promotions
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+ Buy 3x Classic brush, save 30%
+                            -13.32
+
+GST Included                 16.72
+Total                       183.90
+
+Payments
+EFTPOS                       55.17
+Gift Card                   128.73
+
+Reference 3795898:230321:00256
+
+            Drive safe            
+----------------------------------

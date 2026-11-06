@@ -1,0 +1,34 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            18/07/2023            
+
+Terminal 002
+Cashier Leslie
+Customer James
+
+Latte             2           4.20
+                              8.40
+English muffin    2           6.30
+                             12.60
+Ham bagel         1          10.60
+
+Subtotal                     31.60
+
+* Promotions
+ 10% off English muffin
+                             -1.26
+
+GST Included                  2.76
+Total                        30.34
+
+Payments
+BPAY                         30.34
+
+     You earnt 3,034 points!      
+
+Reference 2209696:230718:00490
+
+              Cheers              
+----------------------------------

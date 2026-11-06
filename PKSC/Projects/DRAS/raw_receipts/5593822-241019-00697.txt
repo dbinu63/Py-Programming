@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            19/10/2024            
+
+Terminal 005
+Cashier Kevin
+Customer Scott
+
+Swim cap          3          11.20
+                             33.60
+Water bottle      3           7.80
+                             23.40
+
+Subtotal                     57.00
+
+* Promotions
+ 25% off Water bottle
+                             -5.85
+
+GST Included                  4.65
+Total                        51.15
+
+Payments
+Debit Card                   30.69
+BPAY                         20.46
+
+     You earnt 5,115 points!      
+
+Reference 5593822:241019:00697
+
+           Stay healthy           
+----------------------------------

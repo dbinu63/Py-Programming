@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            12/05/2029            
+
+Terminal 004
+Cashier Mary
+
+Shampoo           2           7.10
+                             14.20
+Towel             3          20.60
+                             61.80
+
+Subtotal                     76.00
+
+* Promotions
+ Buy 2x Shampoo, save 20%
+                             -2.84
+ Buy 2x Towel, save 15%
+                             -6.18
+
+GST Included                  6.09
+Total                        66.98
+
+Payments
+Gift Card                    66.98
+
+Reference 5593822:290512:02343
+
+            Thank you             
+----------------------------------

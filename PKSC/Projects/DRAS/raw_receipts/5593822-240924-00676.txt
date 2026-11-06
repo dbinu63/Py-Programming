@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            24/09/2024            
+
+Terminal 005
+Cashier Donna
+Customer Elijah
+
+Egg+Bac burger    2           5.60
+                             11.20
+Swim cap          3          11.20
+                             33.60
+Water bottle      1           7.80
+
+Subtotal                     52.60
+
+* Promotions
+ 25% off Water bottle
+                             -1.95
+
+GST Included                  4.60
+Total                        50.65
+
+Payments
+EFTPOS                       50.65
+
+     You earnt 5,065 points!      
+
+Reference 5593822:240924:00676
+
+            Thank you             
+----------------------------------

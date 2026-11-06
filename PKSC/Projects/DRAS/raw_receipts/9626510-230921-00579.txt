@@ -1,0 +1,29 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            21/09/2023            
+
+Terminal 001
+Cashier Ronald
+Customer Robert
+
+Just Cheese       1          12.60
+Chips             1           6.30
+Cheese bread      2           6.30
+                             12.60
+
+Subtotal                     31.50
+
+GST Included                  2.86
+Total                        31.50
+
+Payments
+BPAY                         31.50
+
+     You earnt 3,150 points!      
+
+Reference 9626510:230921:00579
+
+     Pleasure doing business      
+----------------------------------

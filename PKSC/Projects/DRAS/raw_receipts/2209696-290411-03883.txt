@@ -1,0 +1,32 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            11/04/2029            
+
+Terminal 001
+Cashier Hector
+
+Mocha             2           5.10
+                             10.20
+Cupcake           3           9.80
+                             29.40
+Cupcake           1           9.80
+
+Subtotal                     49.40
+
+* Promotions
+ Buy 2x Cupcake, save 25%
+                             -9.80
+
+GST Included                  3.60
+Total                        39.60
+
+Payments
+BPAY                         35.64
+Gift Card                     3.96
+
+Reference 2209696:290411:03883
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            02/01/2023            
+
+Terminal 004
+Cashier Jennifer
+
+Sync diving       1          21.00
+Sync diving       1          21.00
+Towel             3          15.80
+                             47.40
+Sync diving       3          21.00
+                             63.00
+
+Subtotal                    152.40
+
+GST Included                 13.85
+Total                       152.40
+
+Payments
+EFTPOS                      137.16
+Debit Card                   15.24
+
+Reference 5593822:230102:00132
+
+              Cheers              
+----------------------------------

@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/03/2023            
+
+Terminal 001
+Cashier Jonathon
+Customer Scott
+
+Classic brush     2          14.80
+                             29.60
+Classic brush     1          14.80
+Cape white        2          46.80
+                             93.60
+Hairspray         1          26.20
+
+Subtotal                    164.20
+
+* Promotions
+ Buy 3x Classic brush, save 30%
+                            -13.32
+
+GST Included                 13.72
+Total                       150.88
+
+Payments
+Loyalty Points               79.70
+Debit Card                   71.18
+
+     You earnt 7,118 points!      
+
+Reference 3795898:230310:00248
+
+            Drive safe            
+----------------------------------

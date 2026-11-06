@@ -1,0 +1,25 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2029-03-23",
+    "month": 3,
+    "year": 2029,
+    "terminal": "003",
+    "cashier": "Barbara",
+    "customer": "Carol",
+    "reference": "3795898:290323:02740",
+    "items": [
+        {
+            "product": "Hair tonic",
+            "quantity": 1,
+            "unit_price": 16.6,
+            "total_price": 16.6
+        }
+    ],
+    "subtotal": "16.60",
+    "gst": "1.51",
+    "total": "16.60",
+    "payment": {
+        "Gift Card": 16.6
+    }
+}

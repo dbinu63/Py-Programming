@@ -1,0 +1,35 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            15/05/2029            
+
+Terminal 004
+Cashier Joseph
+Customer Johnathan
+
+Sync diving       1          27.20
+Hot chips         2           7.10
+                             14.20
+Aquaerobics       3          16.60
+                             49.80
+Towel             1          20.60
+
+Subtotal                    111.80
+
+* Promotions
+ Buy 2x Aquaerobics, save 30%
+                             -9.96
+
+GST Included                  9.26
+Total                       101.84
+
+Payments
+Credit Card                 101.84
+
+     You earnt 10,184 points!     
+
+Reference 5593822:290515:02347
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/09/2023            
+
+Terminal 004
+Cashier Anthony
+Customer Lindsey
+
+Hairwax           1          13.20
+Cape grey         2          46.80
+                             93.60
+Razorblade        1          15.80
+Classic brush     2          14.80
+                             29.60
+
+Subtotal                    152.20
+
+* Promotions
+ Buy 2x Cape grey, save 15%
+                            -14.04
+
+GST Included                 12.56
+Total                       138.16
+
+Payments
+Loyalty Points               34.35
+Gift Card                   103.81
+
+     You earnt 10,381 points!     
+
+Reference 3795898:230911:00427
+
+              Cheers              
+----------------------------------

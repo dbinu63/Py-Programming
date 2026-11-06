@@ -1,0 +1,29 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            24/08/2022            
+
+Terminal 005
+Cashier Donna
+
+Aquaerobics       3          12.00
+                             36.00
+Shampoo           2           5.00
+                             10.00
+Infant lesson     3          15.00
+                             45.00
+
+Subtotal                     91.00
+
+GST Included                  8.27
+Total                        91.00
+
+Payments
+BPAY                         72.80
+Credit Card                  18.20
+
+Reference 5593822:220824:00039
+
+            Thank you             
+----------------------------------

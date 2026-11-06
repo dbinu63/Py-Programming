@@ -1,0 +1,39 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            18/05/2029            
+
+Terminal 005
+Cashier Thomas
+Customer William
+
+Pomade            3          17.60
+                             52.80
+Shaving cream     2          16.60
+                             33.20
+Spray bottle      3          26.80
+                             80.40
+Shaving cream     1          16.60
+
+Subtotal                    183.00
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -3.52
+ 25% off Spray bottle
+                            -20.10
+
+GST Included                 14.49
+Total                       159.38
+
+Payments
+Credit Card                  79.69
+Debit Card                   79.69
+
+     You earnt 15,938 points!     
+
+Reference 3795898:290518:02816
+
+            Thank you             
+----------------------------------

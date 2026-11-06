@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            25/11/2025            
+
+Terminal 005
+Cashier Jonathon
+Customer Catherine
+
+Razorblade        3          17.20
+                             51.60
+Pomade            1          14.40
+Scissors          3          39.80
+                            119.40
+
+Subtotal                    185.40
+
+* Promotions
+ Buy 2x Scissors, save 20%
+                            -15.92
+ Buy 2x Razorblade, save 5%
+                             -1.72
+
+GST Included                 15.25
+Total                       167.76
+
+Payments
+Cash                        167.75
+
+     You earnt 16,775 points!     
+
+Reference 3795898:251125:01282
+
+              Cheers              
+----------------------------------

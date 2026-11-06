@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            11/05/2027            
+
+Terminal 001
+Cashier Scott
+Customer Michaela
+
+Spray bottle      3          24.40
+                             73.20
+Spray bottle      2          24.40
+                             48.80
+Razorblade        3          18.80
+                             56.40
+Scissors          1          43.20
+
+Subtotal                    221.60
+
+GST Included                 20.15
+Total                       221.60
+
+Payments
+Loyalty Points              112.90
+Debit Card                  108.70
+
+     You earnt 10,870 points!     
+
+Reference 3795898:270511:01898
+
+           See you soon           
+----------------------------------

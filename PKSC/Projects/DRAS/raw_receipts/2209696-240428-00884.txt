@@ -1,0 +1,36 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            28/04/2024            
+
+Terminal 001
+Cashier Scott
+Customer Dorothy
+
+Salmon bagel      2          13.20
+                             26.40
+Macarons          2           4.40
+                              8.80
+Ham bagel         3          11.20
+                             33.60
+
+Subtotal                     68.80
+
+* Promotions
+ 5% off Salmon bagel
+                             -1.32
+
+GST Included                  6.13
+Total                        67.48
+
+Payments
+Cash                         62.40
+Loyalty Points                5.08
+
+     You earnt 6,240 points!      
+
+Reference 2209696:240428:00884
+
+     Pleasure doing business      
+----------------------------------

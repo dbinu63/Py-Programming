@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            07/07/2023            
+
+Terminal 002
+Cashier Anthony
+Customer Jacob
+
+Cape grey         2          46.80
+                             93.60
+Spray bottle      1          20.60
+Hairwax           2          13.20
+                             26.40
+Hairwax           1          13.20
+
+Subtotal                    153.80
+
+* Promotions
+ Buy 2x Cape grey, save 15%
+                            -14.04
+
+GST Included                 12.71
+Total                       139.76
+
+Payments
+Cash                        139.75
+
+     You earnt 13,975 points!     
+
+Reference 3795898:230707:00365
+
+           See you soon           
+----------------------------------

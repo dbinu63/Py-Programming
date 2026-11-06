@@ -1,0 +1,36 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            03/02/2023            
+
+Terminal 001
+Cashier Scott
+Customer Marvin
+
+Cappuccino        1           5.30
+English muffin    3           6.30
+                             18.90
+Ham toastie       1           6.90
+Salmon bagel      2          12.60
+                             25.20
+
+Subtotal                     56.30
+
+* Promotions
+ 10% off English muffin
+                             -1.89
+
+GST Included                  4.95
+Total                        54.41
+
+Payments
+EFTPOS                       10.88
+BPAY                         43.53
+
+     You earnt 5,441 points!      
+
+Reference 2209696:230203:00271
+
+              Cheers              
+----------------------------------

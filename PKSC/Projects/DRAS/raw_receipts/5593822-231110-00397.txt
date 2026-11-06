@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            10/11/2023            
+
+Terminal 005
+Cashier Kevin
+Customer Elizabeth
+
+Water bottle      1           7.40
+Towel             3          15.80
+                             47.40
+Egg+Bac burger    2           5.30
+                             10.60
+Towel             2          15.80
+                             31.60
+
+Subtotal                     97.00
+
+GST Included                  8.82
+Total                        97.00
+
+Payments
+Debit Card                   97.00
+
+     You earnt 9,700 points!      
+
+Reference 5593822:231110:00397
+
+              Cheers              
+----------------------------------

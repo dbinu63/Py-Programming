@@ -1,0 +1,33 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            02/06/2026            
+
+Terminal 003
+Cashier Mary
+Customer Ricardo
+
+Long Black        2           4.40
+                              8.80
+Cupcake           1           8.60
+Mocha             1           4.40
+
+Subtotal                     21.80
+
+* Promotions
+ 15% off Mocha
+                             -0.66
+ 10% off Cupcake
+                             -0.86
+
+GST Included                  1.84
+Total                        20.28
+
+Payments
+Loyalty Points               20.28
+
+Reference 2209696:260602:02042
+
+     Pleasure doing business      
+----------------------------------

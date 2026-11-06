@@ -1,0 +1,39 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            07/06/2029            
+
+Terminal 003
+Cashier Robert
+Customer Melissa
+
+Glazed donut      3           5.60
+                             16.80
+Ham toastie       3           9.10
+                             27.30
+Ham toastie       1           9.10
+Cupcake           2           9.80
+                             19.60
+
+Subtotal                     72.80
+
+* Promotions
+ Buy 2x Cupcake, save 25%
+                             -4.90
+ Buy 3x Ham toastie, save 25%
+                             -6.82
+
+GST Included                  5.55
+Total                        61.07
+
+Payments
+Loyalty Points               22.20
+BPAY                         38.87
+
+     You earnt 3,887 points!      
+
+Reference 2209696:290607:03983
+
+              Cheers              
+----------------------------------

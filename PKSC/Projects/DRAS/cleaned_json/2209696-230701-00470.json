@@ -1,0 +1,38 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-07-01",
+    "month": 7,
+    "year": 2023,
+    "terminal": "002",
+    "cashier": "Scott",
+    "customer": "Robert",
+    "reference": "2209696:230701:00470",
+    "items": [
+        {
+            "product": "English muffin",
+            "quantity": 2,
+            "unit_price": 6.3,
+            "total_price": 12.6
+        },
+        {
+            "product": "Macarons",
+            "quantity": 1,
+            "unit_price": 4.2,
+            "total_price": 4.2
+        },
+        {
+            "product": "English muffin",
+            "quantity": 3,
+            "unit_price": 6.3,
+            "total_price": 18.9
+        }
+    ],
+    "subtotal": "35.70",
+    "gst": "2.96",
+    "total": "32.55",
+    "payment": {
+        "Loyalty Points": 28.8,
+        "Debit Card": 3.75
+    }
+}

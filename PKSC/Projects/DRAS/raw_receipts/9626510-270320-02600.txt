@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            20/03/2027            
+
+Terminal 005
+Cashier Levi
+Customer Mary
+
+Vego              2          15.20
+                             30.40
+Vego              2          15.20
+                             30.40
+Three meat        2          20.00
+                             40.00
+Three meat        1          20.00
+
+Subtotal                    120.80
+
+GST Included                 10.98
+Total                       120.80
+
+Payments
+EFTPOS                       36.24
+Debit Card                   84.56
+
+     You earnt 12,080 points!     
+
+Reference 9626510:270320:02600
+
+              Cheers              
+----------------------------------

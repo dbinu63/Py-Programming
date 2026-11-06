@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            13/10/2028            
+
+Terminal 002
+Cashier Michael
+Customer Angela
+
+Hairwax           3          16.60
+                             49.80
+Pomade            2          16.60
+                             33.20
+Hairwax           1          16.60
+
+Subtotal                     99.60
+
+GST Included                  9.05
+Total                        99.60
+
+Payments
+Loyalty Points               94.40
+Credit Card                   5.20
+
+      You earnt 520 points!       
+
+Reference 3795898:281013:02534
+
+              Cheers              
+----------------------------------

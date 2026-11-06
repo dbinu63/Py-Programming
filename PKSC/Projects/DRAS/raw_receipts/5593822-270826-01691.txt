@@ -1,0 +1,37 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            26/08/2027            
+
+Terminal 001
+Cashier Kevin
+Customer William
+
+Rescue training   2          62.00
+                            124.00
+Rescue training   1          62.00
+Aquaerobics       3          15.20
+                             45.60
+Hot chips         3           6.40
+                             19.20
+
+Subtotal                    250.80
+
+* Promotions
+ Buy 2x Hot chips, save 25%
+                             -3.20
+
+GST Included                 22.51
+Total                       247.60
+
+Payments
+Cash                         62.00
+EFTPOS                      185.60
+
+     You earnt 24,760 points!     
+
+Reference 5593822:270826:01691
+
+              Cheers              
+----------------------------------

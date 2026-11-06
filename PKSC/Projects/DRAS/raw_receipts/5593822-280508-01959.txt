@@ -1,0 +1,26 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            08/05/2028            
+
+Terminal 002
+Cashier Donna
+
+Shampoo           3           6.70
+                             20.10
+Egg+Bac burger    2           6.70
+                             13.40
+
+Subtotal                     33.50
+
+GST Included                  3.05
+Total                        33.50
+
+Payments
+EFTPOS                       33.50
+
+Reference 5593822:280508:01959
+
+            Thank you             
+----------------------------------

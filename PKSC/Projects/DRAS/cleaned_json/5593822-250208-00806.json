@@ -1,0 +1,38 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2025-02-08",
+    "month": 2,
+    "year": 2025,
+    "terminal": "001",
+    "cashier": "Kevin",
+    "customer": "Natalie",
+    "reference": "5593822:250208:00806",
+    "items": [
+        {
+            "product": "Swim cap",
+            "quantity": 1,
+            "unit_price": 11.6,
+            "total_price": 11.6
+        },
+        {
+            "product": "Rescue training",
+            "quantity": 2,
+            "unit_price": 57.0,
+            "total_price": 114.0
+        },
+        {
+            "product": "Casual access",
+            "quantity": 1,
+            "unit_price": 6.9,
+            "total_price": 6.9
+        }
+    ],
+    "subtotal": "149.90",
+    "gst": "13.63",
+    "total": "149.90",
+    "payment": {
+        "Cash": 48.25,
+        "Loyalty Points": 101.65
+    }
+}

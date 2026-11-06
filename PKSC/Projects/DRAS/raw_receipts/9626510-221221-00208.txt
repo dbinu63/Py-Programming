@@ -1,0 +1,29 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            21/12/2022            
+
+Terminal 004
+Cashier Ronald
+
+Just Cheese       3          12.00
+                             36.00
+Chips             3           6.00
+                             18.00
+Chips             1           6.00
+Just Cheese       2          12.00
+                             24.00
+
+Subtotal                     84.00
+
+GST Included                  7.64
+Total                        84.00
+
+Payments
+EFTPOS                       84.00
+
+Reference 9626510:221221:00208
+
+            Thank you             
+----------------------------------

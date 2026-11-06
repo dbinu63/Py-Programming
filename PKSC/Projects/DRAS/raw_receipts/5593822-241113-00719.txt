@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            13/11/2024            
+
+Terminal 002
+Cashier Kevin
+Customer Scott
+
+Waterpolo         3          13.20
+                             39.60
+Sync diving       2          22.00
+                             44.00
+Egg+Bac burger    1           5.60
+
+Subtotal                     89.20
+
+* Promotions
+ Buy 2x Sync diving, save 30%
+                            -13.20
+
+GST Included                  6.91
+Total                        76.00
+
+Payments
+BPAY                         76.00
+
+     You earnt 7,600 points!      
+
+Reference 5593822:241113:00719
+
+            Thank you             
+----------------------------------

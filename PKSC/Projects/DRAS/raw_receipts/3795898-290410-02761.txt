@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/04/2029            
+
+Terminal 005
+Cashier Justin
+
+Spray bottle      2          26.80
+                             53.60
+Pomade            3          17.60
+                             52.80
+Hair tonic        1          16.60
+Shaving cream     2          16.60
+                             33.20
+
+Subtotal                    156.20
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -3.52
+ 25% off Spray bottle
+                            -13.40
+
+GST Included                 12.66
+Total                       139.28
+
+Payments
+EFTPOS                       97.50
+Debit Card                   41.78
+
+Reference 3795898:290410:02761
+
+     Pleasure doing business      
+----------------------------------

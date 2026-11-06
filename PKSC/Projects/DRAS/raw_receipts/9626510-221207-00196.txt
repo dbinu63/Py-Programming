@@ -1,0 +1,29 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            07/12/2022            
+
+Terminal 001
+Cashier Ronald
+
+Garlic bread      1           6.00
+Chips             2           6.00
+                             12.00
+Just Cheese       3          12.00
+                             36.00
+Water 600mL       3           3.50
+                             10.50
+
+Subtotal                     64.50
+
+GST Included                  5.86
+Total                        64.50
+
+Payments
+Credit Card                  64.50
+
+Reference 9626510:221207:00196
+
+            Thank you             
+----------------------------------

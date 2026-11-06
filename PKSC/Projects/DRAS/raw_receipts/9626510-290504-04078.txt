@@ -1,0 +1,37 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            04/05/2029            
+
+Terminal 005
+Cashier Jennifer
+Customer Danny
+
+Pancakes          3           9.80
+                             29.40
+Water 600mL       3           5.10
+                             15.30
+Ham and Cheese    3          16.60
+                             49.80
+Pepperoni         3          18.20
+                             54.60
+
+Subtotal                    149.10
+
+* Promotions
+ 25% off Pepperoni
+                            -13.65
+
+GST Included                 12.31
+Total                       135.45
+
+Payments
+Debit Card                  135.45
+
+     You earnt 13,545 points!     
+
+Reference 9626510:290504:04078
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            08/07/2024            
+
+Terminal 004
+Cashier Donna
+Customer Patricia
+
+Water bottle      3           7.80
+                             23.40
+
+Subtotal                     23.40
+
+* Promotions
+ 25% off Water bottle
+                             -5.85
+
+GST Included                  1.60
+Total                        17.55
+
+Payments
+Credit Card                  14.04
+Debit Card                    3.51
+
+     You earnt 1,755 points!      
+
+Reference 5593822:240708:00616
+
+           See you soon           
+----------------------------------

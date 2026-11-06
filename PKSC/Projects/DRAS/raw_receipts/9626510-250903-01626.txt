@@ -1,0 +1,36 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            03/09/2025            
+
+Terminal 001
+Cashier Ronald
+Customer Jeremy
+
+Chips             2           6.90
+                             13.80
+Garlic bread      1           6.90
+Chips             3           6.90
+                             20.70
+Chips             3           6.90
+                             20.70
+
+Subtotal                     62.10
+
+* Promotions
+ Buy 3x Chips, save 30%
+                            -12.42
+
+GST Included                  4.52
+Total                        49.68
+
+Payments
+BPAY                         49.68
+
+     You earnt 4,968 points!      
+
+Reference 9626510:250903:01626
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            05/11/2027            
+
+Terminal 001
+Cashier Michael
+Customer Mariah
+
+Pomade            3          15.80
+                             47.40
+
+Subtotal                     47.40
+
+* Promotions
+ Buy 3x Pomade, save 25%
+                            -11.85
+
+GST Included                  3.23
+Total                        35.55
+
+Payments
+EFTPOS                       35.55
+
+     You earnt 3,555 points!      
+
+Reference 3795898:271105:02111
+
+            Drive safe            
+----------------------------------

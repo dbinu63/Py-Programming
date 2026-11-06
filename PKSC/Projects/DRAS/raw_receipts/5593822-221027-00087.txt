@@ -1,0 +1,27 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            27/10/2022            
+
+Terminal 004
+Cashier Theresa
+
+Shampoo           2           5.00
+                             10.00
+Casual access     3           6.00
+                             18.00
+
+Subtotal                     28.00
+
+GST Included                  2.55
+Total                        28.00
+
+Payments
+BPAY                         19.60
+Debit Card                    8.40
+
+Reference 5593822:221027:00087
+
+            Drive safe            
+----------------------------------

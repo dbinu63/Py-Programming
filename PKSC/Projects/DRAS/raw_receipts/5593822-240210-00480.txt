@@ -1,0 +1,36 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            10/02/2024            
+
+Terminal 001
+Cashier Kevin
+Customer Heidi
+
+Towel             2          16.60
+                             33.20
+Rescue training   3          55.00
+                            165.00
+
+Subtotal                    198.20
+
+* Promotions
+ Buy 2x Towel, save 15%
+                             -4.98
+ 20% off Rescue training
+                            -33.00
+
+GST Included                 14.57
+Total                       160.22
+
+Payments
+Credit Card                 112.15
+BPAY                         48.07
+
+     You earnt 16,022 points!     
+
+Reference 5593822:240210:00480
+
+           See you soon           
+----------------------------------

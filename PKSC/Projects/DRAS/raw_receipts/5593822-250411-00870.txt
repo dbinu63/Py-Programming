@@ -1,0 +1,32 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            11/04/2025            
+
+Terminal 001
+Cashier Kevin
+
+Egg+Bac burger    3           5.80
+                             17.40
+Waterpolo         1          13.80
+Rescue training   2          57.00
+                            114.00
+
+Subtotal                    145.20
+
+* Promotions
+ 10% off Waterpolo
+                             -1.38
+
+GST Included                 13.07
+Total                       143.82
+
+Payments
+Cash                         29.35
+Debit Card                  114.47
+
+Reference 5593822:250411:00870
+
+           Stay healthy           
+----------------------------------

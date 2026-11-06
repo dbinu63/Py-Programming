@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-11-15",
+    "month": 11,
+    "year": 2023,
+    "terminal": "001",
+    "cashier": "Leslie",
+    "customer": "James",
+    "reference": "2209696:231115:00651",
+    "items": [
+        {
+            "product": "Macarons",
+            "quantity": 2,
+            "unit_price": 4.2,
+            "total_price": 8.4
+        }
+    ],
+    "subtotal": "8.40",
+    "gst": "0.76",
+    "total": "8.40",
+    "payment": {
+        "EFTPOS": 5.04,
+        "BPAY": 3.36
+    }
+}

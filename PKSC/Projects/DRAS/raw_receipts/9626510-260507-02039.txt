@@ -1,0 +1,36 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            07/05/2026            
+
+Terminal 001
+Cashier Amber
+Customer Jeremy
+
+Cheese bread      3           7.30
+                             21.90
+Soft drink 2L     2           5.50
+                             11.00
+Garlic bread      2           7.30
+                             14.60
+Soft drink 2L     1           5.50
+
+Subtotal                     53.00
+
+* Promotions
+ 5% off Soft drink 2L
+                             -0.83
+
+GST Included                  4.74
+Total                        52.18
+
+Payments
+EFTPOS                       52.18
+
+     You earnt 5,218 points!      
+
+Reference 9626510:260507:02039
+
+           See you soon           
+----------------------------------

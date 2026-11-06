@@ -1,0 +1,34 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/03/2025            
+
+Terminal 005
+Cashier Jonathon
+
+Cape grey         2          51.00
+                            102.00
+Razorblade        2          17.20
+                             34.40
+Clippers kit      1          56.50
+Broom             1          44.80
+
+Subtotal                    237.70
+
+* Promotions
+ Buy 2x Cape grey, save 30%
+                            -30.60
+ Buy 2x Razorblade, save 5%
+                             -1.72
+
+GST Included                 18.67
+Total                       205.38
+
+Payments
+Credit Card                 205.38
+
+Reference 3795898:250310:01000
+
+           Stay healthy           
+----------------------------------

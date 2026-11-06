@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            25/01/2023            
+
+Terminal 001
+Cashier Jonathon
+Customer Carrie
+
+Cape white        1          46.80
+Hairspray         1          26.20
+Soap 500mL        3           6.90
+                             20.70
+
+Subtotal                     93.70
+
+* Promotions
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+
+GST Included                  8.39
+Total                        92.32
+
+Payments
+Cash                         92.30
+
+     You earnt 9,230 points!      
+
+Reference 3795898:230125:00204
+
+              Cheers              
+----------------------------------

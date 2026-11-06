@@ -1,0 +1,28 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            26/04/2023            
+
+Terminal 001
+Cashier Jonathon
+Customer Darren
+
+Cape grey         1          46.80
+Cape white        2          46.80
+                             93.60
+
+Subtotal                    140.40
+
+GST Included                 12.76
+Total                       140.40
+
+Payments
+BPAY                        140.40
+
+     You earnt 14,040 points!     
+
+Reference 3795898:230426:00288
+
+           See you soon           
+----------------------------------

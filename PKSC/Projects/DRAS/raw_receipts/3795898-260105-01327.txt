@@ -1,0 +1,34 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            05/01/2026            
+
+Terminal 003
+Cashier Jonathon
+Customer Scott
+
+Scissors          3          42.00
+                            126.00
+Scissors          3          42.00
+                            126.00
+
+Subtotal                    252.00
+
+* Promotions
+ 5% off Scissors
+                            -12.60
+
+GST Included                 21.76
+Total                       239.40
+
+Payments
+Debit Card                  191.52
+Gift Card                    47.88
+
+     You earnt 23,940 points!     
+
+Reference 3795898:260105:01327
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,26 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2027-03-10",
+    "month": 3,
+    "year": 2027,
+    "terminal": "004",
+    "cashier": "Kevin",
+    "customer": null,
+    "reference": "5593822:270310:01540",
+    "items": [
+        {
+            "product": "Water bottle",
+            "quantity": 2,
+            "unit_price": 8.9,
+            "total_price": 17.8
+        }
+    ],
+    "subtotal": "17.80",
+    "gst": "1.62",
+    "total": "17.80",
+    "payment": {
+        "Debit Card": 10.68,
+        "EFTPOS": 7.12
+    }
+}

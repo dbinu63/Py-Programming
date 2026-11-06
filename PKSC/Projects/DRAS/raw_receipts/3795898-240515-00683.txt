@@ -1,0 +1,35 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            15/05/2024            
+
+Terminal 001
+Cashier Kathryn
+
+Cape grey         3          48.80
+                            146.40
+Face wipes        2          10.60
+                             21.20
+Spray bottle      3          21.60
+                             64.80
+
+Subtotal                    232.40
+
+* Promotions
+ 25% off Spray bottle
+                            -16.20
+ 10% off Cape grey
+                            -14.64
+
+GST Included                 18.32
+Total                       201.56
+
+Payments
+BPAY                        141.09
+Gift Card                    60.47
+
+Reference 3795898:240515:00683
+
+     Pleasure doing business      
+----------------------------------

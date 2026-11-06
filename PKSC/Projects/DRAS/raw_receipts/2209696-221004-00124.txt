@@ -1,0 +1,32 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            04/10/2022            
+
+Terminal 001
+Cashier Leslie
+Customer Robin
+
+Cappuccino        2           5.00
+                             10.00
+Ham toastie       2           6.50
+                             13.00
+Mocha             2           3.50
+                              7.00
+
+Subtotal                     30.00
+
+GST Included                  2.73
+Total                        30.00
+
+Payments
+Cash                         22.90
+Loyalty Points                7.10
+
+     You earnt 2,290 points!      
+
+Reference 2209696:221004:00124
+
+     Pleasure doing business      
+----------------------------------

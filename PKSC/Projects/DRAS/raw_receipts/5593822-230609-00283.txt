@@ -1,0 +1,27 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            09/06/2023            
+
+Terminal 002
+Cashier Theresa
+
+Aquaerobics       3          12.60
+                             37.80
+Towel             2          15.80
+                             31.60
+
+Subtotal                     69.40
+
+GST Included                  6.31
+Total                        69.40
+
+Payments
+BPAY                         13.88
+Debit Card                   55.52
+
+Reference 5593822:230609:00283
+
+              Cheers              
+----------------------------------

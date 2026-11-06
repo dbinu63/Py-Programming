@@ -1,0 +1,34 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            14/11/2028            
+
+Terminal 002
+Cashier Donna
+Customer Sean
+
+Infant lesson     2          19.60
+                             39.20
+Sync diving       1          25.80
+Egg+Bac burger    1           6.70
+
+Subtotal                     71.70
+
+* Promotions
+ 25% off Sync diving
+                             -6.45
+
+GST Included                  5.93
+Total                        65.25
+
+Payments
+Credit Card                  26.10
+BPAY                         39.15
+
+     You earnt 6,525 points!      
+
+Reference 5593822:281114:02170
+
+           See you soon           
+----------------------------------

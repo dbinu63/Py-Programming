@@ -1,0 +1,37 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            13/08/2024            
+
+Terminal 004
+Cashier Eric
+Customer Darren
+
+Razorblade        2          16.60
+                             33.20
+Soap 500mL        3           7.20
+                             21.60
+Broom             1          43.20
+Scissors          3          38.40
+                            115.20
+
+Subtotal                    213.20
+
+* Promotions
+ Buy 2x Razorblade, save 10%
+                             -3.32
+
+GST Included                 19.08
+Total                       209.88
+
+Payments
+Loyalty Points              133.65
+Credit Card                  76.23
+
+     You earnt 7,623 points!      
+
+Reference 3795898:240813:00775
+
+            Drive safe            
+----------------------------------

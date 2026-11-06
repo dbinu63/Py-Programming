@@ -1,0 +1,34 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            14/06/2023            
+
+Terminal 005
+Cashier Jonathon
+
+Razorblade        2          15.80
+                             31.60
+Hairwax           1          13.20
+Hairwax           1          13.20
+Soap 500mL        2           6.90
+                             13.80
+
+Subtotal                     71.80
+
+* Promotions
+ Buy 2x Soap 500mL, save 10%
+                             -1.38
+ Buy 2x Razorblade, save 20%
+                             -6.32
+
+GST Included                  5.83
+Total                        64.10
+
+Payments
+EFTPOS                       64.10
+
+Reference 3795898:230614:00341
+
+            Thank you             
+----------------------------------

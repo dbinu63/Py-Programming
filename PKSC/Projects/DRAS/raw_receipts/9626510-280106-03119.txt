@@ -1,0 +1,31 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            06/01/2028            
+
+Terminal 002
+Cashier Jennifer
+Customer Mary
+
+Pepperoni         3          17.20
+                             51.60
+Spicy chicken     1          17.20
+Chips             3           7.90
+                             23.70
+
+Subtotal                     92.50
+
+GST Included                  8.41
+Total                        92.50
+
+Payments
+Loyalty Points               55.60
+EFTPOS                       36.90
+
+     You earnt 3,690 points!      
+
+Reference 9626510:280106:03119
+
+            Thank you             
+----------------------------------

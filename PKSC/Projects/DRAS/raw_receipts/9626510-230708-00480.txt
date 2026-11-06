@@ -1,0 +1,38 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            08/07/2023            
+
+Terminal 002
+Cashier Joyce
+Customer Linda
+
+Soft drink 1L     2           3.70
+                              7.40
+Just Cheese       3          12.60
+                             37.80
+Three meat        3          16.80
+                             50.40
+Just Cheese       1          12.60
+
+Subtotal                    108.20
+
+* Promotions
+ Buy 2x Just Cheese, save 25%
+                            -12.60
+ 5% off Three meat
+                             -2.52
+
+GST Included                  8.46
+Total                        93.08
+
+Payments
+Debit Card                   93.08
+
+     You earnt 9,308 points!      
+
+Reference 9626510:230708:00480
+
+           See you soon           
+----------------------------------

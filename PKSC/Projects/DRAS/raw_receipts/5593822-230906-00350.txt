@@ -1,0 +1,30 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            06/09/2023            
+
+Terminal 002
+Cashier Kevin
+
+Rescue training   1          52.50
+Towel             3          15.80
+                             47.40
+Sync diving       1          21.00
+
+Subtotal                    120.90
+
+* Promotions
+ 15% off Rescue training
+                             -7.88
+
+GST Included                 10.28
+Total                       113.03
+
+Payments
+EFTPOS                      113.03
+
+Reference 5593822:230906:00350
+
+           See you soon           
+----------------------------------

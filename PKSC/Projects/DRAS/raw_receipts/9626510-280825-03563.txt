@@ -1,0 +1,29 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            25/08/2028            
+
+Terminal 001
+Cashier Amber
+
+Pancakes          2           9.30
+                             18.60
+Pepperoni         1          17.20
+Pancakes          2           9.30
+                             18.60
+Pepperoni         3          17.20
+                             51.60
+
+Subtotal                    106.00
+
+GST Included                  9.64
+Total                       106.00
+
+Payments
+Credit Card                 106.00
+
+Reference 9626510:280825:03563
+
+           See you soon           
+----------------------------------

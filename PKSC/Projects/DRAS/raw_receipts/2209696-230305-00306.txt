@@ -1,0 +1,36 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            05/03/2023            
+
+Terminal 002
+Cashier Scott
+Customer Marvin
+
+Salmon bagel      2          12.60
+                             25.20
+Ham bagel         2          10.60
+                             21.20
+Cappuccino        3           5.30
+                             15.90
+Ham bagel         1          10.60
+
+Subtotal                     72.90
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -1.06
+ Buy 2x Ham bagel, save 20%
+                             -4.24
+
+GST Included                  6.15
+Total                        67.60
+
+Payments
+Loyalty Points               67.60
+
+Reference 2209696:230305:00306
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            10/02/2023            
+
+Terminal 004
+Cashier Theresa
+
+Aquaerobics       3          12.60
+                             37.80
+Shampoo           3           5.30
+                             15.90
+Sync diving       2          21.00
+                             42.00
+Towel             1          15.80
+
+Subtotal                    111.50
+
+* Promotions
+ 10% off Shampoo
+                             -1.59
+
+GST Included                  9.99
+Total                       109.91
+
+Payments
+EFTPOS                      109.91
+
+Reference 5593822:230210:00165
+
+            Drive safe            
+----------------------------------

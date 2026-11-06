@@ -1,0 +1,37 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            03/05/2023            
+
+Terminal 003
+Cashier Leslie
+Customer Dorothy
+
+Mocha             3           3.70
+                             11.10
+Cappuccino        2           5.30
+                             10.60
+Ham toastie       2           6.90
+                             13.80
+Mocha             2           3.70
+                              7.40
+
+Subtotal                     42.90
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -1.06
+
+GST Included                  3.80
+Total                        41.84
+
+Payments
+EFTPOS                       41.84
+
+     You earnt 4,184 points!      
+
+Reference 2209696:230503:00388
+
+           See you soon           
+----------------------------------

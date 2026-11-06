@@ -1,0 +1,31 @@
+{
+    "business_match": "Please Bring Pizza Pronto",
+    "abn_match": "9626510",
+    "date": "2026-04-24",
+    "month": 4,
+    "year": 2026,
+    "terminal": "005",
+    "cashier": "Amber",
+    "customer": "Andrew",
+    "reference": "9626510:260424:02018",
+    "items": [
+        {
+            "product": "Hawaiian",
+            "quantity": 3,
+            "unit_price": 14.6,
+            "total_price": 43.8
+        },
+        {
+            "product": "Chips",
+            "quantity": 2,
+            "unit_price": 7.3,
+            "total_price": 14.6
+        }
+    ],
+    "subtotal": "63.90",
+    "gst": "5.72",
+    "total": "62.90",
+    "payment": {
+        "Loyalty Points": 62.9
+    }
+}

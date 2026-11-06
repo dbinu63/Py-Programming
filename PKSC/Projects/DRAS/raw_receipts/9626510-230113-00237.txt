@@ -1,0 +1,32 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            13/01/2023            
+
+Terminal 003
+Cashier Christian
+
+Just Cheese       1          12.60
+Three meat        2          16.80
+                             33.60
+Cheese bread      3           6.30
+                             18.90
+Cheese bread      1           6.30
+
+Subtotal                     71.40
+
+* Promotions
+ 5% off Three meat
+                             -1.68
+
+GST Included                  6.34
+Total                        69.72
+
+Payments
+EFTPOS                       69.72
+
+Reference 9626510:230113:00237
+
+           See you soon           
+----------------------------------

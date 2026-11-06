@@ -1,0 +1,38 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2025-09-08",
+    "month": 9,
+    "year": 2025,
+    "terminal": "003",
+    "cashier": "Eric",
+    "customer": "Ashlee",
+    "reference": "3795898:250908:01201",
+    "items": [
+        {
+            "product": "Pomade",
+            "quantity": 1,
+            "unit_price": 14.4,
+            "total_price": 14.4
+        },
+        {
+            "product": "Razorblade",
+            "quantity": 1,
+            "unit_price": 17.2,
+            "total_price": 17.2
+        },
+        {
+            "product": "Broom",
+            "quantity": 1,
+            "unit_price": 44.8,
+            "total_price": 44.8
+        }
+    ],
+    "subtotal": "98.90",
+    "gst": "8.99",
+    "total": "98.90",
+    "payment": {
+        "BPAY": 19.78,
+        "Debit Card": 79.12
+    }
+}

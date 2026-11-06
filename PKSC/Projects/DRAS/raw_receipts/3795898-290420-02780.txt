@@ -1,0 +1,39 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            20/04/2029            
+
+Terminal 002
+Cashier Justin
+Customer Rebecca
+
+Hairwax           2          17.60
+                             35.20
+Spray bottle      3          26.80
+                             80.40
+Shaving cream     2          16.60
+                             33.20
+Cape white        1          61.50
+
+Subtotal                    210.30
+
+* Promotions
+ 25% off Spray bottle
+                            -20.10
+ 25% off Hairwax
+                             -8.80
+
+GST Included                 16.49
+Total                       181.40
+
+Payments
+Loyalty Points              173.50
+Gift Card                     7.90
+
+      You earnt 790 points!       
+
+Reference 3795898:290420:02780
+
+            Drive safe            
+----------------------------------

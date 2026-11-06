@@ -1,0 +1,33 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            05/01/2029            
+
+Terminal 001
+Cashier Barbara
+Customer Shelley
+
+Pomade            2          17.60
+                             35.20
+Pomade            2          17.60
+                             35.20
+
+Subtotal                     70.40
+
+* Promotions
+ Buy 2x Pomade, save 10%
+                             -7.04
+
+GST Included                  5.76
+Total                        63.36
+
+Payments
+BPAY                         63.36
+
+     You earnt 6,336 points!      
+
+Reference 3795898:290105:02642
+
+     Pleasure doing business      
+----------------------------------

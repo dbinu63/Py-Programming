@@ -1,0 +1,35 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            17/09/2028            
+
+Terminal 003
+Cashier Levi
+
+Garlic bread      3           7.90
+                             23.70
+Garlic bread      2           7.90
+                             15.80
+Pancakes          2           9.30
+                             18.60
+Pepperoni         3          17.20
+                             51.60
+
+Subtotal                    109.70
+
+* Promotions
+ Buy 2x Garlic bread, save 30%
+                             -9.48
+
+GST Included                  9.11
+Total                       100.22
+
+Payments
+Credit Card                  50.11
+Debit Card                   50.11
+
+Reference 9626510:280917:03612
+
+     Pleasure doing business      
+----------------------------------

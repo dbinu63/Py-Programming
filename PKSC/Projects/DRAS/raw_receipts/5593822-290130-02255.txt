@@ -1,0 +1,31 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            30/01/2029            
+
+Terminal 001
+Cashier Kevin
+Customer Ashley
+
+Hot chips         3           7.10
+                             21.30
+Aquaerobics       1          16.60
+Hot chips         2           7.10
+                             14.20
+
+Subtotal                     52.10
+
+GST Included                  4.74
+Total                        52.10
+
+Payments
+BPAY                         31.26
+Debit Card                   20.84
+
+     You earnt 5,210 points!      
+
+Reference 5593822:290130:02255
+
+            Thank you             
+----------------------------------

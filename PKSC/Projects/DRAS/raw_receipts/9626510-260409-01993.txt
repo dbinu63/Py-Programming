@@ -1,0 +1,30 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            09/04/2026            
+
+Terminal 002
+Cashier Ronald
+Customer Jeremy
+
+Cheese bread      2           7.30
+                             14.60
+Cheese bread      1           7.30
+Spicy chicken     2          15.80
+                             31.60
+Hawaiian          3          14.60
+                             43.80
+
+Subtotal                     97.30
+
+GST Included                  8.85
+Total                        97.30
+
+Payments
+Loyalty Points               97.30
+
+Reference 9626510:260409:01993
+
+           Stay healthy           
+----------------------------------

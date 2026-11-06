@@ -1,0 +1,32 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            20/06/2023            
+
+Terminal 001
+Cashier Scott
+
+Latte             2           4.20
+                              8.40
+Latte             2           4.20
+                              8.40
+English muffin    2           6.30
+                             12.60
+
+Subtotal                     29.40
+
+* Promotions
+ 10% off English muffin
+                             -1.26
+
+GST Included                  2.56
+Total                        28.14
+
+Payments
+BPAY                         28.14
+
+Reference 2209696:230620:00455
+
+     Pleasure doing business      
+----------------------------------

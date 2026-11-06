@@ -1,0 +1,28 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            09/12/2026            
+
+Terminal 001
+Cashier Kevin
+
+Shampoo           3           6.20
+                             18.60
+Water bottle      3           8.60
+                             25.80
+Water bottle      2           8.60
+                             17.20
+
+Subtotal                     61.60
+
+GST Included                  5.60
+Total                        61.60
+
+Payments
+Cash                         61.60
+
+Reference 5593822:261209:01440
+
+            Drive safe            
+----------------------------------

@@ -1,0 +1,26 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2028-10-24",
+    "month": 10,
+    "year": 2028,
+    "terminal": "004",
+    "cashier": "Kevin",
+    "customer": "Kenneth",
+    "reference": "5593822:281024:02139",
+    "items": [
+        {
+            "product": "Aquaerobics",
+            "quantity": 3,
+            "unit_price": 15.8,
+            "total_price": 47.4
+        }
+    ],
+    "subtotal": "60.80",
+    "gst": "4.67",
+    "total": "51.32",
+    "payment": {
+        "BPAY": 25.66,
+        "Credit Card": 25.66
+    }
+}

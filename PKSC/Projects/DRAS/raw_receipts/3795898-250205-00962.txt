@@ -1,0 +1,28 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            05/02/2025            
+
+Terminal 002
+Cashier Eric
+
+Razorblade        2          17.20
+                             34.40
+
+Subtotal                     34.40
+
+* Promotions
+ Buy 2x Razorblade, save 5%
+                             -1.72
+
+GST Included                  2.97
+Total                        32.68
+
+Payments
+Debit Card                   32.68
+
+Reference 3795898:250205:00962
+
+           Stay healthy           
+----------------------------------

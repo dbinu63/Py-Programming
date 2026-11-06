@@ -1,0 +1,28 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            28/06/2028            
+
+Terminal 001
+Cashier Natasha
+
+Hairwax           2          16.60
+                             33.20
+Shaving cream     1          15.80
+Shaving cream     3          15.80
+                             47.40
+Pomade            1          16.60
+
+Subtotal                    113.00
+
+GST Included                 10.27
+Total                       113.00
+
+Payments
+EFTPOS                      113.00
+
+Reference 3795898:280628:02401
+
+           See you soon           
+----------------------------------

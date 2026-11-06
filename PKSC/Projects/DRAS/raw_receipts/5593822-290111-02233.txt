@@ -1,0 +1,33 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            11/01/2029            
+
+Terminal 002
+Cashier Donna
+
+Shampoo           3           7.10
+                             21.30
+Towel             2          20.60
+                             41.20
+
+Subtotal                     62.50
+
+* Promotions
+ Buy 2x Shampoo, save 20%
+                             -2.84
+ Buy 2x Towel, save 15%
+                             -6.18
+
+GST Included                  4.86
+Total                        53.48
+
+Payments
+Cash                         41.20
+Gift Card                    12.28
+
+Reference 5593822:290111:02233
+
+           See you soon           
+----------------------------------

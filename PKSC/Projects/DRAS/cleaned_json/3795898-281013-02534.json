@@ -1,0 +1,38 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2028-10-13",
+    "month": 10,
+    "year": 2028,
+    "terminal": "002",
+    "cashier": "Michael",
+    "customer": "Angela",
+    "reference": "3795898:281013:02534",
+    "items": [
+        {
+            "product": "Hairwax",
+            "quantity": 3,
+            "unit_price": 16.6,
+            "total_price": 49.8
+        },
+        {
+            "product": "Pomade",
+            "quantity": 2,
+            "unit_price": 16.6,
+            "total_price": 33.2
+        },
+        {
+            "product": "Hairwax",
+            "quantity": 1,
+            "unit_price": 16.6,
+            "total_price": 16.6
+        }
+    ],
+    "subtotal": "99.60",
+    "gst": "9.05",
+    "total": "99.60",
+    "payment": {
+        "Loyalty Points": 94.4,
+        "Credit Card": 5.2
+    }
+}

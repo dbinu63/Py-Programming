@@ -1,0 +1,37 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            13/06/2024            
+
+Terminal 002
+Cashier Tara
+Customer Jeremy
+
+Soft drink 2L     3           5.00
+                             15.00
+Cheese bread      3           6.60
+                             19.80
+Cheese bread      2           6.60
+                             13.20
+
+Subtotal                     48.00
+
+* Promotions
+ Buy 3x Soft drink 2L, save 15%
+                             -2.25
+ Buy 2x Cheese bread, save 5%
+                             -1.32
+
+GST Included                  4.04
+Total                        44.43
+
+Payments
+BPAY                         44.43
+
+     You earnt 4,443 points!      
+
+Reference 9626510:240613:00949
+
+            Drive safe            
+----------------------------------

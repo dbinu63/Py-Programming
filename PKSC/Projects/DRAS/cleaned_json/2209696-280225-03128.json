@@ -1,0 +1,38 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2028-02-25",
+    "month": 2,
+    "year": 2028,
+    "terminal": "003",
+    "cashier": "Scott",
+    "customer": "Sandra",
+    "reference": "2209696:280225:03128",
+    "items": [
+        {
+            "product": "Salmon bagel",
+            "quantity": 1,
+            "unit_price": 15.8,
+            "total_price": 15.8
+        },
+        {
+            "product": "Salmon bagel",
+            "quantity": 1,
+            "unit_price": 15.8,
+            "total_price": 15.8
+        },
+        {
+            "product": "Mocha",
+            "quantity": 2,
+            "unit_price": 4.8,
+            "total_price": 9.6
+        }
+    ],
+    "subtotal": "41.20",
+    "gst": "3.75",
+    "total": "41.20",
+    "payment": {
+        "Cash": 13.1,
+        "Debit Card": 28.1
+    }
+}

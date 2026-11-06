@@ -1,0 +1,32 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            29/05/2028            
+
+Terminal 001
+Cashier Olivia
+
+Spray bottle      2          25.40
+                             50.80
+Pomade            3          16.60
+                             49.80
+Razorblade        3          19.60
+                             58.80
+
+Subtotal                    159.40
+
+* Promotions
+ Buy 3x Razorblade, save 20%
+                            -11.76
+
+GST Included                 13.42
+Total                       147.64
+
+Payments
+Cash                        147.65
+
+Reference 3795898:280529:02365
+
+           See you soon           
+----------------------------------

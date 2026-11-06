@@ -1,0 +1,35 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            07/01/2023            
+
+Terminal 005
+Cashier Leslie
+
+Salmon bagel      3          12.60
+                             37.80
+English muffin    1           6.30
+Ham bagel         1          10.60
+Cappuccino        2           5.30
+                             10.60
+
+Subtotal                     65.30
+
+* Promotions
+ Buy 2x Cappuccino, save 10%
+                             -1.06
+ 10% off English muffin
+                             -0.63
+
+GST Included                  5.78
+Total                        63.61
+
+Payments
+BPAY                         31.81
+Debit Card                   31.81
+
+Reference 2209696:230107:00233
+
+            Thank you             
+----------------------------------

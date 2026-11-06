@@ -1,0 +1,33 @@
+----------------------------------
+    Please Bring Pizza Pronto     
+          ABN 962 65 10           
+
+            06/06/2024            
+
+Terminal 003
+Cashier Ronald
+
+Ham and Cheese    3          13.20
+                             39.60
+Ham and Cheese    3          13.20
+                             39.60
+Ham and Cheese    2          13.20
+                             26.40
+
+Subtotal                    105.60
+
+* Promotions
+ Buy 3x Ham and Cheese, save 5%
+                             -3.96
+
+GST Included                  9.24
+Total                       101.64
+
+Payments
+Cash                         60.45
+EFTPOS                       41.19
+
+Reference 9626510:240606:00941
+
+           See you soon           
+----------------------------------

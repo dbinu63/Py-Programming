@@ -1,0 +1,31 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            24/04/2024            
+
+Terminal 003
+Cashier Eric
+
+Cape grey         1          48.80
+Face wipes        2          10.60
+                             21.20
+Face wipes        3          10.60
+                             31.80
+
+Subtotal                    101.80
+
+* Promotions
+ 10% off Cape grey
+                             -4.88
+
+GST Included                  8.81
+Total                        96.92
+
+Payments
+EFTPOS                       96.92
+
+Reference 3795898:240424:00665
+
+     Pleasure doing business      
+----------------------------------

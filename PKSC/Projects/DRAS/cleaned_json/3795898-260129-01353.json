@@ -1,0 +1,26 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2026-01-29",
+    "month": 1,
+    "year": 2026,
+    "terminal": "003",
+    "cashier": "Jonathon",
+    "customer": "Mariah",
+    "reference": "3795898:260129:01353",
+    "items": [
+        {
+            "product": "Cape grey",
+            "quantity": 2,
+            "unit_price": 54.0,
+            "total_price": 108.0
+        }
+    ],
+    "subtotal": "108.00",
+    "gst": "9.82",
+    "total": "108.00",
+    "payment": {
+        "Cash": 47.35,
+        "EFTPOS": 60.65
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "business_match": "Penguin Swim School",
+    "abn_match": "5593822",
+    "date": "2027-03-23",
+    "month": 3,
+    "year": 2027,
+    "terminal": "003",
+    "cashier": "Donna",
+    "customer": "Elizabeth",
+    "reference": "5593822:270323:01554",
+    "items": [
+        {
+            "product": "Casual access",
+            "quantity": 2,
+            "unit_price": 7.6,
+            "total_price": 15.2
+        }
+    ],
+    "subtotal": "15.20",
+    "gst": "1.38",
+    "total": "15.20",
+    "payment": {
+        "Cash": 15.2
+    }
+}

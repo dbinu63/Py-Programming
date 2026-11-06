@@ -1,0 +1,26 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            04/05/2023            
+
+Terminal 003
+Cashier Anthony
+Customer Jonathan
+
+Hairspray         1          26.20
+Cape white        2          46.80
+                             93.60
+
+Subtotal                    119.80
+
+GST Included                 10.89
+Total                       119.80
+
+Payments
+Loyalty Points              119.80
+
+Reference 3795898:230504:00299
+
+           Stay healthy           
+----------------------------------

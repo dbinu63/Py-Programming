@@ -1,0 +1,25 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            29/12/2023            
+
+Terminal 001
+Cashier Eric
+
+Spray bottle      1          20.60
+Spray bottle      2          20.60
+                             41.20
+
+Subtotal                     61.80
+
+GST Included                  5.62
+Total                        61.80
+
+Payments
+EFTPOS                       61.80
+
+Reference 3795898:231229:00541
+
+              Cheers              
+----------------------------------

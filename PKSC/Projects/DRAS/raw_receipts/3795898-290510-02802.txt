@@ -1,0 +1,36 @@
+----------------------------------
+       Ed's Barber Supplies       
+          ABN 379 58 98           
+
+            10/05/2029            
+
+Terminal 005
+Cashier Ebony
+
+Hair tonic        2          16.60
+                             33.20
+Cape white        3          61.50
+                            184.50
+Spray bottle      3          26.80
+                             80.40
+Hairwax           3          17.60
+                             52.80
+
+Subtotal                    350.90
+
+* Promotions
+ 25% off Spray bottle
+                            -20.10
+ 25% off Hairwax
+                            -13.20
+
+GST Included                 28.87
+Total                       317.60
+
+Payments
+Credit Card                 317.60
+
+Reference 3795898:290510:02802
+
+           Stay healthy           
+----------------------------------

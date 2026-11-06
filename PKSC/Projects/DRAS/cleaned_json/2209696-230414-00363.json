@@ -1,0 +1,26 @@
+{
+    "business_match": "Wake Up with Coffee",
+    "abn_match": "2209696",
+    "date": "2023-04-14",
+    "month": 4,
+    "year": 2023,
+    "terminal": "002",
+    "cashier": "Leslie",
+    "customer": "Sandra",
+    "reference": "2209696:230414:00363",
+    "items": [
+        {
+            "product": "Cappuccino",
+            "quantity": 1,
+            "unit_price": 5.3,
+            "total_price": 5.3
+        }
+    ],
+    "subtotal": "5.30",
+    "gst": "0.48",
+    "total": "5.30",
+    "payment": {
+        "Loyalty Points": 4.25,
+        "Debit Card": 1.05
+    }
+}

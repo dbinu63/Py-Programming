@@ -1,0 +1,19 @@
+{
+    "business_match": "Ed's Barber Supplies",
+    "abn_match": "3795898",
+    "date": "2026-02-04",
+    "month": 2,
+    "year": 2026,
+    "terminal": "003",
+    "cashier": "Eric",
+    "customer": "Samantha",
+    "reference": "3795898:260204:01366",
+    "items": [],
+    "subtotal": "23.70",
+    "gst": "2.15",
+    "total": "23.70",
+    "payment": {
+        "Loyalty Points": 6.85,
+        "Gift Card": 16.85
+    }
+}

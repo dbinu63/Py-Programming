@@ -1,0 +1,30 @@
+----------------------------------
+       Penguin Swim School        
+          ABN 559 38 22           
+
+            06/06/2023            
+
+Terminal 002
+Cashier Theresa
+Customer Kenneth
+
+Aquaerobics       1          12.60
+Aquaerobics       2          12.60
+                             25.20
+Egg+Bac burger    2           5.30
+                             10.60
+
+Subtotal                     48.40
+
+GST Included                  4.40
+Total                        48.40
+
+Payments
+Credit Card                  48.40
+
+     You earnt 4,840 points!      
+
+Reference 5593822:230606:00278
+
+           See you soon           
+----------------------------------
